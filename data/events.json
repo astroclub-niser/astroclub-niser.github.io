@@ -1,0 +1,20 @@
+{
+    "year23": [
+        {
+            "eventName": "asdasd",
+            "eventDate": "",
+            "shortDesc": "",
+            "blogEntry": "",
+            "images": []
+        }
+    ],
+    "year21": [
+        {
+            "eventName": "COSNOVA: Symphony from Chaos!",
+            "eventDate": "October 2021",
+            "shortDesc": "COSNOVA was an online Inter-College Astronomy Competition that was organized by NAC, with events including Astro Treasure Hunt, Logo-Making, 'Elucidate' and a classic Astro Quiz.",
+            "blogEntry": "",
+            "images": ["cosnova21/1.png"]
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "year23": [
+        {
+            "title": "Introduction to Cosmology",
+            "date": "October 20, 2023",
+            "speaker": "Abhinav Roy",
+            "speaker_desc": "Int. M.Sc. (B20), SPS, NISER",
+            "poster": "",
+            "youtubeID": "xHIQ9tcUKeY",
+            "abstract": "Cosmology is the study of the physical universe and due to both theoretical and observational developments, it has made enormous strides in the past 100 years. Cosmology has answered age-old questions involving the universe's age, geometry, and composition. In this talk, we will see the journey of cosmology as a science, learn more about our universe, and discuss the efforts of a few to answer the questions of many."
+        },
+        {
+            "title": "Orbital Dynamics near Lagrange Points",
+            "date": "October 14, 2023",
+            "speaker": "Sri Uma Maheshwari",
+            "speaker_desc": "Int. M.Sc. (B22), SPS, NISER",
+            "poster": "",
+            "youtubeID": "Ck-VpP-x1FA",
+            "abstract": "Many satellites, such as Aditya L1 and JWST, are seated at specific vantage points in space called Lagrange points. This talk will go step by step through the process of finding a numerical solution to an analytically unsolvable physical problem and also discuss the orbits of known astronomical objects around these points."
+        },
+        {
+            "title": "Introductory Talk: An Introduction to Positional Astronomy",
+            "date": "October 9, 2023",
+            "speaker": "Gayatri P",
+            "speaker_desc": "Int. M.Sc. (B22), SPS, NISER",
+            "poster": "",
+            "youtubeID": "xhRCo_LLqLc?start=2163",
+            "abstract": "When you look at the night sky, you are greeted with the familiar sparkling points of light situated on the surface of a vast sphere of which you are at the centre. But to make any astronomical observation, you need to know precisely where to look, that is, the location of celestial objects in our night sky. Spherical or positional astronomy is a sub-field of astronomy that deals with the directions in which these celestial objects are viewed and predicts how they vary over space and time. One of the most ancient forms of science, here we learn how to locate objects on the celestial sphere — as seen at a particular date, time, and location on Earth — just as we measure positions on Earth's surface by Latitude and Longitude. Along the way, we also will encounter certain astronomical phenomena observed on Earth."
+        },
+        {
+            "title": "Introductory Talk: An introduction to Astrophotography and the photo of the moon",
+            "date": "October 9, 2023",
+            "speaker": "Vishal Meena",
+            "speaker_desc": "Int. M.Sc. (B22), SCS, NISER",
+            "poster": "",
+            "youtubeID": "xhRCo_LLqLc?start=1043",
+            "abstract": "This talk will introduce the basics of astrophotography, with a focus on a photo of the moon that our club recently took. We will discuss the equipment and techniques that we used to capture the photo, as well as the challenges and rewards of astrophotography. The photo of the moon that we will be discussing is a high-resolution image that was taken using a telescope and a specialized sensor. The photo shows the moon in stunning detail, including its craters, mountains, and valleys. We will discuss how we captured the photo and how we processed the data to achieve such high quality."
+        },
+        {
+            "title": "Introductory Talk: Search for water in the Universe",
+            "date": "October 9, 2023",
+            "speaker": "Asmi Nandy",
+            "speaker_desc": "Int. M.Sc. (B22), SCS, NISER",
+            "poster": "",
+            "youtubeID": "xhRCo_LLqLc",
+            "abstract": "For the longest time, we have been curious about the existence of life beyond Earth. Are we really alone in the Universe? This is a question we have been asking ourselves for quite some time. Water is supposed to be the a priori requirement that enabled life to evolve on our planet. It makes sense thus that we look for it elsewhere in the search for our brethren in space. How do we look for water, then? What are the processes used to detect its presence someplace millions of light years away from us? And how successful have we been in our search until now? Join us for the discussion session to find out!"
+        },
+        {
+            "title": "Laboratory astrochemistry techniques for investigating kinetics of reactions in space",
+            "date": "September 9, 2023",
+            "speaker": "Aditi Pradhan",
+            "speaker_desc": "Int. M.Sc. (Batch 19), SCS, NISER",
+            "poster": "",
+            "youtubeID": "ATTW-qrkLJ8",
+            "abstract": "Over 200 species have been detected in the cold, neutral regions of the ISM over the past 80 years. The existence of such a rich and diverse range of chemistry even at very low temperatures and densities, raises several interesting questions about the origin of these species and how the energy barrier for reactions is surpassed at such low temperatures. The hunt for answers has led to the highly interdisciplinary field of Astrochemistry. Astrochemistry proceeds on 3 interlinked fronts, namely - observations, modelling and laboratory experiments. Laboratory astrochemistry is central to enhancing our understanding of the present composition of ISM, as well as the chemical origins of the universe. Laboratory spectroscopy aids observations in confirming the detection of new species in space. On the modelling front, parameters such as rate constants and branching ratios are required and can only be measured experimentally. The measurement of these parameters in a laboratory while mimicking the conditions in space, is a multi-fold challenge. This has led to the development of several novel experimental techniques, and innovative combinations of existing methods. The aim of this talk is therefore, to highlight the various experimental techniques involved in laboratory astrochemistry. More specifically, I will be discussing the novel CRESUCHIRP apparatus developed by Dr. Ian Sims and his group at the University of Rennes, where I worked over the summer."
+        },
+        {
+            "title": "X-Ray Binaries and Use of MESA",
+            "date": "September 2, 2023",
+            "speaker": "Pulkit Ojha",
+            "speaker_desc": "Research Assistant, IMSc, Chennai (B18 Alumni)",
+            "poster": "",
+            "youtubeID": "EUgdumX9SyQ",
+            "abstract": "Binary stars, comprising more than 90% of the stars we see in our night sky, play a significant role in all kinds of astrophysical research. A peculiarly interesting category is x-ray binary, which happens to have compact stellar remnants, specifically a neutron star as one of their components. X-ray binaries act as space-based laboratories, allowing us to study the physics of accretion and the neutron star with good proximity observations. They also serve as progenitor systems to some exotic objects like millisecond pulsars and ultra-compact binaries releasing gravitational waves. For more than a year now, I've been working on modelling a class of such X-ray binaries using tools like MESA(Modules of Experiments in Stellar Astrophysics), the state-of-the-art Fortran-based 1D stellar simulation package. In the talk, I plan to start with a discussion about different classes of X-ray binaries and their wide applicability in astrophysics in the first part. Secondly, I’ll present a small overview of my thesis work and the significance of such theoretical studies. I’ll conclude the talk by talking about MESA, why it is important for anyone interested in working in astrophysics and how to use it as a beginner."
+        },
+        {
+            "title": "Magnetic Field of Stars ",
+            "date": "August 19, 2023",
+            "speaker": "Monu Kumar Choubey",
+            "speaker_desc": "Int. M.Sc. (Batch 20)",
+            "poster": "",
+            "youtubeID": "igfQQn2Zn-g",
+            "abstract": "In this talk, I will introduce the study of magnetic field of stellar bodies, including their origin, modeling, observation and interpretation. There's a special focus on Sun and sun-like stars, extending to white dwarfs and other stellar bodies. Lastly, there's brief mention of exotic bodies like neutron stars and magnetars."
+        },
+        {
+            "title": "The Ballet of the Medicean Stars",
+            "date": "August 12, 2023",
+            "speaker": "Shreya Jay  &  Samarth Mohan Nanjannavar",
+            "speaker_desc": "Int. M.Sc. (B21), SPS, NISER",
+            "poster": "",
+            "youtubeID": "jJlra_udsA0",
+            "abstract": "The main aim is to find out the time-period of 4 bright moons of  Jupiter (IO, Callisto, Ganymede, and Europa) on pure experimental background i.e., without using any theoretical knowledge. We present to you the first experiment that the NAC Experimental team undertook. This was first done by Galileo. The problems encountered during the data analysis were versatile. The logic and method of solving the problems encountered is especially emphasised upon. Further we also used the data to find the mass of Jupiter using some basic literature on the topic."
+        },
+        {
+            "title": "Hunting low-frequency gravitational waves through Pulsar Timing Arrays: The role of Indian Pulsar Timing Array",
+            "date": "July 29, 2023",
+            "speaker": "Dr. Manjari Bagchi",
+            "speaker_desc": "Astrophysicist, IMSc, Chennai",
+            "poster": "",
+            "youtubeID": "",
+            "abstract": "We know that gravity is just the curvature of the spacetime. A mass curves the spacetime around it, and both massive and massless particles follow the curvature of the spacetime. Motion (translational, rotational or vibrational) of massive particles generate ripples in the spacetime or gravitational waves. Like electromagnetic waves, gravitational waves also have a wide range of frequencies. Gravitational waves of different frequencies are created by different sources āand we need different types of detectors to detect them. There is an innovative āmethod to detect low-frequency gravitational waves by using a number of undead stars as the detectors. These low-frequency gravitational waves are caused by mergers of supermassive black holes, and not only one mergers, many mergers resulting a summed-up background wave. As pulsars are the special type of undead star used for this purpose, we call such experiments as Pulsar Timing Array experiments. Presently, there are multiple Pulsar Timing Array experiments ongoing in various continents. These groups recently declared their results revealing a hint of the low-frequency gravitational waves. Indian Pulsar Timing Array (InPTA) is an Indo-Japanese collaboration performing PTA experiment using Indian telescope, the upgraded Giant Metrewave Radio Telescope. In the present talk, I will briefly discuss low-frequency gravitational waves, the basics of a PTA experiment, and the contribution of InPTA in this field."
+        },
+        {
+            "title": "A Misty Mystery: Unraveling Cloud Formation in Alien Skies",
+            "date": "April 22, 2023",
+            "speaker": "Rahul Arora",
+            "speaker_desc": "Int. MSc. (Batch 18), SEPS, NISER",
+            "poster": "",
+            "youtubeID": "0ZD5jV02bo8",
+            "abstract": "Cloud formation plays a key role in the atmospheric dynamics of exoplanets, which can significantly impact their overall climate and habitability. This makes understanding of cloud formation and evolution in exoplanetary atmospheres very critical for interpreting observational data and characterizing these faraway worlds. In this talk, we will explore the various physical and chemical processes that contribute to cloud formation on exoplanets, such as condensation, nucleation, and growth. We will also discuss how cloud properties such as composition, size, and distribution can vary depending on the specific environmental conditions of the exoplanetary atmosphere, such as temperature, pressure, and atmospheric composition. In the end, we will review the current theoretical approaches for studying cloud formation in exoplanets and their impacts on observational interpretation and highlight some of the key challenges and open questions in this rapidly-evolving field of research."
+        },
+        {
+            "title": "Thinking Prebiotically: The study of Chemical Origin of Life and its Astronomical Implications",
+            "date": "March 25, 2023",
+            "speaker": "Adesh Natthuji Thawale",
+            "speaker_desc": "Int. MSc. (Batch 18), SCS, NISER",
+            "poster": "",
+            "youtubeID": "cJRskYH3efk",
+            "abstract": "One of the leading theories for the origin of life is the Chemical Origin of Life, which involves mixing and matching simple molecules to form complex ones. Think of it like a giant chemistry experiment, but instead of baking a cake, we are trying to create life. But if you're feeling adventurous and want to explore more before the talk, we've got some papers at the end that will give you a deeper dive into the topic. Who knows, you might even find your calling in life (pun intended) and become a Chemical Origin of Life researcher. So, join us for a discussion that will be equal parts informative and entertaining. Let's get to the bottom of how life began!"
+        },
+        {
+            "title": "Keep Calm and Let The Planets Form!",
+            "date": "January 28, 2023",
+            "speaker": "Baibhav Srivastava",
+            "speaker_desc": "IISER Berhampur, Batch 18",
+            "poster": "28-01-23.jpg",
+            "youtubeID": "",
+            "abstract": "By now you all surely know that planets form in disk-like structures, called protoplanetary disks, around young stars. But how exactly?"
+        }
+
+    ],
+    "year22": [
+        {
+            "title": "",
+            "date": "",
+            "speaker": "",
+            "speaker_desc": "",
+            "poster": "",
+            "youtubeID": "",
+            "abstract": ""
+        },
+        {
+            "title": "",
+            "date": "",
+            "speaker": "",
+            "speaker_desc": "",
+            "poster": "",
+            "youtubeID": "",
+            "abstract": ""
+        }
+    ] 
+}

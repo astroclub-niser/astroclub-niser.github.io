@@ -1,0 +1,46 @@
+{
+    "astrophotographs": [
+        {
+            "object": "Messier 104 (Sombrero Galaxy)",
+            "photographer": "",
+            "image": "sombrero.jpg",
+            "date": "May 8, 2020",
+            "description": "The dark region there is the galactic dust blocking the light from the stars in the galaxy. The brighter area in the middle is the galactic nucleus with a black-hole on a strict diet. Captured using the 11-inch."
+        },
+        {
+            "object": "Messier 51 (Whirlpool Galaxy)",
+            "photographer": "",
+            "image": "whirlpool-2.jpg",
+            "date": "May 8, 2020",
+            "description": "The larger M51a (NGC5194) and and a photobomb by its lesser known companion M51b(NGC5195). Located within the constellation Canes Venatici."
+        },
+        {
+            "object": "The International Space Station",
+            "photographer": "",
+            "image": "iss.jpeg",
+            "date": "",
+            "description": "This picture was taken by the squad of NAC members at the premises of NISER to witness the ISS skim through the sky. Painstakingly tracked via the 8-inch Skywatcher Equatorial Mount reflecting type telescope with well-trained hands and expert timing, this image carries a signature of intense planning and execution."
+        },
+        {
+            "object": "Pleides Cluster",
+            "photographer": "",
+            "image": "pleides.jpg",
+            "date": "November 27, 2019",
+            "description": "This is an open star cluster very close to Earth and is a brilliant sight to even the naked eye, with the stars going in and out of sight in response to atmospheric turbulence."
+        },
+        {
+            "object": "Milky Way",
+            "photographer": "",
+            "image": "milky-way.jpg",
+            "date": "",
+            "description": "Milky Way galaxy spreading its arms; captured by the members from NISER's backyard."
+        },
+        {
+            "object": "Messier 31 (Andromeda Galaxy)",
+            "photographer": "",
+            "image": "M31.jpg",
+            "date": "October 26, 2019",
+            "description": "The image captures only its bright nucleus owing to its low brightness, apart from light pollution. Upon closer inspection, the galactic arms can be discerned by the sudden dip in intensity around the nucleus."
+        }
+    ]
+}

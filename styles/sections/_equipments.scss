@@ -1,0 +1,58 @@
+.equipments-grid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.equipment {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem 0;
+    width: 90%;
+    padding: 2.5rem;
+    background: #292929;
+    box-shadow: 0 0 30px #0005;
+
+    .rsis-container>div {
+        background-position: center !important;
+    }
+
+    &:nth-child(even) {
+        flex-direction: row-reverse;
+        text-align: right;
+
+        .equipment-details {
+            margin-left: 2.5rem;
+        }
+    }
+
+    &:nth-child(odd) {
+        // flex-direction: row-reverse;
+        // text-align: right;
+
+        .equipment-details {
+            margin-right: 2.5rem;
+        }
+    }
+
+    .equipment-details {
+        font-size: 1.1rem;
+        // margin-right: 2rem;
+
+        h3 {
+            font-size: 2.2rem;
+        }
+
+        h4 {
+            font-family: $sans-serif;
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+        }
+
+        p {
+            margin: 20px 0;
+        }
+    }
+}

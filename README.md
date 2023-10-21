@@ -1,36 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<img align="right" src="/public/logos/nac_logo_dark_circle.png" width=150>
 
-## Getting Started
+# The Official Website of NAC
+Made with [Next.js](https://nextjs.org/). Currently hosted [here](https://astroclub-niser.github.io/).
 
-First, run the development server:
+## Running the site locally
+
+First clone this repository, then run the development server:
 
 ```bash
+npm install # install node_modules if not done already
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result. Edit the files as you like.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## To add/update data
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+* Go to the `data/` folder and update the correspoding `.json` files to add/update events, astrophotographs or talks.
+* Add any correspoding images to the appropriate sub-folder in the `public/` directory, and link the file name in the above mentioned `.json` file.
+* To add a new post correspoding to an event, add the markdown file to the `data/blogs/` and the filename will be the url of the page. Add the file name to the `blogEntry` field in `events.json` file.

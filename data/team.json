@@ -1,0 +1,281 @@
+{
+    "present": [
+        {
+            "name": "Abhinav Roy",
+            "batch": 2020,
+            "image": "user.jpg",
+            "role": "Club Representative",
+            "caption": "",
+            "email": "abhinav.roy@niser.ac.in",
+            "insta": "",
+            "linkedin": ""
+        },
+        {
+            "name": "Niti Singh",
+            "batch": 2020,
+            "image": "user.jpg",
+            "role": "Club Representative",
+            "caption": "",
+            "email": "niti.singh@niser.ac.in",
+            "insta": "",
+            "linkedin": ""
+        },
+        {
+            "name": "Chandan Kumar Sahu",
+            "batch": 2019,
+            "image": "user.jpg",
+            "role": "Core member",
+            "caption": "",
+            "email": "chandankumar.sahu@niser.ac.in",
+            "insta": "",
+            "linkedin": ""
+        },
+        {
+            "name": "Dibya Bharati Pradhan",
+            "batch": 2019,
+            "image": "user.jpg",
+            "role": "Core member",
+            "caption": "",
+            "email": "dibyabharati.pradhan@niser.ac.in",
+            "insta": "",
+            "linkedin": ""
+        },
+        {
+            "name": "R Vasanth Kashyap",
+            "batch": 2019,
+            "image": "user.jpg",
+            "role": "Core member",
+            "caption": "",
+            "email": "vasanth.kashyap@niser.ac.in",
+            "insta": "",
+            "linkedin": ""
+        },
+        {
+            "name": "Abha Vishwakarma",
+            "batch": 2019,
+            "image": "user.jpg",
+            "role": "Core member",
+            "caption": "",
+            "email": "abha.vishwakarma@niser.ac.in",
+            "insta": "",
+            "linkedin": ""
+        },
+        {
+            "name": "Gayathri Santhosh",
+            "batch": 2019,
+            "image": "user.jpg",
+            "role": "Core member",
+            "caption": "",
+            "email": "gayathri.santhosh@niser.ac.in",
+            "insta": "",
+            "linkedin": ""
+        },
+        {
+            "name": "Ratul Das",
+            "batch": 2019,
+            "image": "user.jpg",
+            "role": "Core member",
+            "caption": "",
+            "email": "ratul.das@niser.ac.in",
+            "insta": "",
+            "linkedin": ""
+        },
+        {
+            "name": "Devamrutha IS",
+            "batch": 2019,
+            "image": "user.jpg",
+            "role": "Core member",
+            "caption": "",
+            "email": "devamrutha.is@niser.ac.in",
+            "insta": "",
+            "linkedin": ""
+        },
+        {
+            "name": "Maitrey Sharma",
+            "batch": 2019,
+            "image": "user.jpg",
+            "role": "Core member",
+            "caption": "",
+            "email": "maitrey.sharma@niser.ac.in",
+            "insta": "",
+            "linkedin": ""
+        },
+        {
+            "name": "Aniket Nath",
+            "batch": 2020,
+            "image": "aniket.jpg",
+            "role": "Core member",
+            "caption": "... and the rest is rust and stardust.",
+            "email": "aniket.nath@niser.ac.in",
+            "insta": "https://www.instagram.com/baryonik_matter/",
+            "linkedin": "https://www.linkedin.com/in/aniket-nath-niser"
+        },
+        {
+            "name": "Upasana Das",
+            "batch": 2020,
+            "image": "user.jpg",
+            "role": "Magazine Team Head",
+            "caption": "",
+            "email": "upasana.das@niser.ac.in",
+            "insta": "",
+            "linkedin": ""
+        },
+        {
+            "name": "Anurenj ER",
+            "batch": 2021,
+            "image": "user.jpg",
+            "role": "Talks Representative",
+            "caption": "",
+            "email": "anurenj.er@niser.ac.in",
+            "insta": "",
+            "linkedin": ""
+        },
+        {
+            "name": "Samarth Mohan Nanjannavar",
+            "batch": 2021,
+            "image": "user.jpg",
+            "role": "Experiments Team Head",
+            "caption": "",
+            "email": "samarthm.nanjannavar@niser.ac.in",
+            "insta": "",
+            "linkedin": ""
+        },
+        {
+            "name": "Srusti Sampanna",
+            "batch": 2021,
+            "image": "user.jpg",
+            "role": "Core member",
+            "caption": "",
+            "email": "srusti.sampanna@niser.ac.in",
+            "insta": "",
+            "linkedin": ""
+        },
+        {
+            "name": "Arnab Biswas",
+            "batch": 2022,
+            "image": "arnab.jpg",
+            "role": "Training Committee Lead",
+            "caption": "",
+            "email": "arnab.biswas@niser.ac.in",
+            "insta": "",
+            "linkedin": ""
+        },
+        {
+            "name": "Asmi Nandi",
+            "batch": 2022,
+            "image": "asmi.jpg",
+            "role": "Outreach Coordinator",
+            "caption": "",
+            "email": "asmi.nandy@niser.ac.in",
+            "insta": "https://www.instagram.com/asminandy2003/",
+            "linkedin": "http://www.linkedin.com/in/asminandy"
+        },
+        {
+            "name": "Dipam Naskar",
+            "batch": 2022,
+            "image": "user.jpg",
+            "role": "Newsletter Team Lead",
+            "caption": "",
+            "email": "dipam.naskar@niser.ac.in",
+            "insta": "",
+            "linkedin": ""
+        },
+        {
+            "name": "Gayatri",
+            "batch": 2022,
+            "image": "gayatri.jpg",
+            "role": "Website Coordinator",
+            "caption": "",
+            "email": "gayatri.p@niser.ac.in",
+            "insta": "",
+            "linkedin": ""
+        },
+        {
+            "name": "SriUma Maheshwari",
+            "batch": 2022,
+            "image": "user.jpg",
+            "role": "Induction Team Representative",
+            "caption": "",
+            "email": "sriuma.maheswari@niser.ac.in",
+            "insta": "",
+            "linkedin": ""
+        },
+        {
+            "name": "Tridev Sahu",
+            "batch": 2022,
+            "image": "user.jpg",
+            "role": "Core member",
+            "caption": "",
+            "email": "tridev.sahu@niser.ac.in",
+            "insta": "",
+            "linkedin": ""
+        },
+        {
+            "name": "Vishal Meena",
+            "batch": 2022,
+            "image": "vishal.jpg",
+            "role": "Astrophotography Head",
+            "caption": "",
+            "email": "vishal.meena@niser.ac.in",
+            "insta": "https://www.instagram.com/vishal._.meena0/",
+            "linkedin": "http://www.linkedin.com/in/vishal-meena-ba569b208"
+        }
+    ],
+    "alumni": [
+        {
+            "name": "Anshuman Padhi",
+            "batch": 2018,
+            "image": "user.jpg",
+            "role": "Former Club Representative",
+            "caption": "",
+            "email": "",
+            "insta": "",
+            "linkedin": ""
+        },{
+            "name": "Pulkit Ojha",
+            "batch": 2018,
+            "image": "pulkit.jpg",
+            "caption": "Stars are living organisms. They take birth, produce remnants, die and take rebirths as zombies. ",
+            "email": "pulkitojha0901@gmail.com",
+            "role":"Advisory Committee",
+            "insta": "https://www.instagram.com/o.pulkit",
+            "linkedin": "https://www.linkedin.com/in/pulkit-ojha-9249171b1"
+        },
+        {
+            "name": "Adesh Natthuji Thawale ",
+            "batch": 2018,
+            "image": "adesh.jpg",
+            "caption": "Pale blue dot.",
+            "email": "adesh.thawale@stonybrook.edu",
+            "role":"Clown in chief",
+            "insta": "https://www.instagram.com/nearacidrat.pdf",
+            "linkedin": ""
+        }
+    ],
+    "fics": [
+        {
+            "name": "Dr. Jayesh Mahendra Goyal",
+            "image": "user.jpg",
+            "designation": "Assistant Professor",
+            "school": "School of Earth & Planetary Sciences"
+        },
+        {
+            "name": "Dr. Luke Robert Chamandy",
+            "image": "user.jpg",
+            "designation": "Reader-F",
+            "school": "School of Physical Sciences"
+        },
+        {
+            "name": "Dr. Liton Majumdar",
+            "image": "user.jpg",
+            "designation": "Reader-F",
+            "school": "School of Earth & Planetary Sciences"
+        },
+        {
+            "name": "Dr. Tuhin Ghosh",
+            "image": "user.jpg",
+            "designation": "Reader-F",
+            "school": "School of Physical Sciences"
+        }
+    ]
+}
