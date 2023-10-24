@@ -8,7 +8,7 @@ library.add(faCaretDown)
 import { useState } from 'react';
 
 export interface TalkProps {
-    id:string, title: string, date: string, speaker: string, speaker_desc: string, poster: string, youtubeID: string, abstract: string
+    key:string, title: string, date: string, speaker: string, speaker_desc: string, poster: string, youtubeID: string, abstract: string
 }
 
 function Preview({ youtubeID, poster }: TalkProps) {
@@ -24,7 +24,7 @@ function Preview({ youtubeID, poster }: TalkProps) {
     }
 }
 
-export default function TalkCard({ id, title, date, speaker, speaker_desc, poster, youtubeID, abstract }: TalkProps) {
+export default function TalkCard({ key, title, date, speaker, speaker_desc, poster, youtubeID, abstract }: TalkProps) {
     const [isShowing, setIsShowing] = useState(false);
     const toggleAbstract = () => {
         setIsShowing(!isShowing);
@@ -32,7 +32,7 @@ export default function TalkCard({ id, title, date, speaker, speaker_desc, poste
     // const hasYoutube = youtubeID == "" ? false : true;
 
     return (
-        <figure className="talk" key={id}>
+        <figure className="talk" key={key}>
             {/* {if (hasYoutube) { */}
                 <iframe src={`https://www.youtube.com/embed/${youtubeID}`} title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
             {/* // }} */}
