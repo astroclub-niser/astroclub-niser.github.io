@@ -10,7 +10,7 @@ import localFont from 'next/font/local'
 const inter = Inter({ subsets: ['latin'] })
 const dinnFont = localFont({ src: '../fonts/DINNeuzeitGrotesk.ttf', weight:'400', variable: '--font-dinn' })
 const futuraLightFont = localFont({ src: '../fonts/Futura-Lt-Light.ttf', weight:'300', variable: '--font-futura-lt' })
-const futuraBookFont = localFont({ src: '../fonts/Futura-Lt-Book.ttf', weight:'400', variable: '--font-futura-book' })
+//const futuraBookFont = localFont({ src: '../fonts/Futura-Lt-Book.ttf', weight:'400', variable: '--font-futura-book' })
 
 export const metadata: Metadata = {
   title: 'NISER Astronomy Club',
@@ -24,7 +24,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={`${inter.className} ${futuraBookFont.variable} ${futuraLightFont.variable} ${dinnFont.variable}`}>
+      <body className={`${inter.className} ${futuraLightFont.variable} ${dinnFont.variable}`}>
         <Navbar />
         <main>
           {children}
