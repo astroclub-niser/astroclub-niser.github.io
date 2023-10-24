@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   description: 'We are the Astronomy Club of NISER, Bhubaneswar',
 }
 
-export default async function Team() {
+export default async function FICs() {
   const teamFile = await fs.readFile(process.cwd() + '/data/team.json', 'utf8');
   const teamData = JSON.parse(teamFile);
   return (

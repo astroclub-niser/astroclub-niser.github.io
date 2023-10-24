@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description: 'We are the Astronomy Club of NISER, Bhubaneswar',
 }
 
-const kshitij = () => {
+const Kshitij = () => {
   return (
     <main id="section-magazine">
       <h1 className="page-heading">Kshitij</h1>
@@ -48,4 +48,4 @@ const kshitij = () => {
   )
 }
 
-export default kshitij
+export default Kshitij

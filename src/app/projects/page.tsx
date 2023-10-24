@@ -5,10 +5,10 @@ export const metadata: Metadata = {
   description: 'We are the Astronomy Club of NISER, Bhubaneswar',
 }
 
-const projects = () => {
+const Projects = () => {
   return (
     <div>projects</div>
   )
 }
 
-export default projects
+export default Projects
