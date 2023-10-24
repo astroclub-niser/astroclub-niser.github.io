@@ -21,9 +21,9 @@ export default async function Talks() {
       <h1 className="page-heading">Talks</h1>
       <p className="page-description">An archive of all the talks conducted by the NAC.</p>
 
-      {Object.keys(talksData).map((year) => (
+      {Object.keys(talksData).map((year, index) => (
 
-        <div className="talks-year">
+        <div className="talks-year" key={index}>
           <h2 className="talks-year-label">20{year.substring(4,6)}</h2>
           <div className="talks-grid">
 
