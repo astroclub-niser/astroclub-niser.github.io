@@ -9,6 +9,8 @@ $serif: 'Playfair Display';
 $condensed: var(--font-dinn);
 $sans-serif: var(--font-futura-book);
 
+
+
 html {
     scroll-behavior: smooth;
   }
@@ -250,9 +252,33 @@ p.page-description {
     margin-bottom: 2rem;
 }
 
+button.btn {
+    background: $brown;
+    color: $off-white;
+    padding: 5px 10px;
+    display: inline-block;
+    font-size: 1.2rem;
+    transition: all .1s ease-in;
+    margin-right: 20px;
+
+    &:hover {
+        background: $off-white;
+        color: $dark-blue;
+        box-shadow: 0 0 10px #0008
+    }
+}
+
 @import 'sections/home';
 @import 'sections/team';
 @import 'sections/gallery';
 @import 'sections/about';
 @import 'sections/equipments';
 @import 'sections/talks';
+@import 'sections/magazine';
+
+.astropic-zoom [data-rmiz-modal-overlay="hidden"] {
+    background-color: #050B0F00;
+  }
+.astropic-zoom [data-rmiz-modal-overlay="visible"] {
+    background-color: #050B0Fff;
+  }

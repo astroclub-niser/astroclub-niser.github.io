@@ -8,34 +8,39 @@ export const metadata: Metadata = {
 
 const kshitij = () => {
   return (
-    <main>
+    <main id="section-magazine">
       <h1 className="page-heading">Kshitij</h1>
-      <p></p>
+      <p className="page-description">...</p>
       <button className="btn"><a href="#">Read all</a></button>
       <button className="btn"><a href="#">Want to Contribute?</a></button>
       <div className="magazine-grid">
         <div className="magazine">
-          <Image src={'/Kshitij_Dec_2020.jpg'} width={200} height={300} alt="Kshitij 1.0"></Image>
-          <p className="magazine-issue"></p>
-          <p className="magazine-release"></p>
+          <a target="_blank" href="">
+            <Image src={'/kshitij/Kshitij_May_2020.jpg'} width={320} height={300} alt="Kshitij 1.0"></Image>
+          </a>
+          <p className="magazine-issue">Issue 01</p>
+          <p className="magazine-release">May 2020</p>
+          {/* <p className="magazine-desc">The 1st Edition of Kshitij. Includes a recollection of Chandrayaan 2 landing, RAD@HOME workshop and some fun stuff.</p> */}
+        </div>
+        <div className="magazine">
+          <a target="_blank" href="">
+            <Image src={'/kshitij/Kshitij_Dec_2020.jpg'} width={320} height={300} alt="Kshitij 1.0"></Image>
+          </a><p className="magazine-issue">Issue 02</p>
+          <p className="magazine-release">December 2020</p>
           <p className="magazine-desc"></p>
         </div>
         <div className="magazine">
-          <Image src={'/Kshitij_Dec_2020.jpg'} width={200} height={300} alt="Kshitij 1.0"></Image>
-          <p className="magazine-issue"></p>
-          <p className="magazine-release"></p>
+          <a target="_blank" href="">
+            <Image src={'/kshitij/Kshitij_Dec_2021.jpg'} width={320} height={300} alt="Kshitij 1.0"></Image>
+          </a><p className="magazine-issue">Issue 03</p>
+          <p className="magazine-release">December 2022</p>
           <p className="magazine-desc"></p>
         </div>
         <div className="magazine">
-          <Image src={'/Kshitij_Dec_2020.jpg'} width={200} height={300} alt="Kshitij 1.0"></Image>
-          <p className="magazine-issue"></p>
-          <p className="magazine-release"></p>
-          <p className="magazine-desc"></p>
-        </div>
-        <div className="magazine">
-          <Image src={'/Kshitij_Dec_2020.jpg'} width={200} height={300} alt="Kshitij 1.0"></Image>
-          <p className="magazine-issue"></p>
-          <p className="magazine-release"></p>
+          <a target="_blank" href="https://drive.google.com/file/d/1kaqLiAXlc42GCPFabkorGOYLHxq18ROZ/view">
+            <Image src={'/kshitij/Kshitij_Dec_2022.jpg'} width={320} height={300} alt="Kshitij 1.0"></Image>
+          </a><p className="magazine-issue">Issue 04</p>
+          <p className="magazine-release">December 2022</p>
           <p className="magazine-desc"></p>
         </div>
       </div>

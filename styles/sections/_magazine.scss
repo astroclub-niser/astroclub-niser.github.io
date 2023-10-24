@@ -1,0 +1,23 @@
+#section-magazine {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    & > .btn {
+        margin: 10px 0;
+    }
+}
+
+.magazine-grid {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 60%;
+
+    .magazine {
+        margin: 20px;
+    }
+}

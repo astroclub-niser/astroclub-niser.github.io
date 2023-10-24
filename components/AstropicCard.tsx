@@ -8,13 +8,16 @@ export interface AstroProps {
   description: string,
   img?: string,
 }
+export interface UncontrolledProps {
+  // Custom CSS className to add to the zoomed <dialog>.
+  classDialog?: string
+}
 
-
-export default function AstropicCard({ object, description, img = "/kshitij.jpg" }: AstroProps) {
+export default function AstropicCard({ object, description, img }: AstroProps) {
   return (
     <figure className="gallery-item">
-      <Zoom>
-        <Image src={`/astrophotographs/${img}`} width={600} height={600} alt={`${object}`} />
+      <Zoom classDialog="astropic-zoom">
+        <Image src={`/astrophotographs/${img}`} width={1200} height={1200} alt={`${object}`}/>
       </Zoom>
       <figcaption>
         <p className="astropic-object">&nbsp;{object}&nbsp;</p>

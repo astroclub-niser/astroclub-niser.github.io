@@ -109,7 +109,7 @@
             "abstract": "One of the leading theories for the origin of life is the Chemical Origin of Life, which involves mixing and matching simple molecules to form complex ones. Think of it like a giant chemistry experiment, but instead of baking a cake, we are trying to create life. But if you're feeling adventurous and want to explore more before the talk, we've got some papers at the end that will give you a deeper dive into the topic. Who knows, you might even find your calling in life (pun intended) and become a Chemical Origin of Life researcher. So, join us for a discussion that will be equal parts informative and entertaining. Let's get to the bottom of how life began!"
         },
         {
-            "title": "Keep Calm and Let The Planets Form!",
+            "title": "Keep Calm and Let The Planets Form",
             "date": "January 28, 2023",
             "speaker": "Baibhav Srivastava",
             "speaker_desc": "IISER Berhampur, Batch 18",
@@ -117,26 +117,79 @@
             "youtubeID": "",
             "abstract": "By now you all surely know that planets form in disk-like structures, called protoplanetary disks, around young stars. But how exactly?"
         }
-
     ],
     "year22": [
         {
-            "title": "",
-            "date": "",
-            "speaker": "",
-            "speaker_desc": "",
+            "title": "Surfing through Exoplanets",
+            "date": "November 12th, 2022",
+            "speaker": "Chandan Kumar Sahu",
+            "speaker_desc": "Int. M.sc. B19 SPS, NISER",
             "poster": "",
-            "youtubeID": "",
-            "abstract": ""
+            "link": "",
+            "abstract": "In this vast universe, it is inappropriate to think that Earth is the only planet sustaining life. So, are there really planets outside our solar system that can host life? Billions are spent every year on detection and study of planets which can possibly host life. This talk will be an introduction to the basic methods that are used in the modern era for detection of exoplanets and studying them. I will also hover over the different types of exoplanets and some of their properties. At the end, I will briefly mention current research in the field of exoplanetary systems."
         },
         {
-            "title": "",
-            "date": "",
-            "speaker": "",
-            "speaker_desc": "",
+            "title": "Determination of Solar offset using Cepheids",
+            "date": "November 5th, 2022",
+            "speaker": "Swaroop R Averesekar",
+            "speaker_desc": "Int. M.sc. B19 SPS, NISER",
             "poster": "",
-            "youtubeID": "",
-            "abstract": ""
+            "link": "",
+            "abstract": "The sun's galactocentric radius (RGC) is previously calculated and known. It has also been established that our sun is not located precisely on the galactic plane but is slightly displaced. Previous estimates have calculated this solar offset (z) using sources such as OB stars, young open clusters (YOCs), pulsars, Etc. The right ascension and declination of Cepheids, obtained from The Optical Gravitational Lensing Experiment (OGLE) catalog cross-matched with the GAIA mission's - DR3, provides a way to calculate the z. This talk will give a quick tour into Cepheids, the data, and visualize the sun's coordinates in the milky way galaxy."
+        },
+        {
+            "title": "Introduction to Cosmology: A chronology of the Universe",
+            "date": "October 15th, 2022",
+            "speaker": "Soham Bannerjee",
+            "speaker_desc": "PhD, SPS, NISER",
+            "poster": "",
+            "link": "",
+            "abstract": "Observational Cosmology has come a long way. The Cosmological Principle states that the Universe is spatially homogeneous and isotropic on the largest scales. Hubble's data indirectly proved this principle when he found the relation between the speed and distance of galaxies. The Big Bang model has been widely accepted, which claims that the Universe evolved from a fireball that eventually cools to the structures we see today. Peebles suggested radiation from the early Universe, which was discovered by Penzias and Wilson, as the cosmic microwave background, which gives a compelling foundation for this model. In this talk, the speaker gave an overview of the formation of light nuclei(big bang nucleo-synthesis), recombination(formation of first atoms), the radiation from the early Universe(CMB), and large-scale structure formation."
+        },
+        {
+            "title": "Introduction to Cosmology: Why is the night sky dark?",
+            "date": "September 4th, 2022",
+            "speaker": "Abha Vishwakarma",
+            "speaker_desc": "Int. M.sc., B19 SPS, NISER",
+            "poster": "",
+            "link": "",
+            "abstract": "The night sky appears very different from the earth or the solar system. At a very large scale, large enough to contain many, many galaxy clusters, our universe looks and behaves very differently compared to solar systems, individual galaxies or even clusters of galaxies. Gravity doesn't seem to work according to Newtonian principles. A new theory of gravity, the General Theory of Relativity, formulated by Albert Einstein, sheds light on our understanding of the large-scale universe. In this talk, I will take you through the history that led to the birth of Cosmology, the study of the nature of our universe. I will then develop the notion of 'curvature of the universe', discuss how it can be measured and discuss its implications on the notion of distance between any two points in the universe. This talk covers the prerequisites required to understand the Friedmann equations and the governing equations of the universe's evolution, which will be covered in the next talk. The goal at the end will be to have an interactive talk, where I will simulate universes with different densities of matter, radiation etc. using python and see how it evolves with time."
+        },
+        {
+            "title": "Stellar Astrophysics II: Classification and Evolution of stars",
+            "date": "August 27th, 2022",
+            "speaker": "Vasanth Kashyap, Pulkit Ojha",
+            "speaker_desc": "Int. M.sc. B19, SPS, NISER, Int. M.sc., B18 SPS, NISER",
+            "poster": "",
+            "link": "",
+            "abstract": "In the last talk on stellar astrophysics, the basics of stellar structure and the origin of stars was covered by Vasanth. In the upcoming talk, the classification of stars based upon their spectral luminosity will be discussed and if time permits, we'll also try to present a basic overview of stellar evolution. This talk may be followed by a demonstration of stellar evolution using MESA."
+        },
+        {
+            "title": "Stellar Astrophysics: Origin, Structure and Classification",
+            "date": "August 20th, 2022",
+            "speaker": "Vasanth Kashyap",
+            "speaker_desc": "Int. M.sc., B19 SPS, NISER",
+            "poster": "",
+            "link": "",
+            "abstract": "This is the second talk in the 'Stellar Physics Triad'. In this talk I hope to glance over the fundamentals of stellar astrophysics. Topics of star formation, stellar structure and spectral classification shall be discussed along with their underlying principles with sufficient mathematical detail. It will be followed by brief discussions on Hertzsprung Diagram and Morgan Keenan Luminosity Classes."
+        },
+        {
+            "title": "The Solar Cycle, Magnets, and More",
+            "date": "August 13th, 2022",
+            "speaker": "Ratul Das",
+            "speaker_desc": "Int. M.sc., B20 SPS, NISER",
+            "poster": "",
+            "link": "",
+            "abstract": "The Babcock-Leighton model of the solar dynamo is often noted as the most accurate qualitative mechanism for explaining the Solar cycle, despite being initially formulated about 70 years ago, when only terrestrial data from the Sun was available. It successfully explained how and why sunspots form, along with the relation between the oscillatory 22-year Solar cycle and the evolution of the magnetic field (basically, a whole backflip) of the Sun."
+        },
+        {
+            "title": "Birth of Cosmology",
+            "date": "April 23rd, 2022",
+            "speaker": "Abhinav Roy",
+            "speaker_desc": "Int. M.sc. B20 SPS, NISER",
+            "poster": "",
+            "link": "",
+            "abstract": "Cosmology is the study of the physical universe and due to both theoretical and observational developments, it has made enormous strides in the past 100 years. Cosmology has answered age-old questions involving the universe's age, geometry, and composition. In this talk, we will see the journey of cosmology as a science and the efforts of a few to answer the questions of many."
         }
-    ] 
+    ]
 }
