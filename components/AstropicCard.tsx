@@ -4,20 +4,21 @@ import Zoom from 'react-medium-image-zoom'
 import 'react-medium-image-zoom/dist/styles.css'
 
 export interface AstroProps {
+  id: string,
   object: string,
   description: string,
-  img?: string,
+  image?: string,
 }
 export interface UncontrolledProps {
   // Custom CSS className to add to the zoomed <dialog>.
   classDialog?: string
 }
 
-export default function AstropicCard({ object, description, img }: AstroProps) {
+export default function AstropicCard({ id, object, description, image }: AstroProps) {
   return (
-    <figure className="gallery-item">
+    <figure className="gallery-item" key={id}>
       <Zoom classDialog="astropic-zoom">
-        <Image src={`/astrophotographs/${img}`} width={1200} height={1200} alt={`${object}`}/>
+        <Image src={`/astrophotographs/${image}`} width={1200} height={1200} alt={`${object}`}/>
       </Zoom>
       <figcaption>
         <p className="astropic-object">&nbsp;{object}&nbsp;</p>

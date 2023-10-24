@@ -6,7 +6,9 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faInstagram, faLinkedin } from '@fortawesome/free-brands-svg-icons'
 import { faEnvelope } from '@fortawesome/free-solid-svg-icons'
 const { library, config } = require('@fortawesome/fontawesome-svg-core');
-library.add(faEnvelope, faLinkedin, faInstagram,)
+library.add(faEnvelope, faLinkedin, faInstagram)
+
+import { TeamProps } from '../../../components/PropsPage'
 
 export const metadata: Metadata = {
   title: 'The Team | NISER Astronomy Club',
@@ -22,7 +24,7 @@ export default async function Team() {
       <h2 className="team-heading">Core Committee 2023-24</h2>
 
       <div className="team-grid">
-        {teamData.present.map(({ id, name, batch, image, role, email }) => (
+        {teamData.present.map(({ id, name, batch, image, role, email }: TeamProps) => (
           <figure className="person-card" key={id}>
             <Image src={`/team/${image}`} width={230} height={230} alt={`${name}`}/>
             <figcaption>

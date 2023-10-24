@@ -8,6 +8,8 @@ import { faEnvelope } from '@fortawesome/free-solid-svg-icons'
 const { library, config } = require('@fortawesome/fontawesome-svg-core');
 library.add(faEnvelope, faLinkedin, faInstagram,)
 
+import { FICProps } from "../../../../components/PropsPage";
+
 export const metadata: Metadata = {
   title: 'FICs | NISER Astronomy Club',
   description: 'We are the Astronomy Club of NISER, Bhubaneswar',
@@ -22,7 +24,7 @@ export default async function FICs() {
       <h2 className="team-heading">Faculty Incharges</h2>
 
       <div className="team-grid">
-        {teamData.fics.map(({ id, name, image, designation, school}) => (
+        {teamData.fics.map(({ id, name, image, designation, school}: FICProps) => (
           <figure className="person-card" key={id}>
             <Image src={`/team/${image}`} width={230} height={230} alt={`${name}`}/>
             <figcaption>

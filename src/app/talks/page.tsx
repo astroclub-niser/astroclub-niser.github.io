@@ -1,6 +1,6 @@
 import { Metadata } from "next"
 import { promises as fs } from 'fs';
-import TalkCard from "../../../components/TalkCard";
+import TalkCard, { TalkProps } from "../../../components/TalkCard";
 
 
 export const metadata: Metadata = {
@@ -27,9 +27,9 @@ export default async function Talks() {
           <h2 className="talks-year-label">20{year.substring(4,6)}</h2>
           <div className="talks-grid">
 
-            {talksData[year].map(({ id, title, date, speaker, speaker_desc, poster, youtubeID, abstract }) => (
+            {talksData[year].map(({ id, title, date, speaker, speaker_desc, poster, youtubeID, abstract }: TalkProps) => (
 
-              <TalkCard key={id} title={title} date={date} speaker={speaker} speaker_desc={speaker_desc} poster={poster} youtubeID={youtubeID} abstract={abstract}/>
+              <TalkCard id={id} title={title} date={date} speaker={speaker} speaker_desc={speaker_desc} poster={poster} youtubeID={youtubeID} abstract={abstract}/>
 
             ))}
           </div>

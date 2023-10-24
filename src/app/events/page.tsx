@@ -1,6 +1,7 @@
 import { Metadata } from "next"
 import { promises as fs } from 'fs';
 import Image from "next/image";
+import { EventProps } from "../../../components/PropsPage";
 
 export const metadata: Metadata = {
   title: 'Events | NISER Astronomy Club',
@@ -22,7 +23,7 @@ export default async function Events() {
 
       <div className="events-grid">
         {years.map((year) => (
-          eventsData['year' + year].map(({ id, eventName, eventDate, shortDesc, images, blogEntry }) => (
+          eventsData['year' + year].map(({ id, eventName, eventDate, shortDesc, images, blogEntry }: EventProps) => (
 
             <figure className="event" key={id}>
               <Image src={`/posts/${images[0]}`} width={230} height={230} alt={`${eventName}`} />
