@@ -23,8 +23,8 @@ export default async function Team() {
 
       <div className="team-grid">
         {teamData.present.map(({ id, name, batch, image, role, email }) => (
-          <figure className="person-card">
-            <Image src={`/team/${image}`} width={230} height={230} alt={`${name}`} />
+          <figure className="person-card" key={id}>
+            <Image src={`/team/${image}`} width={230} height={230} alt={`${name}`}/>
             <figcaption>
               <p className="person-name">{name}</p>
               <p className="person-batch">Batch {batch}</p>

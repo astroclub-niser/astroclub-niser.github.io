@@ -23,8 +23,8 @@ export default async function FICs() {
 
       <div className="team-grid">
         {teamData.fics.map(({ id, name, image, designation, school}) => (
-          <figure className="person-card">
-            <Image src={`/team/${image}`} width={230} height={230} alt={`${name}`} />
+          <figure className="person-card" key={id}>
+            <Image src={`/team/${image}`} width={230} height={230} alt={`${name}`}/>
             <figcaption>
               <p className="person-name">{name}</p>
               <p className="person-role">{designation}</p>

@@ -16,7 +16,7 @@ export default async function Gallery () {
 
       <div className="gallery-grid">
         {picsData.astrophotographs.map(({ id, object, image, description }) => (
-            <AstropicCard object={object} description={description} img={image}/>
+            <AstropicCard object={object} description={description} img={image} key={id}/>
           ))}
       </div>
 

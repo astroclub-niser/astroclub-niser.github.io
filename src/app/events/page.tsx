@@ -24,7 +24,7 @@ export default async function Events() {
         {years.map((year) => (
           eventsData['year' + year].map(({ id, eventName, eventDate, shortDesc, images, blogEntry }) => (
 
-            <figure className="event">
+            <figure className="event" key={id}>
               <Image src={`/posts/${images[0]}`} width={230} height={230} alt={`${eventName}`} />
               <p className="event-name">{eventName}</p>
               <p className="event-date">{eventDate}</p>

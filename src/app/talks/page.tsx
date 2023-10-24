@@ -29,7 +29,7 @@ export default async function Talks() {
 
             {talksData[year].map(({ id, title, date, speaker, speaker_desc, poster, youtubeID, abstract }) => (
 
-              <TalkCard title={title} date={date} speaker={speaker} speaker_desc={speaker_desc} poster={poster} youtubeID={youtubeID} abstract={abstract}/>
+              <TalkCard key={id} title={title} date={date} speaker={speaker} speaker_desc={speaker_desc} poster={poster} youtubeID={youtubeID} abstract={abstract}/>
 
             ))}
           </div>
