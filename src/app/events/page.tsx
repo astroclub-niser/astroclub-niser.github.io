@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description: 'We are the Astronomy Club of NISER, Bhubaneswar',
 }
 
-const years = ['21']
+const years = ['23','22','21','19','18']
 
 export default async function Events() {
   const eventsFile = await fs.readFile(process.cwd() + '/data/events.json', 'utf8');
