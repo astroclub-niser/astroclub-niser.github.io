@@ -15,7 +15,6 @@ html {
 }
 
 body {
-    // background: springgreen;
     position: relative;
     font-family: $sans-serif;
     font-weight: 300;
@@ -133,15 +132,8 @@ nav {
 
         ul {
             display: none;
-            // display: block;
             transition: opacity 0.2s ease-in-out;
             transition-delay: .1s;
-            // transform: scale(0);
-            // position: absolute;
-            // top: 0;
-            // left: 0;
-            // right: 0;
-            // bottom: 0;
             font-size: 1.4rem;
             margin: 0 0 0 0;
             opacity: 0;
@@ -159,9 +151,6 @@ nav {
 
             ul {
                 display: block;
-                // transform: scale(1);
-                // font-size: 1.4rem;
-                // margin: 0 0 0 0;
                 opacity: 1;
 
                 li {
@@ -179,14 +168,11 @@ nav {
             }
 
             #nav-open {
-                // display: none;
                 transform: scale(0);
             }
 
             #nav-close {
-                // display: block;
                 transform: scale(1);
-
             }
         }
     }

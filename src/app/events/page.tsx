@@ -2,19 +2,27 @@ import { Metadata } from "next"
 import { promises as fs } from 'fs';
 import Image from "next/image";
 import { EventProps } from "../../../components/PropsPage";
+import Link from "next/link";
 
 export const metadata: Metadata = {
   title: 'Events | NISER Astronomy Club',
   description: 'We are the Astronomy Club of NISER, Bhubaneswar',
 }
 
-const years = ['23','22','21','19','18']
+function BlogEntryBtn({ blogEntry }: { blogEntry: string }) {
+  if (blogEntry) {
+    return (
+      <Link href={`/events/${blogEntry}`}>
+        <button className="btn">Read More</button>
+      </Link>
+    )
+  }
+}
 
 export default async function Events() {
   const eventsFile = await fs.readFile(process.cwd() + '/data/events.json', 'utf8');
   const eventsData = JSON.parse(eventsFile);
-  // let ys = 'year21';
-  // const years = ['year21']
+  const years = ['23', '21', '19', '18']
 
   return (
     <main id="section-events">
@@ -30,6 +38,7 @@ export default async function Events() {
               <p className="event-name">{eventName}</p>
               <p className="event-date">{eventDate}</p>
               <p className="event-desc">{shortDesc}</p>
+              <BlogEntryBtn blogEntry={blogEntry}/>
             </figure>
 
           ))

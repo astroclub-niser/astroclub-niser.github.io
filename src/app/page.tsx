@@ -24,7 +24,8 @@ export default async function Home() {
       <div id="hero" className='section-home'>
         {/* <Image src={'/bg.jpg'} alt='hero' width={1920} height={1080}></Image> */}
         <h1>NISER Astronomy Club</h1>
-        <p>Credit: Hubble?</p>
+        <h4>Website Under Construction!</h4>
+        <p>Credit: Marc Sendra Martorell</p>
       </div>
 
       <div id="hello" className='section-home'>
