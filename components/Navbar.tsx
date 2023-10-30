@@ -7,7 +7,7 @@ import { faCaretDown, faBarsStaggered, faXmark } from '@fortawesome/free-solid-s
 import '../node_modules/@fortawesome/fontawesome-svg-core/styles.css'
 
 const Navbar = () => {
-  const [isMobile, setIsMobile] = useState(globalThis.window.innerWidth < 1120)
+  const [isMobile, setIsMobile] = useState(false)
   const [isMobileOpen, setIsMobileOpen] = useState(false)
 
   const toggleNav = () => {
@@ -15,8 +15,12 @@ const Navbar = () => {
   };
 
   useEffect(() => {
-    globalThis.window.addEventListener("resize", () => {
-      const ismobile = globalThis.window.innerWidth < 900;
+      setIsMobile(window.innerWidth <= 900)
+  }, [])
+
+  useEffect(() => {
+    window.addEventListener("resize", () => {
+      const ismobile = window.innerWidth < 900;
       if (ismobile !== isMobile) setIsMobile(ismobile);
     }, false);
   }, [isMobile]);
