@@ -1,4 +1,15 @@
 {
+    "upcoming": [
+        {
+            "title": "Shapes, Structures and Randomness",
+            "date": "November 11, 2023",
+            "speaker": "Dr. Pravabati Chingangbam",
+            "speaker_desc": "Professor, Indian Institute of Astrophysics",
+            "poster": "11-11-23.png",
+            "youtubeID": "",
+            "abstract": "The talk will introduce morphological descriptors known as scalar and tensorial Minkowski functionals, and Betti numbers. They are geometrical and topological quantities that quantify the morphological information of structures. We will connect these quantities to random fields and discuss how they reveal the statistical nature of the fields. Lastly, some physical  applications will be discussed."
+        }
+    ],
     "year23": [
         {
             "title": "Introduction to Cosmology",
@@ -86,7 +97,7 @@
             "date": "July 29, 2023",
             "speaker": "Dr. Manjari Bagchi",
             "speaker_desc": "Astrophysicist, IMSc, Chennai",
-            "poster": "",
+            "poster": "29-07-23.png",
             "youtubeID": "",
             "abstract": "We know that gravity is just the curvature of the spacetime. A mass curves the spacetime around it, and both massive and massless particles follow the curvature of the spacetime. Motion (translational, rotational or vibrational) of massive particles generate ripples in the spacetime or gravitational waves. Like electromagnetic waves, gravitational waves also have a wide range of frequencies. Gravitational waves of different frequencies are created by different sources āand we need different types of detectors to detect them. There is an innovative āmethod to detect low-frequency gravitational waves by using a number of undead stars as the detectors. These low-frequency gravitational waves are caused by mergers of supermassive black holes, and not only one mergers, many mergers resulting a summed-up background wave. As pulsars are the special type of undead star used for this purpose, we call such experiments as Pulsar Timing Array experiments. Presently, there are multiple Pulsar Timing Array experiments ongoing in various continents. These groups recently declared their results revealing a hint of the low-frequency gravitational waves. Indian Pulsar Timing Array (InPTA) is an Indo-Japanese collaboration performing PTA experiment using Indian telescope, the upgraded Giant Metrewave Radio Telescope. In the present talk, I will briefly discuss low-frequency gravitational waves, the basics of a PTA experiment, and the contribution of InPTA in this field."
         },
@@ -116,6 +127,24 @@
             "poster": "28-01-23.jpg",
             "youtubeID": "",
             "abstract": "By now you all surely know that planets form in disk-like structures, called protoplanetary disks, around young stars. But how exactly?"
+        },
+        {
+            "title": "How did our Earth and Solar system form?",
+            "date": "January 21, 2023",
+            "speaker": "Prathap Rayalacheruvu",
+            "speaker_desc": "PhD Scholar (SEPS), NISER",
+            "poster": "21-01-23.jpg",
+            "youtubeID": "",
+            "abstract": "Our Solar System is believed to have been formed about 4.6 billion years ago in a cold molecular cloud. Its origin and evolution are still a mystery. The present state of planetary bodies, including our own Earth and the life on it are the direct result of various evolutionary processes that these planetary objects have gone through during these many years. Now the question is “Can we trace down the evolutionary processes of the planetary bodies and understand how life came about on planets like our Earth?” In this talk I will introduce you to some astrochemical tools which go a long way in addressing the above question."
+        },
+        {
+            "title": "Alien worlds in the JWST era: No more a Science fiction",
+            "date": "January 14, 2023",
+            "speaker": "Priyankush Ghosh",
+            "speaker_desc": "PhD Scholar (SEPS), NISER",
+            "poster": "14-01-23.jpg",
+            "youtubeID": "",
+            "abstract": "Ever since humanity has existed, it has looked into the night sky and wondered “Is there life elsewhere in the universe?” and “How did our Earth and other planets form and evolve?” Exoplanetary science, a new interdisciplinary field that emerged 25 years ago has the capability to answer just that. This talk involves basic introduction to the far away alien worlds, why are they so interesting, how to find them, what are the current research works going on in the field and what future beholds. I will also discuss how to decode an exoplanet spectrum to search for signs of alien life and its implication with respect to current research."
         }
     ],
     "year22": [

@@ -13,6 +13,8 @@
     "@fortawesome/free-brands-svg-icons": "^6.2.1",
     "@fortawesome/free-solid-svg-icons": "^6.4.2",
     "@fortawesome/react-fontawesome": "^0.2.0",
+    "gray-matter": "^4.0.3",
+    "markdown-to-jsx": "^7.3.2",
     "next": "13.5.4",
     "react": "^18",
     "react-dom": "^18",
@@ -21,6 +23,7 @@
     "save": "^2.9.0"
   },
   "devDependencies": {
+    "@tailwindcss/typography": "^0.5.10",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",

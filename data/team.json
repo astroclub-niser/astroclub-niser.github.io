@@ -13,12 +13,12 @@
         {
             "name": "Niti Singh",
             "batch": 2020,
-            "image": "user.jpg",
+            "image": "niti.jpg",
             "role": "Club Representative",
-            "caption": "",
+            "caption": "Admiring stars for the energy it has? or wishing for its power to withstand the ash?",
             "email": "niti.singh@niser.ac.in",
-            "insta": "",
-            "linkedin": ""
+            "linkedin": "https://www.linkedin.com/in/niti-singh-601653223/",
+            "insta": "https://www.instagram.com/nat_s__009"
         },
         {
             "name": "Chandan Kumar Sahu",
@@ -158,7 +158,7 @@
             "caption": "",
             "email": "arnab.biswas@niser.ac.in",
             "insta": "",
-            "linkedin": ""
+            "linkedin": "http://www.linkedin.com/in/arnab-biswas-036a19296"
         },
         {
             "name": "Asmi Nandi",
@@ -201,14 +201,24 @@
             "linkedin": ""
         },
         {
+            "name": "Shiva Thanay Pandiri",
+            "batch": 2022,
+            "image": "shiva.jpg",
+            "role": "Core member",
+            "caption": "",
+            "email": "shivathanay.pandiri@niser.ac.in",
+            "insta": "",
+            "linkedin": ""
+        },
+        {
             "name": "Tridev Sahu",
             "batch": 2022,
-            "image": "user.jpg",
+            "image": "tridev.jpg",
             "role": "Core member",
             "caption": "",
             "email": "tridev.sahu@niser.ac.in",
-            "insta": "",
-            "linkedin": ""
+            "insta": "https://www.instagram.com/t.r.4.5/",
+            "linkedin": "http://www.linkedin.com/in/tridev-sahu-812812249"
         },
         {
             "name": "Vishal Meena",
@@ -255,25 +265,25 @@
     "fics": [
         {
             "name": "Dr. Jayesh Mahendra Goyal",
-            "image": "user.jpg",
+            "image": "jayesh.jpg",
             "designation": "Assistant Professor",
             "school": "School of Earth & Planetary Sciences"
         },
         {
             "name": "Dr. Luke Robert Chamandy",
-            "image": "user.jpg",
+            "image": "luke.jpg",
             "designation": "Reader-F",
             "school": "School of Physical Sciences"
         },
         {
             "name": "Dr. Liton Majumdar",
-            "image": "user.jpg",
+            "image": "liton.png",
             "designation": "Reader-F",
             "school": "School of Earth & Planetary Sciences"
         },
         {
             "name": "Dr. Tuhin Ghosh",
-            "image": "user.jpg",
+            "image": "tuhin.jpeg",
             "designation": "Reader-F",
             "school": "School of Physical Sciences"
         }

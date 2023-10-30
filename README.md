@@ -18,4 +18,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 * Go to the `data/` folder and update the correspoding `.json` files to add/update events, astrophotographs or talks.
 * Add any correspoding images to the appropriate sub-folder in the `public/` directory, and link the file name in the above mentioned `.json` file.
-* To add a new post correspoding to an event, add the markdown file to the `data/blogs/` and the filename will be the url of the page. Add the file name to the `blogEntry` field in `events.json` file.
+* To add a new post correspoding to an event or project, add the markdown file to the `posts/` folder and the filename will be the url of the page. Add the file name to the `blogEntry` field in `events.json` file.

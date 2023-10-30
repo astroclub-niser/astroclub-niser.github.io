@@ -24,7 +24,7 @@
         text-align: right;
 
         .equipment-details {
-            margin-left: 2.5rem;
+            // margin-left: 2.5rem;
         }
     }
 
@@ -33,13 +33,18 @@
         // text-align: right;
 
         .equipment-details {
-            margin-right: 2.5rem;
+            // margin-right: 2.5rem;
         }
     }
 
     .equipment-details {
+        width: 50%;
+        position: relative;
         font-size: 1.1rem;
         // margin-right: 2rem;
+        & > div {
+            position: relative;
+        }
 
         h3 {
             font-size: 2.2rem;
@@ -54,5 +59,18 @@
         p {
             margin: 20px 0;
         }
+    }
+    .equipment-figures {
+        width: 50%;
+    }
+}
+
+@media (max-width: 760px) {
+    .equipment {
+        // width: 500px;
+        // .equipment-figures > div, .equipment-figures > div > div {
+        //     width: 100%;
+        // }
+
     }
 }

@@ -8,18 +8,24 @@ library.add(faCaretDown)
 import { useState } from 'react';
 
 export interface TalkProps {
-    key:string, title: string, date: string, speaker: string, speaker_desc: string, poster: string, youtubeID: string, abstract: string
+    key: string, title: string, date: string, speaker: string, speaker_desc: string, poster: string, youtubeID: string, abstract: string
 }
 
-function Preview({ youtubeID, poster }: TalkProps) {
-    const hasYoutube = youtubeID.length == 0 ? false : true;
+function Preview({ youtubeID, poster }: { youtubeID: string, poster: string }) {
+    // const hasYoutube = youtubeID == '' ? false : true
+    // const hasPoster = poster == '' ? false : true
+
     if (youtubeID) {
         return (
-            <iframe src={`https://www.youtube.com/embed/${hasYoutube}`} title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+            <iframe src={`https://www.youtube.com/embed/${youtubeID}`} title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+        )
+    } else if (poster) {
+        return (
+            <Image src={`/talks/${poster}`} width={384} height={216} alt={`${poster}`} />
         )
     } else {
         return (
-            <Image src={`/talks/${poster}`} width={230} height={230} alt={`${poster}`} />
+            <Image src={`/blur.jpg`} width={384} height={216} alt={`${poster}`} />
         )
     }
 }
@@ -29,15 +35,10 @@ export default function TalkCard({ key, title, date, speaker, speaker_desc, post
     const toggleAbstract = () => {
         setIsShowing(!isShowing);
     }
-    // const hasYoutube = youtubeID == "" ? false : true;
 
     return (
         <figure className="talk" key={key}>
-            {/* {if (hasYoutube) { */}
-                <iframe src={`https://www.youtube.com/embed/${youtubeID}`} title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
-            {/* // }} */}
-            {/* <Preview youtubeID={youtubeID} poster={poster} /> */}
-            {/* <Image src={`/talks/${images[0]}`} width={230} height={230} alt={`${poster}`} /> */}
+            <Preview youtubeID={youtubeID} poster={poster} />
             <p className="talk-title">{title}</p>
             <p className="talk-date">{date}</p>
             <p className="talk-speaker">{speaker}</p>

@@ -14,7 +14,7 @@
     position: relative;
     height: 100vh;
     overflow: hidden;
-    background: url(../public/bg.jpg) no-repeat fixed center;
+    background: url(../public/marc-sendra-martorell-unsplash.jpg) no-repeat fixed center;
     background-size: cover;
 
     h1 {
@@ -39,8 +39,8 @@
     font-family: $sans-serif;
     font-size: 1.2rem;
     color: $off-white;
-    // background: $dark-blue;
-    background: url(../public/astronaut.jpg) no-repeat fixed center;
+    background: $blue;
+    // background: url(../public/astronaut.jpg) no-repeat fixed center;
     background-size: cover;
     // display: flex;
     // justify-content: center;

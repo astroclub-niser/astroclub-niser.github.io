@@ -52,7 +52,7 @@ const Equipments = () => {
           <div className="equipment-figures">
             <SimpleImageSlider
               style={{ margin: '0 auto'}}
-              width={sliderWidth}
+              width={'100%'}
               height={sliderHeight}
               autoPlay={true}
               images={elevenInch}
