@@ -1,22 +1,19 @@
 "use client";
 import Image from "next/image"
 import Link from "next/link"
-import React, { useState, useEffect, setAc } from "react";
+import React, { useState, useEffect } from "react";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faCaretDown, faBarsStaggered, faXmark } from '@fortawesome/free-solid-svg-icons'
 import '../node_modules/@fortawesome/fontawesome-svg-core/styles.css'
-// const { library, config } = require('@fortawesome/fontawesome-svg-core');
-// library.add(faCaretDown)
 
 const Navbar = () => {
-  // const [navbarOpen, setNavbarOpen] = useState(false);
-  // const className = this.state.isMobile ? 'mobile' : '';
   const [isMobile, setIsMobile] = useState(window.innerWidth < 1120)
   const [isMobileOpen, setIsMobileOpen] = useState(false)
-  // const [isMobile, setIsMobile] = useState(window.innerWidth < 1120);
+
   const toggleNav = () => {
     setIsMobileOpen(!isMobileOpen);
   };
+
   useEffect(() => {
     window.addEventListener("resize", () => {
       const ismobile = window.innerWidth < 900;
@@ -40,7 +37,6 @@ const Navbar = () => {
         <li><Link onClick={toggleNav} href="/about">About&nbsp;Us</Link></li>
         <li><Link onClick={toggleNav} href="/gallery">Gallery</Link></li>
         <li><Link onClick={toggleNav} href="/events">Events</Link></li>
-        {/* <li> <Link href="/projects">Projects</Link></li> */}
         <li className="dropdown"><Link onClick={toggleNav} href="/talks">Talks <FontAwesomeIcon icon={faCaretDown} className="" style={{ backgroundColor: '#0000' }} /></Link>
           <div className="dropdown-content">
             <Link onClick={toggleNav} href="/talks#upcoming">Upcoming</Link>
