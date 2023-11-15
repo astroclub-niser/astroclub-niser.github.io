@@ -16,13 +16,13 @@
     overflow: hidden;
     background: url(../public/marc-sendra-martorell-unsplash.jpg) no-repeat fixed center;
     background-size: cover;
-    
+
     h1 {
-        font-size: 1.5rem;
-        // position: absolute;
-        // top: 50%;
-        // left: 50%;
-        // transform: translate(-50%, -50%);
+        font-size: 6rem;
+        text-align: center;
+        line-height: 1;
+        margin-top: -120px;
+        text-shadow: 3px 3px 4px #000a;
     }
 
     p {
@@ -215,6 +215,11 @@
 }
 
 @media (max-width: 760px) {
+    #hero h1 {
+        font-size: 5rem;
+        margin-top: -80px;
+    }
+
     #newsletter {
         flex-direction: column-reverse;
 
@@ -237,6 +242,11 @@
 }
 
 @media (max-width: 500px) {
+    #hero h1 {
+        font-size: 4rem;
+        line-height: 1.2;
+    }
+
     #hello {
         font-size: 1rem;
         padding: 3rem 0;

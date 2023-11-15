@@ -35,6 +35,15 @@
     }
 }
 
+.project-post {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    h1 {
+        font-size: 2rem;
+    }
+}
+
 @media (max-width: 760px) {
     .projects-grid .project {
         h3 {

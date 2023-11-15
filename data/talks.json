@@ -1,5 +1,8 @@
 {
     "upcoming": [
+        
+    ],
+    "year23": [
         {
             "title": "Shapes, Structures and Randomness",
             "date": "November 11, 2023",
@@ -8,9 +11,7 @@
             "poster": "11-11-23.png",
             "youtubeID": "",
             "abstract": "The talk will introduce morphological descriptors known as scalar and tensorial Minkowski functionals, and Betti numbers. They are geometrical and topological quantities that quantify the morphological information of structures. We will connect these quantities to random fields and discuss how they reveal the statistical nature of the fields. Lastly, some physical  applications will be discussed."
-        }
-    ],
-    "year23": [
+        },
         {
             "title": "Introduction to Cosmology",
             "date": "October 20, 2023",

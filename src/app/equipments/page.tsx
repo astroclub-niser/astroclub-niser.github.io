@@ -30,13 +30,13 @@ const sixInch = [
 ];
 
 const sliderHeight = 450
-const sliderWidth = 650
+const sliderWidth = "100%"
 
 const Equipments = () => {
   return (
     <main>
       <h1 className="page-heading">Our Arsenal</h1>
-      <p></p>
+      <p className="page-description">Tools that help us </p>
 
       <div className="equipments-grid">
 

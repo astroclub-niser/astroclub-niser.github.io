@@ -4,17 +4,42 @@
     align-items: center;
 }
 
-.talks-year {
+.talks-year, .events-year {
     width: 95%;
+    text-align: center;
 
-    .talks-year-label {
+    .talks-year-label, .events-year-label {
+        display: inline-block;
         margin-top: 20px;
         font-size: 2.9rem;
         text-align: center;
+        position: relative;
+    }
+
+    .events-year-label.year-name::after, .talks-year-label.year-name::after {
+        content: '';
+        position: absolute;
+        top: 50%;
+        height: 3px;
+        right: 0;
+        transform: translate(130%, 50%);
+        width: 70px;
+        background: $off-white;
+    }
+
+    .events-year-label.year-name::before, .talks-year-label.year-name::before {
+        content: '';
+        position: absolute;
+        top: 50%;
+        height: 3px;
+        left: 0;
+        transform: translate(-130%, 50%);
+        width: 70px;
+        background: $off-white;
     }
 }
 
-.talks-grid {
+.talks-grid, .events-year {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -22,6 +47,7 @@
 }
 
 .talk {
+    text-align: left;
     margin: 15px;
     width: 30%;
     background: #292929;
@@ -76,6 +102,10 @@
 }
 
 @media (max-width: 400px) {
+    .section-description {
+        margin: 0 2rem;
+        text-align: center;
+    }
     .talk {
         min-width: 300px;
 

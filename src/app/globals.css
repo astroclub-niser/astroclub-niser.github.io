@@ -1,3 +1,16 @@
+/* Google Fontw */
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&family=Playfair+Display:wght@600&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Kurale&display=swap'); */
+
+/* From Public Directory */
+@font-face {
+  font-family: 'Kurale';
+  src: url('/fonts/Kurale.ttf');
+  font-style: medium;
+  font-weight: normal;
+  font-display: swap;
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

@@ -1,7 +1,7 @@
 ---
-title: "Umang '23"
-excerpt: "NAC challenges"
+title: "Hello World"
+excerpt: "First Post"
 date: "2023-10-22"
 ---
 
-NAC presents Astrophotography and Make your own Nebulae challenges.
+Hello World. Welcome to NAC's official website.

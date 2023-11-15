@@ -23,28 +23,45 @@ export default async function Events() {
   const eventsFile = await fs.readFile(process.cwd() + '/data/events.json', 'utf8');
   const eventsData = JSON.parse(eventsFile);
   const years = ['23', '21', '19', '18']
+  const eventKeys = Object.keys(eventsData)
+
+  const upcomingEventsData = eventsData[eventKeys[0]]
+  const archivedEvents = eventKeys.slice(1)
 
   return (
     <main id="section-events">
       <h1 className="page-heading">Events</h1>
       <p className="page-description">An archive of all the events conducted by the NAC, as well as some upcoming ones. Keep an eye out for something new!</p>
 
-      <div className="events-grid">
-        {years.map((year) => (
-          eventsData['year' + year].map(({ id, eventName, eventDate, shortDesc, images, blogEntry }: EventProps) => (
+      {/* <div className="events-grid"> */}
+        {archivedEvents.map((year, index) => (
 
-            <figure className="event" key={id}>
-              <Image src={`/posts/${images[0]}`} width={230} height={230} alt={`${eventName}`} />
-              <p className="event-name">{eventName}</p>
-              <p className="event-date">{eventDate}</p>
-              <p className="event-desc">{shortDesc}</p>
-              <BlogEntryBtn blogEntry={blogEntry}/>
-            </figure>
+          <div className="events-year" id={year} key={index}>
+            <h2 className="events-year-label year-name">20{year.substring(4, 6)}</h2>
+            <div className="events-grid">
 
-          ))
+              {eventsData[year].map(({ id, eventName, eventDate, shortDesc, images, blogEntry }: EventProps) => (
+
+                <figure className="event" key={id}>
+                  <div className="event-img">
+                    <Image src={`/posts/${images[0]}`} width={500} height={500} alt={`${eventName}`} />
+                  </div>
+                  <div className="event-content">
+                    <p className="event-name">{eventName}</p>
+                    <p className="event-date">{eventDate}</p>
+                    <p className="event-desc">{shortDesc}</p>
+                    {/* <BlogEntryBtn blogEntry={blogEntry} />   */}
+                  </div>
+                </figure>
+
+              ))}
+
+            </div>
+          </div>
+
         ))}
 
-      </div>
+      {/* </div> */}
 
     </main>
   )

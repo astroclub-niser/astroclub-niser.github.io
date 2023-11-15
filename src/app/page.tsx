@@ -2,8 +2,8 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { promises as fs } from 'fs';
 import AstropicCard, { AstroProps } from '../../components/AstropicCard';
-import TalkCard from '../../components/TalkCard';
-import { TalkItemProps } from '../../components/PropsPage';
+// import TalkCard from '../../components/TalkCard';
+// import { TalkItemProps } from '../../components/PropsPage';
 // import React from "react";
 
 export default async function Home() {
@@ -23,8 +23,8 @@ export default async function Home() {
 
       <div id="hero" className='section-home'>
         {/* <Image src={'/bg.jpg'} alt='hero' width={1920} height={1080}></Image> */}
-        <h1>NISER Astronomy Club</h1>
-        <h4>Website Under Construction!</h4>
+        <h1>NISER<br/>Astronomy<br/>Club</h1>
+        {/* <h4>Website Under Construction!</h4> */}
         <p>Credit: Marc Sendra Martorell</p>
       </div>
 
@@ -56,7 +56,7 @@ export default async function Home() {
         </div>
       </div>
 
-      <div id="whats-new" className='section-home'>
+      {/* <div id="whats-new" className='section-home'>
         <h2>What&apos;s New</h2>
         <div className="whats-new-grid">
           {upcomingTalks.map(({ id, title, date, speaker, speaker_desc, poster, youtubeID, abstract }: TalkItemProps) => (
@@ -64,7 +64,7 @@ export default async function Home() {
           ))}
 
         </div>
-      </div>
+      </div> */}
 
       <div id="magazine" className='section-home'>
         <div className="magazine-content">

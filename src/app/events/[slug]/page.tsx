@@ -21,9 +21,9 @@ export default async function PostPage(props: any) {
   const post = getPostContent(slug)
 
   return (
-    <main>
+    <main className="project-post">
       <h1>{post.data.title}</h1>
-      <p>{post.data.date}</p>
+      {/* <p>{post.data.date}</p> */}
       <article className="prose dark:prose-invert lg:prose-xl">
         <Markdown>{post.content}</Markdown>
       </article>
