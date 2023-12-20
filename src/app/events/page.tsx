@@ -3,6 +3,7 @@ import { promises as fs } from 'fs';
 import Image from "next/image";
 import { EventProps } from "../../../components/PropsPage";
 import Link from "next/link";
+import path from "path";
 
 export const metadata: Metadata = {
   title: 'Events | NISER Astronomy Club',
@@ -18,6 +19,28 @@ function BlogEntryBtn({ blogEntry }: { blogEntry: string }) {
     )
   }
 }
+
+// export async function getPostData({id}:{id:string}) {
+//   const postFile = await fs.readFile(process.cwd() + `/posts/${id}.json`, 'utf8');
+//   // const fullPath = path.join(postsDirectory, `${id}.md`);
+//   const fileContents = fs.readFile(postFile, 'utf8');
+
+//   // Use gray-matter to parse the post metadata section
+//   const matterResult = matter(fileContents);
+
+//   // Use remark to convert markdown into HTML string
+//   const processedContent = await remark()
+//     .use(html)
+//     .process(matterResult.content);
+//   const contentHtml = processedContent.toString();
+
+//   // Combine the data with the id and contentHtml
+//   return {
+//     id,
+//     contentHtml,
+//     ...matterResult.data,
+//   };
+// }
 
 export default async function Events() {
   const eventsFile = await fs.readFile(process.cwd() + '/data/events.json', 'utf8');
@@ -66,5 +89,7 @@ export default async function Events() {
     </main>
   )
 }
+
+
 
 // export default events

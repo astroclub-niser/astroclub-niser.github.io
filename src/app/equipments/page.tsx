@@ -36,7 +36,7 @@ const Equipments = () => {
   return (
     <main>
       <h1 className="page-heading">Our Arsenal</h1>
-      <p className="page-description">Tools that help us </p>
+      <p className="page-description">Here is an overview of the impressive range of telescopes that our club has, allowing our members to explore the wonders of the night sky like never before.</p>
 
       <div className="equipments-grid">
 

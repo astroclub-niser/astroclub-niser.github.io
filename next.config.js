@@ -1,7 +1,7 @@
 const path = require('path')
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: "export",
+   output: "export",
   // sassOptions: {
   //     includePaths: [path.join(__dirname, 'styles')],
   // },
