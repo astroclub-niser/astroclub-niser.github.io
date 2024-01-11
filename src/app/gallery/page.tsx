@@ -23,3 +23,6 @@ export default async function Gallery () {
     </main>
   )
 }
+
+
+// export default gallery

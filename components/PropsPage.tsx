@@ -1,5 +1,5 @@
 export interface TeamProps {
-    id:string, name:string, batch:string, image:string, role:string, email:string, insta:string, linkedin:string
+    id:string, name:string, batch:string, image:string, role:string, email:string
 }
 
 export interface FICProps {

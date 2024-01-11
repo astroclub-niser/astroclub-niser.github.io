@@ -8,7 +8,7 @@
 .equipment {
     display: flex;
     justify-content: center;
-    align-items: flex-start;
+    align-items: center;
     margin: 2rem 0;
     width: 90%;
     padding: 2.5rem;
@@ -38,16 +38,11 @@
     }
 
     .equipment-details {
-        width: 50%;
-        position: relative;
         font-size: 1.1rem;
-
         // margin-right: 2rem;
-       
 
         h3 {
             font-size: 2.2rem;
-            line-height: 1;
         }
 
         h4 {
@@ -58,49 +53,6 @@
 
         p {
             margin: 20px 0;
-        }
-    }
-
-    .equipment-figures {
-        width: 50%;
-        &>div {
-            position: relative;
-        }
-    }
-}
-
-@media (max-width: 760px) {
-    .equipment {
-        flex-direction: column;
-        padding: 1.2rem;
-
-        &:nth-child(even) {
-            flex-direction: column;
-        }
-
-        .equipment-details {
-            width: 100%;
-            text-align: left !important;
-            margin: 0 !important;
-
-            h3 {
-                font-size: 1.9rem;
-            }
-    
-            h4 {
-                font-size: 1.3rem;
-                margin-bottom: 0;
-            }
-    
-            p {
-                font-size: 1rem;
-                margin: 20px 0;
-                text-align: justify;
-            }
-        }
-
-        .equipment-figures {
-            width: 100%;
         }
     }
 }
