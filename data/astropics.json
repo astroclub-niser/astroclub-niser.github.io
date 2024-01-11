@@ -1,6 +1,20 @@
 {
     "astrophotographs": [
         {
+            "object": "Supermoon",
+            "photographer": "",
+            "image": "supermoon.png",
+            "date": "August 31, 2023",
+            "description": "The last blue supermoon for 14 years was captured by the club using our 8\" telescope and many hours of processing to obtain the high quality photograph."
+        },
+        {
+            "object": "Blood Moon",
+            "photographer": "",
+            "image": "blood-moon-composite.jpg",
+            "date": "November 7, 2022",
+            "description": "A composite of the various phases of the moon during a lunar eclipse as seen during a 30 minute span through our 11\" telescope."
+        },
+        {
             "object": "Messier 104 (Sombrero Galaxy)",
             "photographer": "",
             "image": "sombrero.jpg",

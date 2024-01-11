@@ -1,6 +1,14 @@
 {
     "upcoming": [
-        
+        {
+            "title": "The Rise and Fall of Pluto!",
+            "date": "January 13, 2024",
+            "speaker": "Aniketh Nath",
+            "speaker_desc": "Int. M.Sc. (B20), SPS, NISER",
+            "poster": "13-01-24.png",
+            "youtubeID": "",
+            "abstract": "We all have heard that Pluto was considered the ninth planet of the solar system, but now it is no longer a planet. The story of Pluto from its discovery to its enlistment under the category of a dwarf planet is an interesting one. I shall try to cover some aspects of this story backed by the theoretical notions that were at play at different events of this story."
+        }
     ],
     "year23": [
         {
