@@ -1,18 +1,34 @@
-// "use client";
+"use client";
 import Image from "next/image"
 import Link from "next/link"
-// import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faCaretDown } from '@fortawesome/free-solid-svg-icons'
+import { faCaretDown, faBarsStaggered, faXmark } from '@fortawesome/free-solid-svg-icons'
 import '../node_modules/@fortawesome/fontawesome-svg-core/styles.css'
-const { library, config } = require('@fortawesome/fontawesome-svg-core');
-library.add(faCaretDown)
 
 const Navbar = () => {
-  // const [navbarOpen, setNavbarOpen] = useState(false);
+  const [isMobile, setIsMobile] = useState(false)
+  const [isMobileOpen, setIsMobileOpen] = useState(false)
+
+  const toggleNav = () => {
+    setIsMobileOpen(!isMobileOpen);
+  };
+
+  useEffect(() => {
+      setIsMobile(window.innerWidth <= 900)
+  }, [])
+
+  useEffect(() => {
+    window.addEventListener("resize", () => {
+      const ismobile = window.innerWidth < 900;
+      if (ismobile !== isMobile) setIsMobile(ismobile);
+    }, false);
+  }, [isMobile]);
 
   return (
-    <nav>
+    <nav className={`${isMobile ? "mobile" : "desktop"} ${isMobileOpen ? 'mobile-open': null}`}>
+
+      <FontAwesomeIcon onClick={toggleNav} icon={faXmark} className="nav-triggers" id="nav-close" style={{ backgroundColor: '#0000' }} />
 
       <div className="logo">
         <Link href="/">
@@ -22,23 +38,31 @@ const Navbar = () => {
 
       <ul className="xl:flex hidden">
 
-        <li><Link href="/about">About&nbsp;Us</Link></li>
-        <li><Link href="/gallery">Gallery</Link></li>
-        <li><Link href="/events">Events</Link></li>
-        {/* <li> <Link href="/projects">Projects</Link></li> */}
-        <li><Link href="/talks">Talks</Link></li>
-        <li><Link href="/equipments">Equipment</Link></li>
-        <li className="dropdown"><Link href="/team">Team <FontAwesomeIcon icon={faCaretDown} className="" style={{ backgroundColor: '#0000' }} /></Link>
+        <li><Link onClick={toggleNav} href="/about">About&nbsp;Us</Link></li>
+        <li><Link onClick={toggleNav} href="/gallery">Gallery</Link></li>
+        <li><Link onClick={toggleNav} href="/events">Events</Link></li>
+        <li className="dropdown"><Link onClick={toggleNav} href="/talks">Talks <FontAwesomeIcon icon={faCaretDown} className="" style={{ backgroundColor: '#0000' }} /></Link>
           <div className="dropdown-content">
-            <Link href="/team">Present Members</Link>
-            <Link href="/team/fic">Faculty Incharges</Link>
-            <Link href="/team/alumni">Alumni</Link>
+            <Link onClick={toggleNav} href="/talks#upcoming">Upcoming</Link>
+            <Link onClick={toggleNav} href="/talks#year23">2023</Link>
+            <Link onClick={toggleNav} href="/talks#year22">2022</Link>
           </div>
         </li>
-        <li><Link href="/magazine">Kshitij</Link></li>
-        <li><Link href="#contact">Contact&nbsp;Us</Link></li>
+        <li><Link onClick={toggleNav} href="/projects">Projects</Link></li>
+        <li><Link onClick={toggleNav} href="/equipments">Equipment</Link></li>
+        <li className="dropdown"><Link onClick={toggleNav} href="/team">Team <FontAwesomeIcon icon={faCaretDown} className="" style={{ backgroundColor: '#0000' }} /></Link>
+          <div className="dropdown-content">
+            <Link onClick={toggleNav} href="/team">Present Members</Link>
+            <Link onClick={toggleNav} href="/team/fic">Faculty Incharges</Link>
+            <Link onClick={toggleNav} href="/team/alumni">Alumni</Link>
+          </div>
+        </li>
+        <li><Link onClick={toggleNav} href="/magazine">Kshitij</Link></li>
+        <li><Link onClick={toggleNav} href="#contact">Contact&nbsp;Us</Link></li>
 
       </ul>
+
+      <FontAwesomeIcon onClick={toggleNav} icon={faBarsStaggered} className="nav-triggers" id="nav-open" style={{ backgroundColor: '#0000' }} />
 
     </nav>
   )
