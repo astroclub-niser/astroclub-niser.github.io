@@ -26,7 +26,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={`${inter.className} ${futuraLightFont.variable} ${dinnFont.variable}`}>
         <Navbar />
-        <main>
+        <main className='main-body'>
           {children}
         </main>
         <Footer />

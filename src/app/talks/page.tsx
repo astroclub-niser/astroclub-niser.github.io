@@ -10,33 +10,53 @@ export const metadata: Metadata = {
 }
 
 
-
 export default async function Talks() {
   const talksFile = await fs.readFile(process.cwd() + '/data/talks.json', 'utf8');
-  const talksData = JSON.parse(talksFile);
-  const years = ['23', '22']
-  // const keys = Object.keys(talksData)
+  const talksData = JSON.parse(talksFile)
+  const talkKeys = Object.keys(talksData)
+
+  const upcomingTalksData = talksData[talkKeys[0]]
+  const archivedTalks = talkKeys.slice(1)
+
+  let upcomingTalks = ''
+  if (Object.keys(upcomingTalksData).length === 0) {
+    upcomingTalks = 'There are no scheduled talks for now. Come back later!'
+  } else {
+    upcomingTalks = upcomingTalksData.map(({ id, title, date, speaker, speaker_desc, poster, youtubeID, abstract }: TalkItemProps) => (
+      <TalkCard key={id} title={title} date={date} speaker={speaker} speaker_desc={speaker_desc} poster={poster} youtubeID={youtubeID} abstract={abstract} />
+    ))
+  }
 
   return (
     <main id="section-talks">
       <h1 className="page-heading">Talks</h1>
       <p className="page-description">An archive of all the talks conducted by the NAC.</p>
 
-      {Object.keys(talksData).map((year, index) => (
+      <div className="talks-year" id={'upcoming-talks'}>
+        <h2 className="talks-year-label">Upcoming Talks</h2>
+        <div className="talks-grid section-description">
 
-        <div className="talks-year" key={index}>
-          <h2 className="talks-year-label">20{year.substring(4,6)}</h2>
-          <div className="talks-grid">
+          {upcomingTalks}
 
-            {talksData[year].map(({ id, title, date, speaker, speaker_desc, poster, youtubeID, abstract }: TalkItemProps) => (
-
-              <TalkCard key={id} title={title} date={date} speaker={speaker} speaker_desc={speaker_desc} poster={poster} youtubeID={youtubeID} abstract={abstract}/>
-
-            ))}
-          </div>
         </div>
+      </div>
 
-      ))}
+      {
+        archivedTalks.map((year, index) => (
+
+          <div className="talks-year" id={year} key={index}>
+            <h2 className="talks-year-label year-name">20{year.substring(4, 6)}</h2>
+            <div className="talks-grid">
+
+              {talksData[year].map(({ id, title, date, speaker, speaker_desc, poster, youtubeID, abstract }: TalkItemProps) => (
+                <TalkCard key={id} title={title} date={date} speaker={speaker} speaker_desc={speaker_desc} poster={poster} youtubeID={youtubeID} abstract={abstract} />
+              ))}
+
+            </div>
+          </div>
+
+        ))
+      }
 
     </main >
   )
