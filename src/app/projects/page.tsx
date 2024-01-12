@@ -11,7 +11,7 @@ const Projects = () => {
   return (
     <main id="section-projects">
       <h1 className="page-heading">Projects</h1>
-      <p className="page-description">Its not just pretty pictures. We also extract the science out of them. Here are some projects we have conducted in the club.</p>
+      <p className="page-description">Its not just pretty pictures. We also do some cool science. Here are some projects we have conducted in the club.</p>
       <div className="projects-grid">
         <figure className="project">
           <Image src={'/jupiter_and_moons.png'} width={1200} height={300} alt="jupiter"></Image>

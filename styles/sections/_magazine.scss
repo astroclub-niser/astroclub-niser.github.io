@@ -19,5 +19,25 @@
 
     .magazine {
         margin: 20px;
+
+        img {
+            transition: ease-in-out .3s;
+        }
+
+        img:hover {
+            transform: scale(1.05);
+            box-shadow: 0 0 20px #0005;
+        }
+    }
+
+    .magazine-issue {
+        font-family: $serif;
+        font-weight: bold;
+        font-size: 1.5rem;
+        margin-top: 10px;
+    }
+
+    .magazine-release {
+        color: $grey;
     }
 }
