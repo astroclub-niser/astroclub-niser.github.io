@@ -16,7 +16,7 @@ const Footer = () => {
         </div>
         <div className='address'>School of Physical Sciences<br/>NISER,
           Bhubaneswar<br/>
-          P.O. Jatni, Khurda - 752050<br/>
+          P.O. Jatni, Khurda – 752050<br/>
           Odisha, India</div>
       </div>
       <div className='footer-socials'>

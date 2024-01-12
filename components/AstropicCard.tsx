@@ -18,10 +18,10 @@ export default function AstropicCard({ id, object, description, image }: AstroPr
   return (
     <figure className="gallery-item" key={id}>
       <Zoom classDialog="astropic-zoom">
-        <Image src={`/astrophotographs/${image}`} width={800} height={800} alt={`${object}`}/>
+        <Image src={`/astrophotographs/${image}`} width={1200} height={1200} alt={`${object}`}/>
       </Zoom>
       <figcaption>
-        <p className="astropic-object">{object}</p>
+        <p className="astropic-object">&nbsp;{object}&nbsp;</p>
         <p className="astropic-description">{description}</p>
       </figcaption>
     </figure>
