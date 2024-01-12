@@ -14,33 +14,35 @@
     position: relative;
     height: 100vh;
     overflow: hidden;
-    background: url(../public/bg.jpg) no-repeat fixed center;
+    background: url(../public/marc-sendra-martorell-unsplash.jpg) no-repeat fixed center;
     background-size: cover;
 
     h1 {
-        // position: absolute;
-        // top: 50%;
-        // left: 50%;
-        // transform: translate(-50%, -50%);
+        font-size: 6rem;
+        text-align: center;
+        line-height: 1;
+        margin-top: -120px;
+        text-shadow: 3px 3px 4px #000a;
     }
 
     p {
         position: absolute;
         bottom: 20px;
         right: 20px;
+        color: #fff5;
     }
 
-    img {
-        // position: relative;
-    }
+    // img {
+    //     // position: relative;
+    // }
 }
 
 #hello {
     font-family: $sans-serif;
     font-size: 1.2rem;
     color: $off-white;
-    // background: $dark-blue;
-    background: url(../public/astronaut.jpg) no-repeat fixed center;
+    background: $blue;
+    // background: url(../public/astronaut.jpg) no-repeat fixed center;
     background-size: cover;
     // display: flex;
     // justify-content: center;
@@ -55,10 +57,13 @@
 
 #home-gallery {
     padding: 4rem 0;
-    p {
+
+    & > p {
         font-size: 1.1rem;
-        margin-bottom: 2rem ;
+        margin-bottom: 2rem;
+        text-align: center;
     }
+
     .btn {
         margin: 2rem;
     }
@@ -66,10 +71,10 @@
 
 #newsletter {
     flex-direction: row;
-    background: url(../public/blackholebg.jpg);
-    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.85);
+    background: url(../public/blackholebg.jpg) no-repeat fixed center;
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.90);
     background-size: cover;
-    background-attachment: fixed;
+    // background-attachment: fixed;
     padding: 4rem 5rem;
     font-size: 1.1rem;
     justify-content: space-around;
@@ -80,6 +85,8 @@
 
     img {
         // margin-right: 2rem;
+        max-width: 300px;
+        width: 33%;
     }
 
     h3 {
@@ -105,6 +112,7 @@
     font-size: 1.1rem;
     padding: 5rem 0;
     background: $dark-brown;
+    margin-bottom: -6rem;
 
     h3 {
         font-size: 1.3rem;
@@ -112,7 +120,6 @@
 
     p {
         margin: 20px 0;
-
     }
 
     .magazine-content {
@@ -121,6 +128,9 @@
 
     .magazine-previews {
         display: flex;
+        width: 60%;
+        flex-wrap: wrap;
+        justify-content: center;
 
         figure {
             margin: 0 5px;
@@ -128,16 +138,122 @@
             img {
                 margin-bottom: 10px;
                 transition: box-shadow 0.2s ease-in-out;
+                max-width: 200px;
+                // width: 100%;
             }
 
             span {
                 color: #999;
                 font-size: 1rem;
             }
+
             &:hover img {
                 box-shadow: 0 0 30px #0006;
                 transform: scale(1.01);
             }
         }
     }
+}
+
+@media (max-width: 1250px) {}
+
+@media (max-width: 1000px) {
+    #newsletter {
+        padding: 3rem 0;
+
+        // flex-direction: column-reverse;
+        .newsletter-content {
+            width: 60%;
+        }
+
+        img {
+            height: 90%;
+            margin-right: 1rem;
+        }
+
+        h3 {
+            font-size: 1.3rem;
+            margin-bottom: 1rem;
+        }
+
+        p {
+            margin: 20px 0;
+        }
+    }
+
+    #magazine {
+        flex-direction: column;
+        padding: 2.5rem 0;
+
+        h3 {
+            font-size: 1.2rem;
+        }
+
+        p {
+            text-align: justify;
+            margin: 20px 0;
+        }
+
+        .magazine-content {
+            width: 85%;
+            margin-bottom: 20px;
+        }
+
+        .magazine-previews {
+            width: 95%;
+
+            img {
+                width: 150px;
+            }
+
+            //     figure {}
+
+            //     img {}
+            // }
+        }
+    }
+}
+
+@media (max-width: 760px) {
+    #hero h1 {
+        font-size: 5rem;
+        margin-top: -80px;
+    }
+
+    #newsletter {
+        flex-direction: column-reverse;
+
+        .newsletter-content {
+            width: 80%;
+            text-align: justify;
+        }
+
+        img {
+            margin-top: 1rem;
+            max-width: none;
+            width: 60%;
+        }
+
+        h3 {
+            font-size: 1.1rem;
+            margin-bottom: 1rem;
+        }
+    }
+}
+
+@media (max-width: 500px) {
+    #hero h1 {
+        font-size: 4rem;
+        line-height: 1.2;
+    }
+
+    #hello {
+        font-size: 1rem;
+        padding: 3rem 0;
+
+        p {
+            width: 90%;
+        }
+    }
+
 }

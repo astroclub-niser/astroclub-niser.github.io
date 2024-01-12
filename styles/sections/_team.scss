@@ -46,8 +46,14 @@ h2.team-heading {
             text-wrap: wrap;
         }
         .person-socials {
+            display: flex;
+            justify-content: center;
+            margin-top: 10px;
+            li {
+                margin: 0 5px;
+            }
             svg {
-                height: 20px;
+                height: 25px;
             }
             path {
                 fill: #999;
@@ -57,5 +63,11 @@ h2.team-heading {
                 fill: #fff;
             }
         }
+    }
+}
+
+@media (max-width: 50px) {
+    .team-grid {
+        width: 95%;
     }
 }
