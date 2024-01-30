@@ -2,7 +2,7 @@ import { Metadata } from "next"
 import { promises as fs } from 'fs';
 import Image from "next/image"
 import Link from "next/link"
-import ProjectCard from "../../../components/ProjectCard";
+import ProjectCard, { ProjectProps } from "../../../components/ProjectCard";
 
 export const metadata: Metadata = {
   title: 'Projects | NISER Astronomy Club',
@@ -20,8 +20,8 @@ export default async function Projects() {
       <p className="page-description">Its not just pretty pictures. We also do some cool science. Here are some projects we have conducted in the club.</p>
       <div className="projects-grid">
 
-      {projectsData.projects.map(({ id, name, description, image, link }: ProjectProps) => (
-        <ProjectCard key={id} name={name}  description={description} image={image} link={link} />
+      {projectsData.projects.map(({ key, name, description, image, link }: ProjectProps) => (
+        <ProjectCard key={key} name={name}  description={description} image={image} link={link} />
       ))}
 
         {/* <figure className="project">

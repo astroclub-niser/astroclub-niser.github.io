@@ -7,6 +7,7 @@ export interface AstroProps {
   id: string,
   object: string,
   description: string,
+  photographer: string,
   image?: string,
 }
 export interface UncontrolledProps {
@@ -14,7 +15,9 @@ export interface UncontrolledProps {
   classDialog?: string
 }
 
-export default function AstropicCard({ id, object, description, image }: AstroProps) {
+export default function AstropicCard({ id, object, description, photographer, image }: AstroProps) {
+  const credit = photographer != '' ? `Credit: ${photographer}` : ''
+
   return (
     <figure className="gallery-item" key={id}>
       <Zoom classDialog="astropic-zoom">
@@ -22,7 +25,7 @@ export default function AstropicCard({ id, object, description, image }: AstroPr
       </Zoom>
       <figcaption>
         <p className="astropic-object">&nbsp;{object}&nbsp;</p>
-        <p className="astropic-description">{description}</p>
+        <p className="astropic-description">{description} <span id="astropic-credit">{credit}</span></p>
       </figcaption>
     </figure>
   )

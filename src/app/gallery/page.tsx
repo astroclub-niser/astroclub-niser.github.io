@@ -1,10 +1,10 @@
 // 'use client'
-import { Metadata } from "next"
+// import { Metadata } from "next"
 import { promises as fs } from 'fs';
-import Image from "next/image";
+// import Image from "next/image";
 
 import AstropicCard, { AstroProps } from "../../../components/AstropicCard";
-import SessionPicCard, { SessionProps } from "../../../components/SessionPicCard";
+// import SessionPicCard, { SessionProps } from "../../../components/SessionPicCard";
 
 export default async function Gallery () {
   const picsFile = await fs.readFile(process.cwd() + '/data/astropics.json', 'utf8');
@@ -16,8 +16,8 @@ export default async function Gallery () {
       <p className="page-description">A collection of all the beautiful moments of the sky captured by our beloved members. Click to enlarge.</p>
 
       <div className="gallery-grid">
-        {picsData.astrophotographs.map(({ id, object, image, description }: AstroProps) => (
-            <AstropicCard id={id} object={object} description={description} image={image} key={id}/>
+        {picsData.astrophotographs.map(({ id, object, image, description, photographer }: AstroProps) => (
+            <AstropicCard id={id} photographer={photographer} object={object} description={description} image={image} key={id}/>
           ))}
       </div>
 

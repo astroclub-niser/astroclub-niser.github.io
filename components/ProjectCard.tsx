@@ -5,7 +5,7 @@ import Link from "next/link";
 // import 'react-medium-image-zoom/dist/styles.css'
 
 export interface ProjectProps {
-    id: string,
+    key: string,
     name: string,
     description: string,
     image: string,
@@ -16,14 +16,14 @@ export interface ProjectProps {
 //   classDialog?: string
 // }
 
-export default function ProjectCard({ id, name, description, image, link }: ProjectProps) {
+export default function ProjectCard({ key, name, description, image, link }: ProjectProps) {
     return (
-        <figure className="project" key={id}>
+        <figure className="project" key={key}>
             <Image src={image} width={1200} height={300} alt={name}></Image>
             <figcaption>
                 <h3>{name}</h3>
                 <p>{description}</p>
-                <Link href={link}><button className="btn">Read More</button></Link>
+                {/* <Link href={link}><button className="btn">Read More</button></Link> */}
             </figcaption>
         </figure>
     )
