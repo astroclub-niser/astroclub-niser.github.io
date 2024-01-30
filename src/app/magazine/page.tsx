@@ -10,7 +10,7 @@ const Kshitij = () => {
   return (
     <main id="section-magazine">
       <h1 className="page-heading">Kshitij</h1>
-      <p className="page-description">NAC's own in-house magazine encompassing all fields of astronomy.</p>
+      <p className="page-description">NAC&apos;s own in-house magazine encompassing all fields of astronomy.</p>
       <button className="btn"><a target="_blank" href="https://drive.google.com/drive/folders/1hcU2Xz8NAgw1I8iF3Qn2BBAy-U1SBdVc">Read all</a></button>
       <button className="btn"><a href="#">Want to Contribute?</a></button>
       <div className="magazine-grid">
