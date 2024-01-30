@@ -2,6 +2,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { promises as fs } from 'fs';
 import AstropicCard, { AstroProps } from '../../components/AstropicCard';
+import {a} from '../../components/AllLinks'
 // import TalkCard from '../../components/TalkCard';
 // import { TalkItemProps } from '../../components/PropsPage';
 // import React from "react";
@@ -25,7 +26,7 @@ export default async function Home() {
         {/* <Image src={'/bg.jpg'} alt='hero' width={1920} height={1080}></Image> */}
         <h1>NISER<br/>Astronomy<br/>Club</h1>
         {/* <h4>Website Under Construction!</h4> */}
-        <p>Credit: Marc Sendra Martorell</p>
+        <p>Andromeda Galaxy<br/>Credit: Adesh Thawale</p>
       </div>
 
       <div id="hello" className='section-home'>
@@ -69,7 +70,7 @@ export default async function Home() {
       <div id="magazine" className='section-home'>
         <div className="magazine-content">
           <h2>Kshitij</h2>
-          <h3>The bi-annual, in-house magazine encompassing all fields of astronomy.</h3>
+          <h3>Our in-house magazine encompassing all fields of astronomy.</h3>
           <p>Through Kshitij, the innate passion of our club members towards astronomy is accounted through academic articles, puzzles and details of various activities the club has undertaken.
             The foremost aim of this magazine is to inspire the NISER fraternity and all its readers, towards the beauty we Astronomy enthusiasts derive from the night sky while imagining the depth of the space through our small eyes.</p>
           <button className='btn'><Link href="/magazine">Know More</Link></button>
@@ -79,7 +80,7 @@ export default async function Home() {
           <figure>
             <a href="https://drive.google.com/file/d/19Ff_veiKVzIaCTbjv5Oa9HI7U15wVaav/view" target="_blank">
               <Image src={'/kshitij/Kshitij_May_2020.jpg'} alt='event horizon' width={200} height={460}></Image>
-              <figcaption>Kshitij 1.0<br /><span>Dec 2020</span></figcaption>
+              <figcaption>Kshitij 1.0<br /><span>May 2020</span></figcaption>
             </a>
           </figure>
           <figure>
@@ -91,13 +92,13 @@ export default async function Home() {
           <figure>
             <a href="https://drive.google.com/file/d/1pJDicsQtoa6f2DPhuGtfYOPSWpvnxVjL/view" target="_blank">
               <Image src={'/kshitij/Kshitij_Dec_2021.jpg'} alt='event horizon' width={200} height={460}></Image>
-              <figcaption>Kshitij 3.0<br /><span>Dec 2020</span></figcaption>
+              <figcaption>Kshitij 3.0<br /><span>Dec 2021</span></figcaption>
             </a>
           </figure>
           <figure>
             <a href="https://drive.google.com/file/d/1kaqLiAXlc42GCPFabkorGOYLHxq18ROZ/view" title='Read this edition' target="_blank">
               <Image src={'/kshitij/Kshitij_Dec_2022.jpg'} alt='event horizon' width={200} height={460}></Image>
-              <figcaption>Kshitij 4.0<br /><span>Dec 2020</span></figcaption>
+              <figcaption>Kshitij 4.0<br /><span>Dec 2022</span></figcaption>
             </a>
           </figure>
         </div>

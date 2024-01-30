@@ -1,5 +1,15 @@
 {
-    "upcoming": [
+    "upcoming": [],
+    "year24": [
+        {
+            "title": "Navigating the Mysteries of the Sun through Physics",
+            "date": "January 20, 2024",
+            "speaker": "N Sneha",
+            "speaker_desc": "Int. M.Sc. (B21), SPS, NISER",
+            "poster": "",
+            "youtubeID": "vlMSDhYSsVY",
+            "abstract": "The Sun, a celestial powerhouse, not only dictates the rhythm of our days but also holds the key to profound mysteries. Understanding its workings unlocks a treasure of scientific insights. This talk will cover: 1. Motivation to study this massive celestial object. 2. Brief introduction to solar observations. 3. An account of the Coronal Heating Problem. 4. Introduction to hydrodynamics (HD) and Magnetohydrodynamics (MHD). 5. Emphasis on two particular solutions to the Coronal Heating Problem: (a) Magnetohydrodynamics-wave driven Kelvin-Helmholtz Instability in Coronal Loops. (b) Ambipolar Diffusion in Solar Winds. 6. Simulations conducted and some results presented. "
+        },
         {
             "title": "The Rise and Fall of Pluto!",
             "date": "January 13, 2024",
@@ -161,8 +171,8 @@
             "title": "Surfing through Exoplanets",
             "date": "November 12th, 2022",
             "speaker": "Chandan Kumar Sahu",
-            "speaker_desc": "Int. M.sc. B19 SPS, NISER",
-            "poster": "",
+            "speaker_desc": "Int. M.Sc. B19 SPS, NISER",
+            "poster": "12-11-22.jpg",
             "link": "",
             "abstract": "In this vast universe, it is inappropriate to think that Earth is the only planet sustaining life. So, are there really planets outside our solar system that can host life? Billions are spent every year on detection and study of planets which can possibly host life. This talk will be an introduction to the basic methods that are used in the modern era for detection of exoplanets and studying them. I will also hover over the different types of exoplanets and some of their properties. At the end, I will briefly mention current research in the field of exoplanetary systems."
         },
@@ -170,8 +180,8 @@
             "title": "Determination of Solar offset using Cepheids",
             "date": "November 5th, 2022",
             "speaker": "Swaroop R Averesekar",
-            "speaker_desc": "Int. M.sc. B19 SPS, NISER",
-            "poster": "",
+            "speaker_desc": "Int. M.Sc. B19 SPS, NISER",
+            "poster": "5-11-22.jpg",
             "link": "",
             "abstract": "The sun's galactocentric radius (RGC) is previously calculated and known. It has also been established that our sun is not located precisely on the galactic plane but is slightly displaced. Previous estimates have calculated this solar offset (z) using sources such as OB stars, young open clusters (YOCs), pulsars, Etc. The right ascension and declination of Cepheids, obtained from The Optical Gravitational Lensing Experiment (OGLE) catalog cross-matched with the GAIA mission's - DR3, provides a way to calculate the z. This talk will give a quick tour into Cepheids, the data, and visualize the sun's coordinates in the milky way galaxy."
         },
@@ -180,7 +190,7 @@
             "date": "October 15th, 2022",
             "speaker": "Soham Bannerjee",
             "speaker_desc": "PhD, SPS, NISER",
-            "poster": "",
+            "poster": "15-10-22.jpg",
             "link": "",
             "abstract": "Observational Cosmology has come a long way. The Cosmological Principle states that the Universe is spatially homogeneous and isotropic on the largest scales. Hubble's data indirectly proved this principle when he found the relation between the speed and distance of galaxies. The Big Bang model has been widely accepted, which claims that the Universe evolved from a fireball that eventually cools to the structures we see today. Peebles suggested radiation from the early Universe, which was discovered by Penzias and Wilson, as the cosmic microwave background, which gives a compelling foundation for this model. In this talk, the speaker gave an overview of the formation of light nuclei(big bang nucleo-synthesis), recombination(formation of first atoms), the radiation from the early Universe(CMB), and large-scale structure formation."
         },
@@ -188,8 +198,8 @@
             "title": "Introduction to Cosmology: Why is the night sky dark?",
             "date": "September 4th, 2022",
             "speaker": "Abha Vishwakarma",
-            "speaker_desc": "Int. M.sc., B19 SPS, NISER",
-            "poster": "",
+            "speaker_desc": "Int. M.Sc., B19 SPS, NISER",
+            "poster": "4-09-22.jpg",
             "link": "",
             "abstract": "The night sky appears very different from the earth or the solar system. At a very large scale, large enough to contain many, many galaxy clusters, our universe looks and behaves very differently compared to solar systems, individual galaxies or even clusters of galaxies. Gravity doesn't seem to work according to Newtonian principles. A new theory of gravity, the General Theory of Relativity, formulated by Albert Einstein, sheds light on our understanding of the large-scale universe. In this talk, I will take you through the history that led to the birth of Cosmology, the study of the nature of our universe. I will then develop the notion of 'curvature of the universe', discuss how it can be measured and discuss its implications on the notion of distance between any two points in the universe. This talk covers the prerequisites required to understand the Friedmann equations and the governing equations of the universe's evolution, which will be covered in the next talk. The goal at the end will be to have an interactive talk, where I will simulate universes with different densities of matter, radiation etc. using python and see how it evolves with time."
         },
@@ -197,8 +207,8 @@
             "title": "Stellar Astrophysics II: Classification and Evolution of stars",
             "date": "August 27th, 2022",
             "speaker": "Vasanth Kashyap, Pulkit Ojha",
-            "speaker_desc": "Int. M.sc. B19, SPS, NISER, Int. M.sc., B18 SPS, NISER",
-            "poster": "",
+            "speaker_desc": "Int. M.Sc. B19, SPS, NISER, Int. M.Sc., B18 SPS, NISER",
+            "poster": "27-08-22.jpg",
             "link": "",
             "abstract": "In the last talk on stellar astrophysics, the basics of stellar structure and the origin of stars was covered by Vasanth. In the upcoming talk, the classification of stars based upon their spectral luminosity will be discussed and if time permits, we'll also try to present a basic overview of stellar evolution. This talk may be followed by a demonstration of stellar evolution using MESA."
         },
@@ -206,8 +216,8 @@
             "title": "Stellar Astrophysics: Origin, Structure and Classification",
             "date": "August 20th, 2022",
             "speaker": "Vasanth Kashyap",
-            "speaker_desc": "Int. M.sc., B19 SPS, NISER",
-            "poster": "",
+            "speaker_desc": "Int. M.Sc., B19 SPS, NISER",
+            "poster": "20-08-22.jpg",
             "link": "",
             "abstract": "This is the second talk in the 'Stellar Physics Triad'. In this talk I hope to glance over the fundamentals of stellar astrophysics. Topics of star formation, stellar structure and spectral classification shall be discussed along with their underlying principles with sufficient mathematical detail. It will be followed by brief discussions on Hertzsprung Diagram and Morgan Keenan Luminosity Classes."
         },
@@ -215,7 +225,7 @@
             "title": "The Solar Cycle, Magnets, and More",
             "date": "August 13th, 2022",
             "speaker": "Ratul Das",
-            "speaker_desc": "Int. M.sc., B20 SPS, NISER",
+            "speaker_desc": "Int. M.Sc., B20 SPS, NISER",
             "poster": "",
             "link": "",
             "abstract": "The Babcock-Leighton model of the solar dynamo is often noted as the most accurate qualitative mechanism for explaining the Solar cycle, despite being initially formulated about 70 years ago, when only terrestrial data from the Sun was available. It successfully explained how and why sunspots form, along with the relation between the oscillatory 22-year Solar cycle and the evolution of the magnetic field (basically, a whole backflip) of the Sun."
@@ -224,10 +234,225 @@
             "title": "Birth of Cosmology",
             "date": "April 23rd, 2022",
             "speaker": "Abhinav Roy",
-            "speaker_desc": "Int. M.sc. B20 SPS, NISER",
-            "poster": "",
+            "speaker_desc": "Int. M.Sc. B20 SPS, NISER",
+            "poster": "23-04-22.jpg",
             "link": "",
             "abstract": "Cosmology is the study of the physical universe and due to both theoretical and observational developments, it has made enormous strides in the past 100 years. Cosmology has answered age-old questions involving the universe's age, geometry, and composition. In this talk, we will see the journey of cosmology as a science and the efforts of a few to answer the questions of many."
+        }
+    ],
+    "year21": [
+        {
+            "title": "Solar Storms",
+            "date": "December 24th, 2021",
+            "speaker": "Monu Kumar",
+            "speaker_desc": "Int. M.Sc. B20 SPS, NISER",
+            "poster": "24-12-21.jpg",
+            "link": "",
+            "abstract": "A solar storm is a blanket term for events of solar disturbance, emanating outwards from the heliosphere, leading to various effects. I will talk about the origin of these events at the sun, shedding some light on our understanding of them and how we have come to such an understanding. We will also explore why these events are interesting and important, in various contexts. Lastly, I will try to give some insight into its effects on the earth and future frontiers."
+        },
+        {
+            "title": "Sun : The Literal Star of our Solar system",
+            "date": "October 23rd, 2021",
+            "speaker": "Swosti Prakash Sarangi",
+            "speaker_desc": "Int. M.Sc. B20 SPS, NISER",
+            "poster": "23-10-21.jpg",
+            "link": "",
+            "abstract": "More often than not, we are ignorant to things that are closer to us. One such thing is the Sun. No matter how much we know about it already, it never fails to surprise us. In this talk, I will try to present the different shades of the Sun, explain the physics behind them and use the Sun as a subject to gain some useful insights into stellar astronomy. Also, I shall share some of the mythical tales surrounding the Sun. Towards the end, I shall discuss some paradoxes and open problems in the field of solar physics."
+        },
+        {
+            "title": "A brief Overview of Digital Imaging",
+            "date": "June 12th, 2021",
+            "speaker": "Adesh Natthuji Thawale",
+            "speaker_desc": "Int. M.Sc. B18 SCS, NISER",
+            "poster": "",
+            "link": "",
+            "abstract": "Image sensors are probably one of the most commonly used sensors in the entire world, yet very few people realise the complex process that goes into creating the image that they see after pressing the sensor button in the camera app of their smartphones. In the first session of the Image Processing Workshop, attendees will be taught about the characteristics of image Sensors and Images. The goal of session 1 is to familiarize the attendees with the process that goes into creating a digital image from modern sensors, so that they will better understand the processes that go into image processing. At the end of the session the attendees will be taught how to create star trails using just their phones and a simple software (StarStaX)."
+        },
+        {
+            "title": "Diving into the surreal field of Exoplanets",
+            "date": "June 12th, 2021",
+            "speaker": "Akshay Priyadarshi",
+            "speaker_desc": "Int. M.Sc. B16 SPS, NISER",
+            "poster": "",
+            "link": "",
+            "abstract": "Being a common occurrence in pop-sci and also at the home of crazy theories, the field of exoplanets does enjoy quite some attention. But have we ever looked at their importance beyond the wow factor? How \"studying others to understand ourselves\" could really be a thing!? In this talk, we'll start with an introductory know-how of the field, understanding the motivation and how exoplanets can be studied in exquisite detail despite being so small and so far! And the huge range of interdisciplinary research possibilities that lie ahead."
+        },
+        {
+            "title": "Perseverance; a big leap towards MARS",
+            "date": "March 19th, 2021",
+            "speaker": "Aheesh Chandrakant Hegde & Chandan Kumar Sahoo",
+            "speaker_desc": "Int. M.Sc. B19 SPS, NISER",
+            "poster": "",
+            "link": "",
+            "abstract": "In this talk, we will \"explore\" the Mars 2020 mission, the Perseverance rover and some of its onboard instruments it will be using for Mars exploration and also have a short but detailed description of 'Ingenuity - the Mars helicopter'; to entertain ourselves with the joy of knowing the latest probe on the red planet and the technicalities involved in the mission."
+        },
+        {
+            "title": "Ancient Astronomical Calculations",
+            "date": "March 1st, 2021",
+            "speaker": "Nisarg Vyas",
+            "speaker_desc": "Int. M.Sc. B17 SPS, NISER",
+            "poster": "",
+            "link": "",
+            "abstract": "Sure, you would have heard of Jantar Mantar. Ever peeked into the details of what instruments do they house, and what did it mean at the time of their inception to have such instruments? As a fun read, I would like you to look up about the Jantar Mantar at Jaipur. The image attached with the mail shows a model of the same, try finding out what's what. From Greek astronomer and mathematician, Ptolemy, to the Rajput king Sawai Jai Singh II, we will cover a wide period of the history of astronomy of our Sun. We will explore how the ancients calculated the Sun's rising times without the aid of spherical trigonometry. In this talk, I will try to get you started to do basic calculations in astronomy."
+        }
+    ],
+    "year20": [
+        {
+            "title": "Evolution of our models of the Universe",
+            "date": "September 5th, 2020",
+            "speaker": "Sagar Shrivastava",
+            "speaker_desc": "(B11 SMS, NISER), Ph.D. student at TIFR, Mumbai",
+            "poster": "5-09-20.png",
+            "link": "",
+            "abstract": "Humans have been fascinated by the twinkling lights in the night sky, and have been trying to give a reason for why they are there. Whether it's the ancient Mayan with their flat earth theory or the Greeks with their geocentric theory of the universe, there have been many models of the universe, and as we are able to understand more about the fundamental forces of our universe, we have been able to get a clearer picture. This would be an introductory talk with more focus on how progress in science was able to change our view of the universe."
+        },
+        {
+            "title": "Mapping the Universe using Sky Surveys",
+            "date": "August 29th, 2020",
+            "speaker": "Biprateep Dey",
+            "speaker_desc": "(B13 SPS, NISER), PhD student at University of Pittsburgh.",
+            "poster": "",
+            "link": "6spDjmQrvHI",
+            "abstract": "Astronomical surveys are used to map the universe along with discovering new phenomena. Past surveys like the Sloan Digital Sky Survey have significantly improved our understanding of the universe.  We will talk about some upcoming sky surveys like the Dark Energy Spectroscopic Instrument (DESI) and the Rubin Observatory Legacy Survey of Space and Time (LSST). We will explore the wide range of science that can be done with these instruments and why and how you may consider doing PhD research in Astronomy."
+        },
+        {
+            "title": "Inflation, Quantum Fluctuations, and Primordial Black Holes",
+            "date": "August 22rd, 2020",
+            "speaker": "Swagat Saurav Mishra",
+            "speaker_desc": "(Batch 08, SPS, NISER), SRF at IUCAA, Pune",
+            "poster": "22-08-20.png",
+            "link": "",
+            "abstract": "Black Holes are extremely dense gravitationally bound objects that are usually formed via the gravitational collapse of matter during the end stages of big stars. Such black holes, which are end products of stellar evolution, are known as Astrophysical BHs. Scientists have directly and indirectly established the existence of many astrophysical BHs of mass ranging from 10 solar mass to about several  Billion solar masses. There are other types of black holes, known as the Primordial Black Holes (PBHs) that are formed in the early universe, during the hot Big Bang plasma state, long before the formation of any stars. We can refer to them as  BHs from the Big Bang. Their masses could be as small as the mass of stone, unlike the astrophysical BHs. The speaker will discuss the significance of PBHs in addressing several issues in Cosmology, from Dark Matter to the existence of supermassive BHs to Hawking Radiation."
+        },
+        {
+            "title": "CMB Temperature Power Spectrum",
+            "date": "May 8th, 2020",
+            "speaker": "R Vasanth Kashyap",
+            "speaker_desc": "Int. M.Sc. B19, NISER",
+            "poster": "",
+            "link": "",
+            "abstract": "In this talk, I would like to take the audience into an understanding of the methods that enable us to move from the high uncertainties of cosmology to that of precision cosmology. All from the cosmic microwave background radiation. Understanding the CMB is possible by knowing what happened since the big bang to the creation of the CMB. How do we know the composition of the universe? How do we extract information from the fuzzy-looking cosmic microwave background? What information does this earliest snapshot of the universe contain? We would start with a brief introduction to The Big Bang model and inflation and how inflation explains the isotropy in the universe, which is observable in its current state. Later we would indulge ourselves in understanding the first notes of music in the universe, called the baryon acoustic oscillations. Further getting into the details of the CMB, a particular plot of the cosmic microwave background called the Power Spectrum is obtained, revealing all the secrets of the CMB. This eventually leads us to the results that are widely seen today about the constituents of the universe as 70% Dark Energy, 25% Dark Matter, and 4% Matter that we normally interact with."
+        },
+        {
+            "title": "Orbital Mechanics",
+            "date": "April 23rd, 2020",
+            "speaker": "Karan",
+            "speaker_desc": "Int. M.Sc. B17 SPS, NISER",
+            "poster": "",
+            "link": "",
+            "abstract": "Things in orbit don't behave in the most intuitive manner. In this talk, we will go over the basics of the rocket equation and how to calculate delta-v budgets. We will intuitively see how rockets launch and manoeuvre in orbit. All this will be done using the legendary video game 'Kerbal Space Program'."
+        },
+        {
+            "title": "The History of Measurement of the Speed of Light",
+            "date": "February 15th, 2020",
+            "speaker": "Abhipsa Mishra",
+            "speaker_desc": "Int. M.Sc. B18 SPS, NISER",
+            "poster": "",
+            "link": "",
+            "abstract": "With the values of myriads of fundamental constants of the Universe at a click away we sometimes lose contact from Newton's wise words, \"We are standing on the shoulders of giants\". So, on February 15, 6:30 pm, 2020, we shall pause to look down at those strong shoulders and try understanding the roots and tips of the quest for measuring the speed of light, a param fundamental constant. We shall have our humble beginnings at the naïve insights of the olden days and carry on to notice how the progress of technology and polishing of the human mind has helped us chase the value of speed of light to what we believe to be it's truest value."
+        },
+        {
+            "title": "Cosmological expansion and You ",
+            "date": "February 1st, 2020",
+            "speaker": "Akshay Priyadarshi and Karan",
+            "speaker_desc": "Int. M.Sc. B16, B17 SPS, NISER",
+            "poster": "",
+            "link": "",
+            "abstract": "Taking off from the topic of curvature, we delve into its implications in the real universe. Then, using a simple Newtonian approach, we derive the Friedmann equation, which relates the expansion to the energy and curvature of the universe. The equation is further used to model different versions of the universe, which gives us a perspective on the current observations. Finally, we introduce the mysterious Lambda to get an even more consistent model of the universe."
+        },
+        {
+            "title": "Straight Paths in Curved Spaces.",
+            "date": "January 15th, 2020",
+            "speaker": "Pushpak Pandey and Renu Raman Sahu",
+            "speaker_desc": "Int. M.Sc. B15 SPS, NISER",
+            "poster": "",
+            "link": "",
+            "abstract": "We know that light travels along a straight path, but is 'straight' what we know it to be? What does the space-time being flat or curved mean?  We shall explore these questions and discuss the notion of distance and curvature in a few simple geometries. We shall apply these ideas to find out the type of geometry we live in."
+        },
+        {
+            "title": "Tic Tac Toe Cosmology",
+            "date": "January 18th, 2020",
+            "speaker": "Nisarg Vyas & Chandranathan",
+            "speaker_desc": "Int. M.Sc. B17 SPS, NISER",
+            "poster": "",
+            "link": "",
+            "abstract": "Questions regarding our place in this vast object called universe are known to have invoked serious considerations about our understanding of it. We explore some of the school of thoughts in the talk. Translating the ideas of the talk in the language of mathematics flavoured with some infinities and observations, the talk, in itself, is complete! Borrowing rigour, contemplation and aesthetic from philosophy and science alike, we, sitting on the shoulders of giants, embark on a journey to the centre of the universe."
+        },
+        {
+            "title": "The Story Behind the First Image of a Black Hole",
+            "date": "January 11th, 2020",
+            "speaker": "Dripto Biswas",
+            "speaker_desc": "Int. M.Sc. B17 SPS, NISER",
+            "poster": "",
+            "link": "",
+            "abstract": "Last year, the scientific community was shown the first image of a black hole. In this talk, we will review the basic physics of a black hole, and why it is difficult to capture one using standard imaging techniques. We will also take a quick look at Very Long Baseline Interferometry (VLBI), which was the principle behind the Event Horizon Telescope. Finally, we will compare the image with the existing models of a black hole , and try to identify various components of the same."
+        }
+    ],
+    "year19": [
+        {
+            "title": "Life on Mars",
+            "date": "August 25th, 2019",
+            "speaker": "Kanishk Kumar",
+            "speaker_desc": "Int. M.Sc., SBS, NISER",
+            "poster": "",
+            "link": "",
+            "abstract": "Life on other planets has always been a fascinating endeavour for humans. But it doesn’t necessarily mean extraterrestrial life or as we fondly call them, aliens. It also means exploring the possibility of settling human life on other planets. Our best possible candidate for this is Mars. This planet has been well explored, with respect to other planets and will be at the focus of several missions in the future as well. I will explain the current understanding of the situation of establishing life there, as well as future possibilities. Hopefully, it won’t break marriages of the Indians who settle there ;-)."
+        },
+        {
+            "title": "Climbing the ladder of cosmos",
+            "date": "August 24th, 2019",
+            "speaker": "Chandranathan and Nisarg Vyas",
+            "speaker_desc": "Int. M.Sc. B17 SPS, NISER",
+            "poster": "",
+            "link": "",
+            "abstract": "This elegant universe instils awe in all of us. Inquiring minds often ponder about their place in this big \"mess\". In this talk we will, step by step, climb the ladder of the cosmic distances. For a start, using only a ruler and a protractor we will see how far we can go. Then with the understanding of light, we will climb a step further and fathom the cosmic 'depths'."
+        },
+        {
+            "title": "Virtual Astronomical Observatories",
+            "date": "February 2nd, 2019",
+            "speaker": "Satyam Chandra Mishra and Anshuman Padhi",
+            "speaker_desc": "Int. M.Sc. B15 & B18 SPS, NISER",
+            "poster": "",
+            "link": "",
+            "abstract": "In an extension to the last week’s NAC series talk, this time we will learn how to analyze the data collected from the telescopes. For this, we will use Virtual Educational Observatory (VIREO) which is a simulated observatory and can access a huge database of astronomical information, both through a set of dedicated catalogues and via online databases. It also simulates a very large and diverse sample of the observable astronomical sky, as seen with optical and radio telescopes, and thus can be used to carry out a wide variety of realistic observing projects. We will start by discussing Kepler's Laws and see how we can use them to predict the mass of the Jupiter, by observing its moons. I’ll then present the basics of pulsar observation and explain the signal extraction technique from simulated noisy data."
+        }
+    ],
+    "year18": [
+        {
+            "title": "The theory of Special Relativity",
+            "date": "October 6th, 2018",
+            "speaker": "Ashish Mishra and Debaiudh Das",
+            "speaker_desc": "Int. M.Sc. B15 SPS, NISER",
+            "poster": "",
+            "link": "",
+            "abstract": ""
+        },
+        {
+            "title": "The Continuous Spectrum of Light",
+            "date": "September 3rd, 2018",
+            "speaker": "Dhanush S",
+            "speaker_desc": "Int. M.Sc. B17 SPS, NISER",
+            "poster": "",
+            "link": "",
+            "abstract": ""
+        },
+        {
+            "title": "The Cosmic Distance Ladder",
+            "date": "August 18th, 2018",
+            "speaker": "Karan and Manabputra",
+            "speaker_desc": "Int. M.Sc. B17 & B16 SPS, NISER",
+            "poster": "",
+            "link": "",
+            "abstract": ""
+        },
+        {
+            "title": "The Celestial Sphere",
+            "date": "August 10th, 2018",
+            "speaker": "Akshay Priyadarshi and Nisarg Vyas",
+            "speaker_desc": "Int. M.Sc. B16 & B17 SPS, NISER",
+            "poster": "",
+            "link": "",
+            "abstract": ""
         }
     ]
 }

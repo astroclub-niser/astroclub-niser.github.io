@@ -67,7 +67,7 @@ export default async function Events() {
 
                 <figure className="event" key={id}>
                   <div className="event-img">
-                    <Image src={`/posts/${images[0]}`} width={500} height={500} alt={`${eventName}`} />
+                    <Image src={`/photos/${images[0]}`} width={500} height={500} alt={`${eventName}`} />
                   </div>
                   <div className="event-content">
                     <p className="event-name">{eventName}</p>

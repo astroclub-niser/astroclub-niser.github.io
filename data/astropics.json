@@ -1,6 +1,13 @@
 {
     "astrophotographs": [
         {
+            "object": "The Moon and its Craters",
+            "photographer": "",
+            "image": "moon-detailed.jpg",
+            "date": "October 6, 2023",
+            "description": "The most captivating and detailed image of the moon we have ever captured."
+        },
+        {
             "object": "Supermoon",
             "photographer": "",
             "image": "supermoon.png",
@@ -13,6 +20,34 @@
             "image": "blood-moon-composite.jpg",
             "date": "November 7, 2022",
             "description": "A composite of the various phases of the moon during a lunar eclipse as seen during a 30 minute span through our 11\" telescope."
+        },
+        {
+            "object": "Partial Solar Eclipse",
+            "photographer": "",
+            "image": "ecplise-setting.jpg",
+            "date": "October 25, 2022",
+            "description": "The last solar eclipse of 2022 began at 4:56 pm and continued till sunset. We had conducted an observation session on the roof of SPS."
+        },
+        {
+            "object": "Milky Way",
+            "photographer": "Sourav Kumar",
+            "image": "milky-way23.jpg",
+            "date": "July 21, 2022",
+            "description": "Another amazingly detailed picture of the Mily Way spreading its arms, captured without a telescope!"
+        },
+        {
+            "object": "Star Trails",
+            "photographer": "Adesh Thawale",
+            "image": "star-trails23.jpg",
+            "date": "July 21, 2022",
+            "description": "They dance at night, their intricate yet ordered dance. No wonder, our eyes gravitate towards them at every chance."
+        },
+        {
+            "object": "Andromeda Galaxy",
+            "photographer": "Adesh Thawale",
+            "image": "../andromeda.jpg",
+            "date": "July 19, 2022",
+            "description": "\"A queen among stars, gracing winter skies; Magnetic eyes, rewarding those patient enough to look for her - the Andromeda Galaxy\". Winner of the winning the Astrophotography contest held as part of Rhapsody, IISc Bangalore."
         },
         {
             "object": "Messier 104 (Sombrero Galaxy)",
@@ -55,6 +90,13 @@
             "image": "M31.jpg",
             "date": "October 26, 2019",
             "description": "The image captures only its bright nucleus owing to its low brightness, apart from light pollution. Upon closer inspection, the galactic arms can be discerned by the sudden dip in intensity around the nucleus."
+        }
+    ],
+    "session": [
+        {
+            "image": ".jpg",
+            "date": "October 26, 2019",
+            "description": ""
         }
     ]
 }

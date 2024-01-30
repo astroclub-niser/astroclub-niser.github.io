@@ -11,7 +11,39 @@ h2.team-heading {
     font-weight: 600;
     color: $off-white;
     text-align: center;
-    margin-bottom: 50px;
+    margin-top: 30px;
+    line-height: 1;
+    position: relative;
+    display: inline-block;
+
+    &::after {
+        content: '';
+        position: absolute;
+        top: 50%;
+        height: 3px;
+        right: 0;
+        transform: translate(130%, 50%);
+        width: 70px;
+        background: $off-white;
+    }
+
+    &::before {
+        content: '';
+        position: absolute;
+        top: 50%;
+        height: 3px;
+        left: 0;
+        transform: translate(-130%, 50%);
+        width: 70px;
+        background: $off-white;
+    }
+}
+
+h3.team-heading-year {
+    font-family: $serif;
+    color: $grey;
+    font-size: 1.7rem;
+    margin-bottom: 30px;
 }
 
 .team-grid {
@@ -19,11 +51,17 @@ h2.team-heading {
     flex-wrap: wrap;
     justify-content: center;
     width: 80%;
+    margin-bottom: 30px;
     figure {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
         padding: 20px;
         margin: 10px;
         box-shadow: 0 0 30px #0005;
         background: #292929;
+        text-align: center;
         img {
             object-fit: cover;
             height: 230px;
@@ -42,6 +80,7 @@ h2.team-heading {
             font-size: 0.9rem;
         }
         .person-role {
+            display: inline-block;
             font-size: 1.05rem;
             text-wrap: wrap;
         }

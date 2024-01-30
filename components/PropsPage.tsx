@@ -3,7 +3,7 @@ export interface TeamProps {
 }
 
 export interface FICProps {
-    id:string, name:string, image:string, designation:string, school:string
+    id:string, name:string, image:string, designation:string, school:string, email: string
 }
 
 export interface EventProps {

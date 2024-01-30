@@ -24,13 +24,20 @@ export default async function FICs() {
       <h2 className="team-heading">Faculty Incharges</h2>
 
       <div className="team-grid">
-        {teamData.fics.map(({ id, name, image, designation, school}: FICProps) => (
+        {teamData.fics.map(({ id, name, image, designation, school, email}: FICProps) => (
           <figure className="person-card" key={id}>
             <Image src={`/team/${image}`} width={230} height={230} alt={`${name}`}/>
             <figcaption>
               <p className="person-name">{name}</p>
               <p className="person-role">{designation}</p>
               <p className="person-batch">{school}</p>
+              <ul className="person-socials">
+                <li>
+                  <a href={`mailto:${email}`} target="_blank" rel="noreferrer" className="mx-sm-2 mx-1">
+                    <FontAwesomeIcon icon={faEnvelope} className="" style={{ backgroundColor: '#0000' }} />
+                  </a>
+                </li>
+              </ul>
             </figcaption>
           </figure>
         ))}

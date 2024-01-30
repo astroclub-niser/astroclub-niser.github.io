@@ -14,7 +14,7 @@
     position: relative;
     height: 100vh;
     overflow: hidden;
-    background: url(../public/marc-sendra-martorell-unsplash.jpg) no-repeat fixed center;
+    background: url(../public/andromeda.jpg) no-repeat fixed center;
     background-size: cover;
 
     h1 {
@@ -30,6 +30,7 @@
         bottom: 20px;
         right: 20px;
         color: #fff5;
+        text-align: right;
     }
 
     // img {
@@ -201,7 +202,9 @@
 
         .magazine-previews {
             width: 95%;
-
+            figure {
+                margin: 10px;
+            }
             img {
                 width: 150px;
             }

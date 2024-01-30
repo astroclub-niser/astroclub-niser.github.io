@@ -1,0 +1,22 @@
+{
+    "projects": [
+        {
+            "name": "The Ballet of the Medicean Stars",
+            "description": "Our aim here was to find out the time-period of 4 bright moons of Jupiter (IO, Callisto, Ganymede, and Europa) on pure experimental background i.e., without using any theoretical knowledge. Further we also used the data to find the mass of Jupiter using some basic literature on the topic.",
+            "image": "/jupiter_and_moons.png",
+            "link": "/projects/jupiters-moons"
+        },
+        {
+            "name": "Stellar Photometry of a Variable Star",
+            "description": "(Ongoing Project) Using a CMOS sensor, we plan to perform photometry on a variable star system and measure it luminosity. The process includes calibrating our CMOS sensor and then measuring the star's brightness relative to fixed nearby objects in the night sky.",
+            "image": "/photometry.jpg",
+            "link": "/projects/photometry"
+        },
+        {
+            "name": "Spectrometry Project",
+            "description": "(Ongoing Project) Details coming soon.",
+            "image": "/spec.jpg",
+            "link": "/projects/spectrometry"
+        }
+    ]
+}

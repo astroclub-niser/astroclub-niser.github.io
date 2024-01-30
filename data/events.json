@@ -1,21 +1,80 @@
 {
     "upcoming": [],
+    "year24": [
+        {
+            "eventName": "Prerana",
+            "eventDate": "January 21st 2023",
+            "shortDesc": "As part of Prerana, a Zaaria initiative event for the kids of the campus security staff, IWD and housekeeping staff of NISER to foster innovative and scientific thinking, the NAC conducted a telescope session for the kids where they were able to observe the Moon and Jupiter through the club's 6 inch Newtonian telescopes. Various posters had also been put up for the perusal of the young ones. The club members also discussed various astronomical phenomena with the keenly interested folks present there.",
+            "blogEntry": "",
+            "images": [
+                "2024/prerana.jpg"
+            ]
+        }
+    ],
     "year23": [
+        {
+            "eventName": "Winter School Special",
+            "eventDate": "December 21st 2023",
+            "shortDesc": "On December 21st, 2023, at 10:30 PM, an observation session unfolded for Winter school students, along with participants from various workshops and faculty members. The aim was to explore celestial wonders such as the Orion Nebula, Moon, Jupiter, Uranus, Rigel, and select star clusters using both 8-inch and 11-inch telescopes. The educational session, attended by approximately 15 participants, included valuable data collection for the Orion and Crab Nebula.",
+            "blogEntry": "",
+            "images": [
+                "2023/winter.jpg"
+            ]
+        },
+        {
+            "eventName": "Club Induction Quiz",
+            "eventDate": "November 3rd 2023",
+            "shortDesc": "Club Induction quiz for interested Batch '23 students was held. An astronomy quiz with 10 basic level questions were displayed to the students to gauge their interest in astronomy.",
+            "blogEntry": "",
+            "images": [
+                "2023/induction23.jpg"
+            ]
+        },
+        {
+            "eventName": "Aditya L1 Launch Event",
+            "eventDate": "September 2nd 2023",
+            "shortDesc": "NAC held a live-stream as India witnessed the historic lauch of our indigenous mission Aditya L1 to study the Sun. We also discussed the science behind Lagrange Points and the how this mission can observe solar activities and its effect on space weather in real time.",
+            "blogEntry": "",
+            "images": [
+                "2023/adityaL1.jpg"
+            ]
+        },
         {
             "eventName": "Chandrayaan 3 Landing",
             "eventDate": "August 8th 2023",
             "shortDesc": "The nation united and so did we as we watched history in its making. The members of NISER have had the chance to witness the Chandrayaan 3 successfully land on the south pole of the moon, making India the first country to do so, in the live stream of Chandrayaan 3 held by NAC, with assistance from the Robotics club of NISER, on the evening of 23rd August 2023.",
             "blogEntry": "",
             "images": [
-                "chandrayaan3_landing/chandrayaan3_landing.webp"
+                "2023/chandrayaan3_landing.webp"
             ]
+        },
+        {
+            "eventName": "NANOGrav Announcement Livestream",
+            "eventDate": "June 28th 2023",
+            "shortDesc": "The historic announcement by NANOGrav in which they reported the results of the analysis of their 15 year data set, and interpretations of those results was live streamed by NAC in LH4, NISER Campus. Many interested students joined the live stream including the summer students. The stream was also held online on Google Meet for students outside campus.",
+            "blogEntry": "",
+            "images": ["2023/nanograv.jpg"]
+        },
+        {
+            "eventName": "Farewell for Batch '18",
+            "eventDate": "May 10th 2023",
+            "shortDesc": "Batch '18 NAC members were given a hearty farewell by the juniors in a celebration to commemorate their 5 year long journey in the NAC.",
+            "blogEntry": "",
+            "images": ["2023/farewell.jpg"]
         },
         {
             "eventName": "Open Day",
             "eventDate": "April 7th 2023",
             "shortDesc": "On the occasion of Open Day at NISER, the NAC, on 7th April 2023, demonstrated an experiment simulating the behavior of Gravitational Lenses on a tabletop, using Optical lenses. It started with a small talk on Einstein's General Theory of Relativity, which eventually led up to an explanation of the topic of our experiment's interest, 'Gravitational Lensing'. This was followed by explaining to the school students, about the 8-inch telescope owned by the NAC, along with a small observation session of the Earth's Moon.",
             "blogEntry": "",
-            "images": ["../photos/openday-1.jpg"]
+            "images": ["2023/openday-1.jpg"]
+        },
+        {
+            "eventName": "Tvisha '23",
+            "eventDate": "March 18th 2023",
+            "shortDesc": "During the Tvisha, the inter-college fest, NAC hosted two engaging activities: the \"ANTARIKSH\" Astro quiz competition and the \"GAGAN\" astrophotography competition. Students from various institutes participated, showcasing their skills. Victors received cash prizes and trophies as recognition of their achievements.",
+            "blogEntry": "",
+            "images": ["2023/tvisha-1.jpg"]
         }
     ],
     "year21": [
@@ -25,7 +84,7 @@
             "shortDesc": "COSNOVA was an online Inter-College Astronomy Competition that was organized by NAC, with events including Astro Treasure Hunt, Logo-Making, 'Elucidate' and a classic Astro Quiz.",
             "blogEntry": "cosnova21",
             "images": [
-                "cosnova21/1.png"
+                "2021/cosonova.png"
             ]
         }
     ],

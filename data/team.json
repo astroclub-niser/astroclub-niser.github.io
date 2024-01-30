@@ -1,45 +1,5 @@
 {
-    "present": [
-        {
-            "name": "Abhinav Roy",
-            "batch": 2020,
-            "image": "user.jpg",
-            "role": "Club Representative",
-            "caption": "",
-            "email": "abhinav.roy@niser.ac.in",
-            "insta": "",
-            "linkedin": ""
-        },
-        {
-            "name": "Niti Singh",
-            "batch": 2020,
-            "image": "niti.jpg",
-            "role": "Club Representative",
-            "caption": "Admiring stars for the energy it has? or wishing for its power to withstand the ash?",
-            "email": "niti.singh@niser.ac.in",
-            "linkedin": "https://www.linkedin.com/in/niti-singh-601653223/",
-            "insta": "https://www.instagram.com/nat_s__009"
-        },
-        {
-            "name": "Chandan Kumar Sahu",
-            "batch": 2019,
-            "image": "user.jpg",
-            "role": "Core member",
-            "caption": "",
-            "email": "chandankumar.sahu@niser.ac.in",
-            "insta": "",
-            "linkedin": ""
-        },
-        {
-            "name": "Dibya Bharati Pradhan",
-            "batch": 2019,
-            "image": "user.jpg",
-            "role": "Core member",
-            "caption": "",
-            "email": "dibyabharati.pradhan@niser.ac.in",
-            "insta": "",
-            "linkedin": ""
-        },
+    "advisory": [
         {
             "name": "R Vasanth Kashyap",
             "batch": 2019,
@@ -111,6 +71,58 @@
             "linkedin": "https://www.linkedin.com/in/aniket-nath-niser"
         },
         {
+            "name": "Srusti Sampanna",
+            "batch": 2021,
+            "image": "user.jpg",
+            "role": "Core member",
+            "caption": "",
+            "email": "srusti.sampanna@niser.ac.in",
+            "insta": "",
+            "linkedin": ""
+        }     
+    ],
+    "present": [
+        {
+            "name": "Abhinav Roy",
+            "batch": 2020,
+            "image": "user.jpg",
+            "role": "Club Representative",
+            "caption": "",
+            "email": "abhinav.roy@niser.ac.in",
+            "insta": "",
+            "linkedin": ""
+        },
+        {
+            "name": "Niti Singh",
+            "batch": 2020,
+            "image": "niti.jpg",
+            "role": "Club Representative",
+            "caption": "Admiring stars for the energy it has? or wishing for its power to withstand the ash?",
+            "email": "niti.singh@niser.ac.in",
+            "linkedin": "https://www.linkedin.com/in/niti-singh-601653223/",
+            "insta": "https://www.instagram.com/nat_s__009"
+        },
+        {
+            "name": "Chandan Kumar Sahu",
+            "batch": 2019,
+            "image": "user.jpg",
+            "role": "Observatory Representative",
+            "caption": "",
+            "email": "chandankumar.sahu@niser.ac.in",
+            "insta": "",
+            "linkedin": ""
+        },
+        {
+            "name": "Dibya Bharati Pradhan",
+            "batch": 2019,
+            "image": "user.jpg",
+            "role": "Observatory Representative",
+            "caption": "",
+            "email": "dibyabharati.pradhan@niser.ac.in",
+            "insta": "",
+            "linkedin": ""
+        },
+        {
             "name": "Upasana Das",
             "batch": 2020,
             "image": "user.jpg",
@@ -137,16 +149,6 @@
             "role": "Experiments Team Head",
             "caption": "",
             "email": "samarthm.nanjannavar@niser.ac.in",
-            "insta": "",
-            "linkedin": ""
-        },
-        {
-            "name": "Srusti Sampanna",
-            "batch": 2021,
-            "image": "user.jpg",
-            "role": "Core member",
-            "caption": "",
-            "email": "srusti.sampanna@niser.ac.in",
             "insta": "",
             "linkedin": ""
         },
@@ -191,32 +193,12 @@
             "linkedin": ""
         },
         {
-            "name": "Shakya Ratna Wahane",
-            "batch": 2022,
-            "image": "user.jpg",
-            "role": "Core member",
-            "caption": "",
-            "email": "shakyaratna.wahane@niser.ac.in",
-            "insta": "",
-            "linkedin": ""
-        },
-        {
             "name": "SriUma Maheshwari",
             "batch": 2022,
             "image": "user.jpg",
-            "role": "Induction Team Representative",
+            "role": "Induction & Events Team Lead",
             "caption": "",
             "email": "sriuma.maheswari@niser.ac.in",
-            "insta": "",
-            "linkedin": ""
-        },
-        {
-            "name": "Shiva Thanay Pandiri",
-            "batch": 2022,
-            "image": "shiva.jpg",
-            "role": "Core member",
-            "caption": "",
-            "email": "shivathanay.pandiri@niser.ac.in",
             "insta": "",
             "linkedin": ""
         },
@@ -277,25 +259,29 @@
             "name": "Dr. Jayesh Mahendra Goyal",
             "image": "jayesh.jpg",
             "designation": "Assistant Professor",
-            "school": "School of Earth & Planetary Sciences"
+            "school": "School of Earth & Planetary Sciences",
+            "email": "jgoyal@niser.ac.in"
         },
         {
             "name": "Dr. Luke Robert Chamandy",
             "image": "luke.jpg",
             "designation": "Reader-F",
-            "school": "School of Physical Sciences"
+            "school": "School of Physical Sciences",
+            "email": "lchamandy@niser.ac.in"
         },
         {
             "name": "Dr. Liton Majumdar",
             "image": "liton.png",
             "designation": "Reader-F",
-            "school": "School of Earth & Planetary Sciences"
+            "school": "School of Earth & Planetary Sciences",
+            "email": "liton@niser.ac.in"
         },
         {
             "name": "Dr. Tuhin Ghosh",
             "image": "tuhin.jpeg",
             "designation": "Reader-F",
-            "school": "School of Physical Sciences"
+            "school": "School of Physical Sciences",
+            "email": "tghosh@niser.ac.in"
         }
     ]
 }

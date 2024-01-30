@@ -14,7 +14,7 @@ const Footer = () => {
         <div className='mail'><h1>Contact Us</h1>
           <p><a href='mailto:astroclub@niser.ac.in'>astroclub@niser.ac.in</a></p>
         </div>
-        <div className='address'>School of Physical Sciences<br/>NISER,
+        <div className='address'>Room 514<br/>School of Physical Sciences<br/>NISER,
           Bhubaneswar<br/>
           P.O. Jatni, Khurda – 752050<br/>
           Odisha, India</div>
@@ -28,7 +28,7 @@ const Footer = () => {
             </a>
           </li>
           <li>
-            <a href="https://youtube.com/@niserastronomyclub4382" target="_blank" rel="noreferrer" className="mx-sm-2 mx-1">
+            <a href="https://www.youtube.com/@niser_astronomy_club" target="_blank" rel="noreferrer" className="mx-sm-2 mx-1">
               <FontAwesomeIcon icon={faYoutube} className="fa-2x rounded-lg p-2 social-icons" style={{ backgroundColor: '#0000' }} />
             </a>
           </li>
