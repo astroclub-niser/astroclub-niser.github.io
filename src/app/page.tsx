@@ -36,7 +36,7 @@ export default async function Home() {
       </div>
       <div id="home-gallery" className='section-home'>
         <h2>Gallery</h2>
-        <p>Some of the beautiful moments of the sky captured by our beloved members.</p>
+        <p className='page-description'>Some of the beautiful moments of the sky captured by our beloved members.</p>
         <div className="gallery-grid">
           {picsData.map(({ id, object, image, photographer, description }: AstroProps) => (
             <AstropicCard photographer={photographer} id={id} object={object} description={description} image={image} key={id} />

@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400&family=Playfair+Display:wght@600&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400&family=Playfair+Display:wght@600&display=swap');
 
 $blue: #0A151C;
 $dark-blue: #050B0F;
@@ -7,9 +7,9 @@ $dark-brown: #282626;
 $off-white: #DBDBDB;
 $grey: #888;
 
-$serif: 'Playfair Display';
 $condensed: var(--font-dinn);
-$sans-serif: 'Josefin Sans', var(--font-futura-book);
+$sans-serif: var(--poppins), 'Josefin Sans';
+$serif: var(--font-playfair-display), 'Playfair Display', serif;
 
 html {
     scroll-behavior: smooth;
@@ -27,6 +27,19 @@ body {
     background: $off-white;
 }
 
+
+main {
+    // font-family: $sans-serif;
+    color: $off-white;
+    background: url(../public/canvas.png);
+    background-attachment: fixed;
+    padding-bottom: 3rem;
+}
+
+main.main-body {
+    margin-top: 120px;
+}
+
 h1,
 h2,
 h3,
@@ -37,17 +50,6 @@ h6 {
     font-weight: 600;
 }
 
-main {
-    font-family: $sans-serif;
-    color: $off-white;
-    background: url(../public/canvas.png);
-    background-attachment: fixed;
-    padding-bottom: 3rem;
-}
-
-main.main-body {
-    margin-top: 120px;
-}
 
 nav {
     font-family: $serif;

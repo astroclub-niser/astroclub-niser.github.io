@@ -52,6 +52,7 @@ h3.team-heading-year {
     justify-content: center;
     width: 80%;
     margin-bottom: 30px;
+
     figure {
         display: flex;
         flex-direction: column;
@@ -62,45 +63,65 @@ h3.team-heading-year {
         box-shadow: 0 0 30px #0005;
         background: #292929;
         text-align: center;
+
         img {
             object-fit: cover;
             height: 230px;
         }
     }
+
     figcaption {
         color: $off-white;
         text-align: center;
+
         .person-name {
             font-weight: bold;
             font-size: 1.1rem;
             margin: 4px 0;
         }
+
         .person-batch {
             color: #999;
             font-size: 0.9rem;
         }
+
         .person-role {
             display: inline-block;
             font-size: 1.05rem;
             text-wrap: wrap;
         }
+
         .person-socials {
             display: flex;
             justify-content: center;
             margin-top: 10px;
+
             li {
                 margin: 0 5px;
             }
+
             svg {
                 height: 25px;
             }
+
             path {
                 fill: #999;
                 transition: fill .2s ease-in-out;
             }
+
             svg:hover path {
                 fill: #fff;
             }
+        }
+    }
+}
+
+@media (max-width: 500px) {
+    h2.team-heading {
+
+        &::after,
+        &::before {
+            width: 40px;
         }
     }
 }
