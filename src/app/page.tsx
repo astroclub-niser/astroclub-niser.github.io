@@ -38,8 +38,8 @@ export default async function Home() {
         <h2>Gallery</h2>
         <p>Some of the beautiful moments of the sky captured by our beloved members.</p>
         <div className="gallery-grid">
-          {picsData.map(({ id, object, image, description }: AstroProps) => (
-            <AstropicCard id={id} object={object} description={description} image={image} key={id} />
+          {picsData.map(({ id, object, image, photographer, description }: AstroProps) => (
+            <AstropicCard photographer={photographer} id={id} object={object} description={description} image={image} key={id} />
           ))}
         </div>
         <button className='btn'><Link href="/gallery">See More</Link></button>
