@@ -8,7 +8,7 @@ import SimpleImageSlider from "react-simple-image-slider";
 // }
 
 const elevenInch = [
-  { url: "/photos/11inch-1.jpg" },
+  { url: "/photos/11inch-1.JPG" },
   { url: "/photos/11inch-3.jpg" },
   { url: "/photos/11inch-4.jpg" },
   { url: "/photos/11inch-7.jpg" },
@@ -17,15 +17,15 @@ const elevenInch = [
 ];
 
 const eightInch = [
-  { url: "/photos/8inch-3.jpg" },
+  { url: "/photos/8inch-3.JPG" },
   { url: "/photos/8inch-2.jpg" },
   { url: "/photos/8inch-4.jpg" },
 ];
 
 const sixInch = [
-  { url: "/photos/6inch-1.jpg" },
-  { url: "/photos/6inch-2.jpg" },
-  { url: "/photos/6inch-3.jpg" },
+  { url: "/photos/6inch-1.JPG" },
+  { url: "/photos/6inch-2.JPG" },
+  { url: "/photos/6inch-3.JPG" },
   { url: "/photos/6inch-5.jpg" },
 ];
 
