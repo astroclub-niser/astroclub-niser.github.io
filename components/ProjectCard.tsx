@@ -8,8 +8,8 @@ export interface ProjectProps {
     id: string,
     name: string,
     description: string,
-    image?: string,
-    link?: string
+    image: string,
+    link: string
 }
 // export interface UncontrolledProps {
 //   // Custom CSS className to add to the zoomed <dialog>.
