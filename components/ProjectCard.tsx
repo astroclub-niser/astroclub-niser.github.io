@@ -11,10 +11,14 @@ export interface ProjectProps {
     image: string,
     link: string
 }
-// export interface UncontrolledProps {
-//   // Custom CSS className to add to the zoomed <dialog>.
-//   classDialog?: string
-// }
+
+function ReadMore({ link }: { link: string }) {
+    if (link) {
+        return (
+            <Link href={link}><button className="btn">Read More</button></Link>
+        )
+    }
+}
 
 export default function ProjectCard({ key, name, description, image, link }: ProjectProps) {
     return (
@@ -23,7 +27,7 @@ export default function ProjectCard({ key, name, description, image, link }: Pro
             <figcaption>
                 <h3>{name}</h3>
                 <p>{description}</p>
-                {/* <Link href={link}><button className="btn">Read More</button></Link> */}
+                <ReadMore link={link}></ReadMore>
             </figcaption>
         </figure>
     )

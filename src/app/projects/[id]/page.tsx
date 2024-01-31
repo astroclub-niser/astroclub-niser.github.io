@@ -7,13 +7,16 @@ export default async function Post({
 }: {
   params: { id: string }
 }) {
-  const { html, title, date } = await getPostById(id)
+  const { html, title, date, author } = await getPostById(id)
   return (
-    <article>
-      <h1>{title}</h1>
-      <h4>{date}</h4>
-      <div dangerouslySetInnerHTML={{ __html: html }} />
-    </article>
+    <main id='article-container'>
+      <article>
+        <h1 className='article-title'>{title}</h1>
+        <p className='article-author'>By {author}</p>
+        <p className='article-date'>{date}</p>
+        <div className='article-content' dangerouslySetInnerHTML={{ __html: html }} />
+      </article>
+    </main>
   )
 }
 
