@@ -21,12 +21,37 @@
             "description": "Open Day 2023"
         },
         {
+            "image": "2023/openday-5.jpg",
+            "date": "",
+            "description": "Open Day 2023"
+        },
+        {
             "image": "2023/chandrayaan3_landing.webp",
             "date": "",
             "description": "Chandrayan 3 Landing Livestream"
         },
         {
+            "image": "2023/chandrayan31.JPG",
+            "date": "",
+            "description": "Chandrayan 3 Landing Livestream"
+        },
+        {
             "image": "2023/cmos.jpg",
+            "date": "",
+            "description": ""
+        },
+        {
+            "image": "2023/obs-3.jpg",
+            "date": "",
+            "description": ""
+        },
+        {
+            "image": "2023/14.7.jpg",
+            "date": "",
+            "description": ""
+        },
+        {
+            "image": "2023/15.10.jpg",
             "date": "",
             "description": ""
         },
@@ -41,6 +66,41 @@
             "description": "Tvisha 2023"
         },
         {
+            "image": "2023/14.2(1).JPG",
+            "date": "",
+            "description": "Stargazing session on 14th February, 2022"
+        },
+        {
+            "image": "2023/14.2.JPG",
+            "date": "",
+            "description": "Stargazing session on 14th February, 2022"
+        },
+        {
+            "image": "2022/1.jpg",
+            "date": "",
+            "description": ""
+        },
+        {
+            "image": "2022/7.8.22.jpg",
+            "date": "",
+            "description": ""
+        },
+        {
+            "image": "2022/sunspot1.jpg",
+            "date": "",
+            "description": "Sunspot Observation Session"
+        },
+        {
+            "image": "2022/sunspot2.jpg",
+            "date": "",
+            "description": "Sunspot Observation Session"
+        },
+        {
+            "image": "2021/Kate-Alexander-meeting.png",
+            "date": "",
+            "description": "Meeting with Kate Alexander"
+        },
+        {
             "image": "6inch-2.JPG",
             "date": "",
             "description": ""
@@ -49,6 +109,41 @@
             "image": "6inch-6.JPG",
             "date": "",
             "description": ""
+        },
+        {
+            "image": "2019/4.JPG",
+            "date": "",
+            "description": ""
+        },
+        {
+            "image": "2019/5.JPG",
+            "date": "",
+            "description": "With Padma Shri Prof. Goswami, the chief scientist of Chandrayaan-1 and ex-director of PRL, Ahmedabad."
+        },
+        {
+            "image": "2019/chandra1.JPG",
+            "date": "",
+            "description": "A model of the Pragyan Rover made by the RoboTech Club"
+        },
+        {
+            "image": "2019/chandra2.jpeg",
+            "date": "",
+            "description": "NAC members busy preparing a model moon surface for the Pragyan rover prototype to walk over, before the Chandrayan 2 launch event"
+        },
+        {
+            "image": "2019/nac-wall.jpeg",
+            "date": "",
+            "description": ""
+        },
+        {
+            "image": "2019/11inch-first.jpeg",
+            "date": "",
+            "description": "Our first session with Celestron 1100 Edge HD (11 inch)"
+        },
+        {
+            "image": "2019/chandra4.jpg",
+            "date": "",
+            "description": "A model of the GSLV Mk-III rocket, the launch vehicle of Chandrayaan 2 made by members of NAC led by Pankaj Kumar."
         },
         {
             "image": "8inch-2.jpg",
@@ -62,6 +157,11 @@
         },
         {
             "image": "obs-2.jpg",
+            "date": "",
+            "description": ""
+        },
+        {
+            "image": "2018/rad1.jpeg",
             "date": "",
             "description": ""
         },

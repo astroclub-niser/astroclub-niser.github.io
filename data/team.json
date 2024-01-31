@@ -1,6 +1,16 @@
 {
     "advisory": [
         {
+            "name": "Abhinav Roy",
+            "batch": 2020,
+            "image": "user.jpg",
+            "role": "Club Representative",
+            "caption": "",
+            "email": "abhinav.roy@niser.ac.in",
+            "insta": "",
+            "linkedin": ""
+        },
+        {
             "name": "R Vasanth Kashyap",
             "batch": 2019,
             "image": "user.jpg",
@@ -82,16 +92,6 @@
         }     
     ],
     "present": [
-        {
-            "name": "Abhinav Roy",
-            "batch": 2020,
-            "image": "user.jpg",
-            "role": "Club Representative",
-            "caption": "",
-            "email": "abhinav.roy@niser.ac.in",
-            "insta": "",
-            "linkedin": ""
-        },
         {
             "name": "Niti Singh",
             "batch": 2020,
