@@ -1,7 +1,6 @@
 ---
 title: "The Ballet of the Medicean Stars"
-excerpt: ""
-date: "2023-10-22"
+date: 2023-10-23
 ---
 
 7th January 1610 was the day Galileo Galilei, with his self-made telescope, became the first person to observe the moons of Jupiter; just a day later, on 8 January, Simon Marius had also independently observed these moons. The names we use today for the four moons, namely, Io, Europa, Ganymede and Callisto, were given by Simon Marius. Galileo made significant conclusions from his observations; he concluded that these moons orbited Jupiter and found their time period. This was a remarkable result as it gave solid evidence for the heliocentric model of the solar system. So we set out to rediscover Galileo's results on the orbital periods of Jupiter's moons.
