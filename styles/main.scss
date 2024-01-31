@@ -6,6 +6,7 @@ $brown: #917151;
 $dark-brown: #282626;
 $off-white: #DBDBDB;
 $grey: #888;
+$bg: #191919;
 
 $condensed: var(--font-dinn);
 $sans-serif: var(--poppins), 'Josefin Sans';
@@ -13,6 +14,7 @@ $serif: var(--font-playfair-display), 'Playfair Display', serif;
 
 html {
     scroll-behavior: smooth;
+    background-color: $bg;
 }
 
 body {
@@ -20,6 +22,7 @@ body {
     font-family: $sans-serif;
     font-weight: 400;
     overflow-x: hidden;
+    background-color: $bg;
 }
 
 ::selection {
