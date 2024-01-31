@@ -95,12 +95,16 @@ nav {
             left: 50%;
             top: 30px;
             transform: translateX(-50%);
-            background-color: #111;
+            background-color: #1a1a1a;
             min-width: 160px;
             font-size: 1.1rem;
             box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
             z-index: 1;
             transition: all .2s ease-in-out;
+
+            a {
+                padding: 3px;
+            }
         }
 
         .dropdown:hover .dropdown-content {
@@ -108,6 +112,10 @@ nav {
             display: flex;
             flex-direction: column;
             text-align: center;
+        }
+
+        .dropdown-content a:hover {
+            background: #111;
         }
 
     }
@@ -195,6 +203,7 @@ nav {
     main.main-body {
         margin-top: 80px;
     }
+
     nav {
         font-size: 1rem;
 

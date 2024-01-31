@@ -15,7 +15,7 @@ export interface UncontrolledProps {
 
 export default function AstropicCard({ id, description, image }: SessionProps) {
   return (
-    <figure className="gallery-item" key={id}>
+    <figure className="gallery-item gallery-item-other" key={id}>
       <Zoom classDialog="astropic-zoom">
         <Image src={`/photos/${image}`} width={1200} height={1200} alt={`${image}`}/>
       </Zoom>

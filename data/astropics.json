@@ -50,6 +50,13 @@
             "description": "\"A queen among stars, gracing winter skies; Magnetic eyes, rewarding those patient enough to look for her - the Andromeda Galaxy\". Winner of the winning the Astrophotography contest held as part of Rhapsody, IISc Bangalore."
         },
         {
+            "object": "Messier 51 (Whirlpool Galaxy)",
+            "photographer": "Sourav",
+            "image": "whirlpool2.png",
+            "date": "",
+            "description": "Another stunning image of the Whirlpool galaxy, captured by NAC."
+        },
+        {
             "object": "Messier 104 (Sombrero Galaxy)",
             "photographer": "",
             "image": "sombrero.jpg",
@@ -62,6 +69,13 @@
             "image": "whirlpool-2.jpg",
             "date": "May 8, 2020",
             "description": "The larger M51a (NGC5194) and and a photobomb by its lesser known companion M51b(NGC5195). Located within the constellation Canes Venatici."
+        },
+        {
+            "object": "The Ring Nebula",
+            "photographer": "",
+            "image": "m57-ring.jpg",
+            "date": "",
+            "description": "The Ring Nebula, captured by NAC."
         },
         {
             "object": "The International Space Station",
@@ -90,13 +104,6 @@
             "image": "M31.jpg",
             "date": "October 26, 2019",
             "description": "The image captures only its bright nucleus owing to its low brightness, apart from light pollution. Upon closer inspection, the galactic arms can be discerned by the sudden dip in intensity around the nucleus."
-        }
-    ],
-    "session": [
-        {
-            "image": ".jpg",
-            "date": "October 26, 2019",
-            "description": ""
         }
     ]
 }

@@ -15,7 +15,7 @@ const Navbar = () => {
   };
 
   useEffect(() => {
-      setIsMobile(window.innerWidth <= 900)
+    setIsMobile(window.innerWidth <= 900)
   }, [])
 
   useEffect(() => {
@@ -26,7 +26,7 @@ const Navbar = () => {
   }, [isMobile]);
 
   return (
-    <nav className={`${isMobile ? "mobile" : "desktop"} ${isMobileOpen ? 'mobile-open': null}`}>
+    <nav className={`${isMobile ? "mobile" : "desktop"} ${isMobileOpen ? 'mobile-open' : null}`}>
 
       <FontAwesomeIcon onClick={toggleNav} icon={faXmark} className="nav-triggers" id="nav-close" style={{ backgroundColor: '#0000' }} />
 
@@ -40,15 +40,20 @@ const Navbar = () => {
 
         <li><Link onClick={toggleNav} href="/">Home</Link></li>
         <li><Link onClick={toggleNav} href="/about">About&nbsp;Us</Link></li>
-        <li><Link onClick={toggleNav} href="/gallery">Gallery</Link></li>
-        <li><Link onClick={toggleNav} href="/events">Events</Link></li>
-        <li className="dropdown"><Link onClick={toggleNav} href="/talks">Talks <FontAwesomeIcon icon={faCaretDown} className="" style={{ backgroundColor: '#0000' }} /></Link>
+        <li className="dropdown"><Link onClick={toggleNav} href="/gallery">Gallery <FontAwesomeIcon icon={faCaretDown} className="" style={{ backgroundColor: '#0000' }} /></Link>
           <div className="dropdown-content">
+            <Link onClick={toggleNav} href="/gallery">Astrophotographs</Link>
+            <Link onClick={toggleNav} href="/gallery/others">Club Photos</Link>
+          </div>
+        </li>
+        <li><Link onClick={toggleNav} href="/events">Events</Link></li>
+        <li><Link onClick={toggleNav} href="/talks">Talks</Link>
+          {/* <div className="dropdown-content">
             <Link onClick={toggleNav} href="/talks#upcoming">Upcoming</Link>
             <Link onClick={toggleNav} href="/talks#year24">2024</Link>
             <Link onClick={toggleNav} href="/talks#year23">2023</Link>  
             <Link onClick={toggleNav} href="/talks#year22">2022</Link>
-         </div>
+         </div> */}
         </li>
         <li><Link onClick={toggleNav} href="/projects">Projects</Link></li>
         <li><Link onClick={toggleNav} href="/equipments">Equipment</Link></li>

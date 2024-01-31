@@ -72,6 +72,7 @@
             // top: reset;
             // opacity: 1;
             transform: translateY(-100%);
+
             // bottom: 0;
             .astropic-description {
                 opacity: 1;
@@ -86,10 +87,18 @@
             height: 100%;
         }
     }
+}
 
-    // & > div > {
-    //     height: 100%;
-    // }
+.gallery-item-other {
+    height: 300px;
+    margin: 5px;
+
+    &:hover {
+
+        img {
+            opacity: .8;
+        }
+    }
 }
 
 @media (max-width: 1050px) {
@@ -101,6 +110,10 @@
 @media (max-width:760px) {
     .gallery-item {
         flex-basis: 100%;
+    }
+
+    .gallery-item-other {
+        height: 250px;
     }
 }
 
@@ -116,5 +129,9 @@
         }
 
         // flex-basis: 100%;
+    }
+
+    .gallery-item-other {
+        height: 200px;
     }
 }
