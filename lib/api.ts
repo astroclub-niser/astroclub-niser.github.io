@@ -20,9 +20,9 @@ async function getParserPre() {
     .use(remarkParse)
     .use(remarkRehype)
     .use(remarkGfm)
-    .use(rehypeShiki, {
-      highlighter: await shiki.getHighlighter({ theme: 'poimandres' }),
-    })
+    //.use(rehypeShiki, {
+    //  highlighter: await shiki.getHighlighter({ theme: 'poimandres' }),
+    //})
     .use(rehypeStringify)
     .use(rehypeSlug)
     .use(rehypeAutolinkHeadings, {
