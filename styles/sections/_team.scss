@@ -43,7 +43,6 @@ h3.team-heading-year {
     font-family: $serif;
     color: $grey;
     font-size: 1.7rem;
-    margin-bottom: 30px;
 }
 
 .team-grid {
@@ -51,7 +50,7 @@ h3.team-heading-year {
     flex-wrap: wrap;
     justify-content: center;
     width: 80%;
-    margin-bottom: 30px;
+    margin: 30px 0;
 
     figure {
         display: flex;

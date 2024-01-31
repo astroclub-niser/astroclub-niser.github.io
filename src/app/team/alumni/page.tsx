@@ -5,6 +5,7 @@ import Image from "next/image";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faInstagram, faLinkedin } from '@fortawesome/free-brands-svg-icons'
 import { faEnvelope } from '@fortawesome/free-solid-svg-icons'
+import { TeamProps } from "../../../../components/PropsPage";
 const { library, config } = require('@fortawesome/fontawesome-svg-core');
 library.add(faEnvelope, faLinkedin, faInstagram,)
 
@@ -20,15 +21,15 @@ export default async function Alumni() {
     <main id="section-team">
       <h1 className="page-heading">Decorated Members</h1>
       {/* <h2 className="team-heading">Core Committee 2023</h2> */}
-      <p className="page-description" >Come Back later!</p>
-      {/* <div className="team-grid">
-        {teamData.alumni.map(({ id, name, batch, image, role, email }) => (
-          <figure className="person-card">
+      {/* <p className="page-description" >Come Back later!</p> */}
+      <div className="team-grid">
+        {teamData.alumni.map(({ id, name, batch, image, role, email }: TeamProps) => (
+          <figure className="person-card" key={id}>
             <Image src={`/team/${image}`} width={230} height={230} alt={`${name}`} />
             <figcaption>
               <p className="person-name">{name}</p>
               <p className="person-batch">Batch {batch}</p>
-              <p className="person-role">{role}</p>
+              {/* <p className="person-role">{role}</p> */}
               <ul className="person-socials">
                 <li>
                   <a href={`mailto:${email}`} target="_blank" rel="noreferrer" className="mx-sm-2 mx-1">
@@ -39,7 +40,7 @@ export default async function Alumni() {
             </figcaption>
           </figure>
         ))}
-      </div> */}
+      </div>
 
     </main>
   )

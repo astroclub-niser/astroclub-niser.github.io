@@ -6,9 +6,19 @@
             "description": "NAC Team with our Club Hoodies!"
         },
         {
+            "image": "2024/solar-obs.jpg",
+            "date": "",
+            "description": "Solar Observation Session"
+        },
+        {
             "image": "2024/solar-obs.jpeg",
             "date": "",
             "description": "Solar Observation Session"
+        },
+        {
+            "image": "2024/29.1.jpeg",
+            "date": "",
+            "description": "NAC Talk Series"
         },
         {
             "image": "2023/openday-2.jpg",
@@ -68,15 +78,50 @@
         {
             "image": "2023/14.2(1).JPG",
             "date": "",
-            "description": "Stargazing session on 14th February, 2022"
+            "description": "Stargazing session on 14th February, 2023"
         },
         {
             "image": "2023/14.2.JPG",
             "date": "",
-            "description": "Stargazing session on 14th February, 2022"
+            "description": "Stargazing session on 14th February, 2023"
+        },
+        {
+            "image": "2022/childrensday1.JPG",
+            "date": "",
+            "description": "Children's Day 2022"
+        },
+        {
+            "image": "2022/childrensday2.JPG",
+            "date": "",
+            "description": "Children's Day 2022"
+        },
+        {
+            "image": "2022/childrensday3.JPG",
+            "date": "",
+            "description": "Children's Day 2022"
         },
         {
             "image": "2022/1.jpg",
+            "date": "",
+            "description": ""
+        },
+        {
+            "image": "2022/ind.jpg",
+            "date": "",
+            "description": ""
+        },
+        {
+            "image": "2022/ind1.jpg",
+            "date": "",
+            "description": ""
+        },
+        {
+            "image": "2022/ind2.jpg",
+            "date": "",
+            "description": ""
+        },
+        {
+            "image": "2022/11.jpg",
             "date": "",
             "description": ""
         },
@@ -131,6 +176,11 @@
             "description": "NAC members busy preparing a model moon surface for the Pragyan rover prototype to walk over, before the Chandrayan 2 launch event"
         },
         {
+            "image": "2019/chandra4.jpg",
+            "date": "",
+            "description": "A model of the GSLV Mk-III rocket, the launch vehicle of Chandrayaan 2 made by members of NAC led by Pankaj Kumar."
+        },
+        {
             "image": "2019/nac-wall.jpeg",
             "date": "",
             "description": ""
@@ -139,11 +189,6 @@
             "image": "2019/11inch-first.jpeg",
             "date": "",
             "description": "Our first session with Celestron 1100 Edge HD (11 inch)"
-        },
-        {
-            "image": "2019/chandra4.jpg",
-            "date": "",
-            "description": "A model of the GSLV Mk-III rocket, the launch vehicle of Chandrayaan 2 made by members of NAC led by Pankaj Kumar."
         },
         {
             "image": "8inch-2.jpg",
