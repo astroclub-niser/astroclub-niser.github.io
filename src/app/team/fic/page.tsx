@@ -39,7 +39,7 @@ export default async function FICs() {
                 </li>
                 {website &&
                   <li>
-                    <a href={`mailto:${email}`} target="_blank" rel="noreferrer" className="mx-sm-2 mx-1">
+                    <a href={website} target="_blank" rel="noreferrer" className="mx-sm-2 mx-1">
                       <FontAwesomeIcon icon={faLink} className="" style={{ backgroundColor: '#0000' }} />
                     </a>
                   </li>
