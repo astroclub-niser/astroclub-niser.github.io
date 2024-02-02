@@ -8,11 +8,25 @@
             "description": "The most captivating and detailed image of the moon we have ever captured."
         },
         {
+            "object": "Orion Nebula (Messier 42)",
+            "photographer": "Sourav Kumar",
+            "image": "orion_a2.png",
+            "date": "October 6, 2023",
+            "description": "Orion Nebula in all its beauty, taken using the club's 8\" telescope in the early hours of 6th October, 2023."
+        },
+        {
             "object": "Supermoon",
-            "photographer": "",
+            "photographer": "Vasant Kashyap and Vishal Meena",
             "image": "supermoon.png",
             "date": "August 31, 2023",
             "description": "The last blue supermoon for 14 years was captured by the club using our 8\" telescope and many hours of processing to obtain the high quality photograph."
+        },
+        {
+            "object": "A Composite Image of the Moon",
+            "photographer": "Sourav Kumar",
+            "image": "moon_composite.jpg",
+            "date": "November 28, 2022",
+            "description": "This is a composite image of the moon where we can also observe earthshine. During its cresent phase, the darker side of the Moon reflects indirect sunlight reflected from the Earth, while the other side reflects direct sunlight."
         },
         {
             "object": "Blood Moon",
@@ -51,14 +65,21 @@
         },
         {
             "object": "Messier 51 (Whirlpool Galaxy)",
-            "photographer": "Sourav",
+            "photographer": "Sourav Kumar",
             "image": "whirlpool2.png",
             "date": "",
             "description": "Another stunning image of the Whirlpool galaxy, captured by NAC."
         },
         {
-            "object": "Messier 104 (Sombrero Galaxy)",
+            "object": "The Occultation of Mars by the Moon",
             "photographer": "",
+            "image": "mars_occultation.jpg",
+            "date": "April 17, 2021",
+            "description": "On 17th April 2021, we managed to capture a unique site of the re-emergence of Mars from behind the Moon."
+        },
+        {
+            "object": "Messier 104 (Sombrero Galaxy)",
+            "photographer": "Karan Mahajan",
             "image": "sombrero.jpg",
             "date": "May 8, 2020",
             "description": "The dark region there is the galactic dust blocking the light from the stars in the galaxy. The brighter area in the middle is the galactic nucleus with a black-hole on a strict diet. Captured using the 11-inch."
@@ -104,6 +125,13 @@
             "image": "M31.jpg",
             "date": "October 26, 2019",
             "description": "The image captures only its bright nucleus owing to its low brightness, apart from light pollution. Upon closer inspection, the galactic arms can be discerned by the sudden dip in intensity around the nucleus."
+        },
+        {
+            "object": "Orion Nebula (Messier 42)",
+            "photographer": "Karan Mahajan",
+            "image": "orion-nebula-overexposed.jpg",
+            "date": "October 17, 2018",
+            "description": "\"..angel's breath against a frosted sky\", the Orion nebula in all its glory captured by our 8\" telescope."
         }
     ]
 }

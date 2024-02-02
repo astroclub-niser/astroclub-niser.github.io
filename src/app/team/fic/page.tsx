@@ -4,7 +4,7 @@ import Image from "next/image";
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faInstagram, faLinkedin } from '@fortawesome/free-brands-svg-icons'
-import { faEnvelope } from '@fortawesome/free-solid-svg-icons'
+import { faEnvelope, faLink } from '@fortawesome/free-solid-svg-icons'
 const { library, config } = require('@fortawesome/fontawesome-svg-core');
 library.add(faEnvelope, faLinkedin, faInstagram,)
 
@@ -24,7 +24,7 @@ export default async function FICs() {
       <h2 className="team-heading">Faculty Incharges</h2>
 
       <div className="team-grid">
-        {teamData.fics.map(({ id, name, image, designation, school, email}: FICProps) => (
+        {teamData.fics.map(({ id, name, image, designation, school, email, website}: FICProps) => (
           <figure className="person-card" key={id}>
             <Image src={`/team/${image}`} width={230} height={230} alt={`${name}`}/>
             <figcaption>
@@ -37,6 +37,13 @@ export default async function FICs() {
                     <FontAwesomeIcon icon={faEnvelope} className="" style={{ backgroundColor: '#0000' }} />
                   </a>
                 </li>
+                {website &&
+                  <li>
+                    <a href={`mailto:${email}`} target="_blank" rel="noreferrer" className="mx-sm-2 mx-1">
+                      <FontAwesomeIcon icon={faLink} className="" style={{ backgroundColor: '#0000' }} />
+                    </a>
+                  </li>
+                }
               </ul>
             </figcaption>
           </figure>

@@ -4,8 +4,8 @@ import Image from "next/image";
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faInstagram, faLinkedin } from '@fortawesome/free-brands-svg-icons'
-import { faEnvelope } from '@fortawesome/free-solid-svg-icons'
-import { TeamProps } from "../../../../components/PropsPage";
+import { faEnvelope, faComment } from '@fortawesome/free-solid-svg-icons'
+import { AddSocialIcon, TeamProps } from "../../../../components/PropsPage";
 const { library, config } = require('@fortawesome/fontawesome-svg-core');
 library.add(faEnvelope, faLinkedin, faInstagram,)
 
@@ -20,22 +20,28 @@ export default async function Alumni() {
   return (
     <main id="section-team">
       <h1 className="page-heading">Decorated Members</h1>
-      {/* <h2 className="team-heading">Core Committee 2023</h2> */}
-      {/* <p className="page-description" >Come Back later!</p> */}
       <div className="team-grid">
-        {teamData.alumni.map(({ id, name, batch, image, role, email }: TeamProps) => (
+        {teamData.alumni.map(({ id, name, batch, image, role, email, insta, linkedin, other, caption, dept }: TeamProps) => (
           <figure className="person-card" key={id}>
             <Image src={`/team/${image}`} width={230} height={230} alt={`${name}`} />
             <figcaption>
               <p className="person-name">{name}</p>
-              <p className="person-batch">Batch {batch}</p>
-              {/* <p className="person-role">{role}</p> */}
+              {batch < 2010 &&
+                <p className="person-extra">(Founder)</p>
+              }
+              <p className="person-batch">Batch {batch} ({dept})</p>
               <ul className="person-socials">
-                <li>
-                  <a href={`mailto:${email}`} target="_blank" rel="noreferrer" className="mx-sm-2 mx-1">
-                    <FontAwesomeIcon icon={faEnvelope} className="" style={{ backgroundColor: '#0000' }} />
-                  </a>
-                </li>
+                <AddSocialIcon link={email} type='email' />
+                <AddSocialIcon link={insta} type='insta' />
+                <AddSocialIcon link={linkedin} type='linkedin' />
+                <AddSocialIcon link={other} type='other' />
+                {caption &&
+                  <li>
+                    <a href='#' target="_blank" rel="noreferrer" className="mx-sm-2 mx-1">
+                      <FontAwesomeIcon icon={faComment} className="" style={{ backgroundColor: '#0000' }} />
+                    </a>
+                  </li>
+                } 
               </ul>
             </figcaption>
           </figure>

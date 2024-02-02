@@ -5,70 +5,60 @@
             "batch": 2020,
             "image": "user.jpg",
             "role": "Club Representative",
-            "caption": "",
             "email": "abhinav.roy@niser.ac.in",
-            "insta": "",
-            "linkedin": ""
+            "dept": "SPS"
         },
         {
             "name": "R Vasanth Kashyap",
             "batch": 2019,
             "image": "user.jpg",
             "role": "Core member",
-            "caption": "",
             "email": "vasanth.kashyap@niser.ac.in",
-            "insta": "",
-            "linkedin": ""
+            "dept": "SPS"
         },
         {
             "name": "Abha Vishwakarma",
             "batch": 2019,
-            "image": "user.jpg",
+            "image": "abha.jpg",
             "role": "Core member",
-            "caption": "",
+            "caption": "Its really nice to be a part of such an active community of people who love Astrophysics so much!",
             "email": "abha.vishwakarma@niser.ac.in",
-            "insta": "",
-            "linkedin": ""
+            "insta": "penguins.wanna.fly.too",
+            "linkedin": "abha-vishwakarma",
+            "other": "https://sites.google.com/view/abhavishwakarma/",
+            "dept": "SPS"
         },
         {
             "name": "Gayathri Santhosh",
             "batch": 2019,
-            "image": "user.jpg",
+            "image": "gayathri.jpg",
             "role": "Core member",
-            "caption": "",
             "email": "gayathri.santhosh@niser.ac.in",
-            "insta": "",
-            "linkedin": ""
+            "dept": "SPS"
         },
         {
             "name": "Ratul Das",
             "batch": 2019,
-            "image": "user.jpg",
+            "image": "ratul.jpg",
             "role": "Core member",
-            "caption": "",
             "email": "ratul.das@niser.ac.in",
-            "insta": "",
-            "linkedin": ""
+            "dept": "SPS"
         },
         {
             "name": "Devamrutha IS",
             "batch": 2019,
             "image": "user.jpg",
             "role": "Core member",
-            "caption": "",
             "email": "devamrutha.is@niser.ac.in",
-            "insta": "",
-            "linkedin": ""
+            "dept": "SPS"
         },
         {
             "name": "Maitrey Sharma",
             "batch": 2019,
             "image": "user.jpg",
             "role": "Core member",
-            "caption": "",
             "email": "maitrey.sharma@niser.ac.in",
-            "insta": "",
-            "linkedin": ""
+            "dept": "SPS"
         },
         {
             "name": "Aniket Nath",
@@ -77,19 +67,55 @@
             "role": "Core member",
             "caption": "... and the rest is rust and stardust.",
             "email": "aniket.nath@niser.ac.in",
-            "insta": "https://www.instagram.com/baryonik_matter/",
-            "linkedin": "https://www.linkedin.com/in/aniket-nath-niser"
+            "insta": "baryonik_matter",
+            "linkedin": "aniket-nath-niser",
+            "dept": "SPS"
         },
         {
             "name": "Srusti Sampanna",
             "batch": 2021,
+            "image": "srusti.jpg",
+            "role": "Core member",
+            "email": "srusti.sampanna@niser.ac.in",
+            "dept": "SPS"
+        },
+        {
+            "name": "S Rajalakshmi",
+            "batch": 2019,
+            "image": "rajalakshmi.jpg",
+            "role": "Core member",
+            "email": "vistavision.rs@gmail.com",
+            "insta": "vista_vision",
+            "dept": "SBS"
+        },
+        {
+            "name": "Aheesh Chandrakant Hedge",
+            "batch": 2019,
             "image": "user.jpg",
             "role": "Core member",
+            "email": "aheesh.hedge@niser.ac.in",
+            "dept": "SPS"
+        },
+        {
+            "name": "Sourav Kumar Sahu",
+            "batch": 2019,
+            "image": "sourav2.jpg",
+            "role": "Core member",
+            "email": "sourav.sahu@niser.ac.in",
+            "insta": "52_shades_of_a_deck",
+            "dept": "SPS"
+        },
+        {
+            "name": "Tridev Sahu",
+            "batch": 2022,
+            "image": "tridev.jpg",
+            "role": "Core member",
             "caption": "",
-            "email": "srusti.sampanna@niser.ac.in",
-            "insta": "",
-            "linkedin": ""
-        }     
+            "email": "tridev.sahu@niser.ac.in",
+            "insta": "t.r.4.5",
+            "linkedin": "tridev-sahu-812812249",
+            "dept": "SPS"
+        }
     ],
     "present": [
         {
@@ -99,118 +125,110 @@
             "role": "Club Representative",
             "caption": "Admiring stars for the energy it has? or wishing for its power to withstand the ash?",
             "email": "niti.singh@niser.ac.in",
-            "linkedin": "https://www.linkedin.com/in/niti-singh-601653223/",
-            "insta": "https://www.instagram.com/nat_s__009"
+            "linkedin": "niti-singh-601653223",
+            "insta": "nat_s__009",
+            "dept": "SPS"
         },
         {
             "name": "Chandan Kumar Sahu",
             "batch": 2019,
-            "image": "user.jpg",
+            "image": "chandan.jpg",
             "role": "Observatory Representative",
-            "caption": "",
             "email": "chandankumar.sahu@niser.ac.in",
-            "insta": "",
-            "linkedin": ""
+            "dept": "SPS"
         },
         {
             "name": "Dibya Bharati Pradhan",
             "batch": 2019,
             "image": "user.jpg",
             "role": "Observatory Representative",
-            "caption": "",
             "email": "dibyabharati.pradhan@niser.ac.in",
-            "insta": "",
-            "linkedin": ""
+            "dept": "SPS"
         },
         {
             "name": "Upasana Das",
             "batch": 2020,
+            "image": "upasana.jpg",
+            "role": "Magazine Team Head",
+            "email": "upasana.das@niser.ac.in",
+            "insta": "upasana_das",
+            "linkedin": "upasana-das-01ud",
+            "dept": "SPS"
+        },
+        {
+            "name": "Sagar Prakash Barad",
+            "batch": 2020,
             "image": "user.jpg",
             "role": "Magazine Team Head",
-            "caption": "",
-            "email": "upasana.das@niser.ac.in",
-            "insta": "",
-            "linkedin": ""
+            "email": "sagar.barad@niser.ac.in",
+            "dept": "SPS"
         },
         {
             "name": "Anurenj ER",
             "batch": 2021,
-            "image": "user.jpg",
+            "image": "anurenj.jpg",
             "role": "Talks Representative",
-            "caption": "",
             "email": "anurenj.er@niser.ac.in",
-            "insta": "",
-            "linkedin": ""
+            "other": "https://twitter.com/Anurenj_E_R",
+            "dept": "SMS"
         },
         {
             "name": "Samarth Mohan Nanjannavar",
             "batch": 2021,
             "image": "user.jpg",
             "role": "Experiments Team Head",
-            "caption": "",
             "email": "samarthm.nanjannavar@niser.ac.in",
-            "insta": "",
-            "linkedin": ""
+            "dept": "SPS"
         },
         {
             "name": "Arnab Biswas",
             "batch": 2022,
             "image": "arnab.jpg",
             "role": "Training Committee Lead",
-            "caption": "",
             "email": "arnab.biswas@niser.ac.in",
-            "insta": "",
-            "linkedin": "http://www.linkedin.com/in/arnab-biswas-036a19296"
+            "linkedin": "arnab-biswas-036a19296",
+            "dept": "SPS"
         },
         {
             "name": "Asmi Nandy",
             "batch": 2022,
             "image": "asmi.jpg",
             "role": "Outreach Coordinator",
-            "caption": "",
             "email": "asmi.nandy@niser.ac.in",
-            "insta": "https://www.instagram.com/asminandy2003/",
-            "linkedin": "http://www.linkedin.com/in/asminandy"
+            "insta": "asminandy2003",
+            "linkedin": "asminandy",
+            "dept": "SCS"
         },
         {
             "name": "Dipam Naskar",
             "batch": 2022,
-            "image": "user.jpg",
+            "image": "dipam.jpg",
             "role": "Newsletter Team Lead",
-            "caption": "",
+            "caption": "Happy Stargazing!",
             "email": "dipam.naskar@niser.ac.in",
-            "insta": "",
-            "linkedin": ""
+            "insta": "dipam.naskar",
+            "linkedin": "dipam-naskar-01231a287",
+            "dept": "SBS"
         },
         {
             "name": "Gayatri",
             "batch": 2022,
             "image": "gayatri.jpg",
             "role": "Website Coordinator",
-            "caption": "",
             "email": "gayatri.p@niser.ac.in",
-            "insta": "",
-            "linkedin": ""
+            "linkedin": "gayatri-p-a7a348267",
+            "dept": "SPS"
         },
         {
-            "name": "SriUma Maheshwari",
+            "name": "SriUma Maheshwari V",
             "batch": 2022,
             "image": "user.jpg",
             "role": "Induction & Events Team Lead",
             "caption": "",
             "email": "sriuma.maheswari@niser.ac.in",
-            "insta": "",
-            "linkedin": ""
-        },
-        {
-            "name": "Tridev Sahu",
-            "batch": 2022,
-            "image": "tridev.jpg",
-            "role": "Core member",
-            "caption": "",
-            "email": "tridev.sahu@niser.ac.in",
-            "insta": "https://www.instagram.com/t.r.4.5/",
-            "linkedin": "http://www.linkedin.com/in/tridev-sahu-812812249"
+            "insta": "sriumamaheshwarivittal",
+            "linkedin": "sriuma-maheshwari-v-321701246",
+            "dept": "SPS"
         },
         {
             "name": "Vishal Meena",
@@ -219,29 +237,17 @@
             "role": "Astrophotography Head",
             "caption": "",
             "email": "vishal.meena@niser.ac.in",
-            "insta": "https://www.instagram.com/vishal._.meena0/",
-            "linkedin": "http://www.linkedin.com/in/vishal-meena-ba569b208"
+            "insta": "vishal._.meena0",
+            "linkedin": "vishal-meena-ba569b208",
+            "dept": "SCS"
         }
     ],
     "alumni": [
         {
-            "name": "Anshuman Padhi",
+            "name": "Abhipsa Mishra",
             "batch": 2018,
             "image": "user.jpg",
-            "role": "Former Club Representative",
-            "caption": "",
-            "email": "",
-            "insta": "",
-            "linkedin": ""
-        },{
-            "name": "Pulkit Ojha",
-            "batch": 2018,
-            "image": "pulkit.JPG",
-            "caption": "Stars are living organisms. They take birth, produce remnants, die and take rebirths as zombies. ",
-            "email": "pulkitojha0901@gmail.com",
-            "role":"Advisory Committee",
-            "insta": "https://www.instagram.com/o.pulkit",
-            "linkedin": "https://www.linkedin.com/in/pulkit-ojha-9249171b1"
+            "dept": "SPS"
         },
         {
             "name": "Adesh Natthuji Thawale ",
@@ -250,8 +256,143 @@
             "caption": "Pale blue dot.",
             "email": "adesh.thawale@stonybrook.edu",
             "role":"Clown in chief",
-            "insta": "https://www.instagram.com/nearacidrat.pdf",
-            "linkedin": ""
+            "insta": "nearacidrat.pdf",
+            "linkedin": "",
+            "dept": "SCS"
+        },
+        {
+            "name": "Akshay Priyadarshi",
+            "batch": 2016,
+            "image": "user.jpg",
+            "dept": "SPS"
+        },
+        {
+            "name": "Anamika Jeethendran",
+            "batch": 2017,
+            "image": "user.jpg",
+            "dept": "SPS"
+        },
+        {
+            "name": "Anshuman Padhi",
+            "batch": 2018,
+            "image": "anshuman.jpeg",
+            "role": "Former Club Representative",
+            "caption": "NAC has been the best and the most independent club of NISER and it is because we are a highly motivated team. NAC has shaped me as a person, while giving me sheer joy in life.",
+            "email": "padhi.anshuman31@gmail.com",
+            "insta": "anshuman.padhi",
+            "linkedin": "anshuman-padhi-4379701ab",
+            "other": "+49-155100377882",
+            "dept": "SPS"
+        },
+        {
+            "name": "Chandranathan A",
+            "batch": 2017,
+            "image": "user.jpg",
+            "dept": "SPS"
+        },
+        {
+            "name": "Danush Shekar",
+            "batch": 2017,
+            "image": "user.jpg",
+            "dept": "SPS"
+        },
+        {
+            "name": "Datti Raga Sahiti",
+            "batch": 2018,
+            "image": "user.jpg",
+            "dept": "SBS"
+        },
+        {
+            "name": "Lt. Debashish Jena",
+            "batch": 2014,
+            "image": "user.jpg",
+            "dept": "SPS"
+        },
+        {
+            "name": "E A Sreeram",
+            "batch": 2016,
+            "image": "sreeram.jpg",
+            "caption": "The club has grown a lot and you guys are doing a wonderful job. We're just waiting for the latest stunning pictures to drop!!",
+            "email": "sreerameak@gmail.com",
+            "role":"",
+            "insta": "easreeram",
+            "linkedin": "easreeram",
+            "dept": "SPS"
+        },
+        {
+            "name": "Himanshu Raj",
+            "batch": 2008,
+            "image": "user.jpg",
+            "dept": "SPS"
+        },
+        {
+            "name": "Karan",
+            "batch": 2017,
+            "image": "karan.jpg",
+            "caption": "",
+            "email": "karan42mahajan@gmail.com",
+            "role":"",
+            "insta": "karanprobably",
+            "linkedin": "",
+            "dept": "SPS"
+        },
+        {
+            "name": "Kishan Deka",
+            "batch": 2017,
+            "image": "user.jpg",
+            "dept": "SPS"
+        },
+        {
+            "name": "Kishore Sourav",
+            "batch": 2017,
+            "image": "user.jpg",
+            "dept": "SPS"
+        },
+        {
+            "name": "Nikhil Keshav",
+            "batch": 2018,
+            "image": "user.jpg",
+            "dept": "SPS"
+        },
+        {
+            "name": "Nisarg Vyas",
+            "batch": 2017,
+            "image": "user.jpg",
+            "dept": "SPS"
+        },
+        {
+            "name": "Pulkit Ojha",
+            "batch": 2018,
+            "image": "pulkit.JPG",
+            "caption": "Stars are living organisms. They take birth, produce remnants, die and take rebirths as zombies. ",
+            "email": "pulkitojha0901@gmail.com",
+            "role":"Advisory Committee",
+            "insta": "o.pulkit",
+            "linkedin": "pulkit-ojha-9249171b1",
+            "dept": "SPS"
+        },
+        {
+            "name": "Satyam Chandra Mishra ",
+            "batch": 2015,
+            "image": "satyam.jpeg",
+            "caption": "Dear Astronomy Enthusiasts, \nWhen someone says NAC, the first thing that comes into my mind is the friendships formed within the club's close-knit community which were more than just connections; they were constellations in the vast sky of my college experience. The mutual passion for astronomy brought us together, creating a supportive environment fueled our collective journey. In moments of academic challenges or personal trials, it was within the comforting glow of like-minded peers that I found solace and encouragement. NAC became a second home where our shared passion for the cosmos transformed acquaintances into lifelong friends. The wealth of knowledge exchanged during late-night stargazing sessions, discussions about cosmic phenomena, and projects was immeasurable. Each member brought a unique perspective, enriching our collective understanding of the cosmos.\nTo the future torchbearers of NAC, relish every moment under the star-studded canopy of the club. Treasure the friendships, seek and offer support, and embrace the invaluable lessons that come from your peers. As you embark on your astronomical voyage, I hope you experience the same sense of wonder and camaraderie that defined my tenure. Let the sky serve as a constant reminder of endless possibilities - just as it did for me. In moments of challenge, consider your problems as mere motes of dust against the vast celestial canvas. Embrace the boundless opportunities that the cosmos and the club offer.\nLife, much like the universe, is to be enjoyed to its fullest extent. May your journey in the NISER Astronomy Club be filled with discovery, learning, and unforgettable moments.\nHere's to the enduring magic of NAC and the limitless wonders that lie ahead.\nWarm regards,\nSatyam Chandra Mishra\nProud NAC Alumnus",
+            "email": "satyamchandramishra@gmail.com",
+            "role":"",
+            "insta": "satyam_chandra_mishra",
+            "linkedin": "satyam-chandra-mishra-4b0031230",
+            "dept": "SPS"
+        },
+        {
+            "name": "Swagat Sourav Mishra",
+            "batch": 2008,
+            "image": "user.jpg",
+            "dept": "SPS"
+        },
+        {
+            "name": "Ved Prakash Roy",
+            "batch": 2007,
+            "image": "user.jpg",
+            "dept": "SCS"
         }
     ],
     "fics": [
@@ -260,7 +401,8 @@
             "image": "jayesh.jpg",
             "designation": "Assistant Professor",
             "school": "School of Earth & Planetary Sciences",
-            "email": "jgoyal@niser.ac.in"
+            "email": "jgoyal@niser.ac.in",
+            "website": "http://www.niser.ac.in/~jgoyal/"
         },
         {
             "name": "Dr. Luke Robert Chamandy",
@@ -274,7 +416,8 @@
             "image": "liton.png",
             "designation": "Reader-F",
             "school": "School of Earth & Planetary Sciences",
-            "email": "liton@niser.ac.in"
+            "email": "liton@niser.ac.in",
+            "website": "http://www.niser.ac.in/~liton/"
         },
         {
             "name": "Dr. Tuhin Ghosh",

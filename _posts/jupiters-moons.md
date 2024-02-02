@@ -22,5 +22,5 @@ We can see that the errors associated with their values are very low; this was t
 ![image info](/posts/galilean-moons/plot.jpg)
 
 We further extended our experiment to find the mass of Jupiter, and we proceeded to do this by first calculating how much distance 1 pixel corresponds to using the size of Jupiter from the literature. We then used this to find the radius of the orbit of the moons, which was in pixels that had been obtained from the sin curve fitting and their corresponding orbital periods, to calculate the actual mass
-of Jupiter. The mass of Jupiter we found was (1.737 &pm; 0.004 )X 10^27 Kg, which again was remarkably close to the accepted value, i.e. (1.8981 &pm; 0.0002 ) X 10^27 Kg. We thank everyone who was part of this experiment. And this concludes our experiment. 
+of Jupiter. The mass of Jupiter we found was ( 1.737 &pm; 0.004 ) &#x2a2f; 10^27 Kg, which again was remarkably close to the accepted value, i.e. ( 1.8981 &pm; 0.0002 ) &#x2a2f; 10^27 Kg. We thank everyone who was part of this experiment. And this concludes our experiment. 
 

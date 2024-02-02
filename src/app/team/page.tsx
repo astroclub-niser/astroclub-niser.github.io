@@ -2,13 +2,7 @@ import { Metadata } from "next";
 import { promises as fs } from 'fs';
 import Image from "next/image";
 
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faInstagram, faLinkedin } from '@fortawesome/free-brands-svg-icons'
-import { faEnvelope } from '@fortawesome/free-solid-svg-icons'
-const { library, config } = require('@fortawesome/fontawesome-svg-core');
-library.add(faEnvelope, faLinkedin, faInstagram)
-
-import { TeamProps } from '../../../components/PropsPage'
+import { AddSocialIcon, TeamProps } from '../../../components/PropsPage'
 
 export const metadata: Metadata = {
   title: 'The Team | NISER Astronomy Club',
@@ -21,24 +15,23 @@ export default async function Team() {
   return (
     <main id="section-team">
       <h1 className="page-heading">Meet Our Team</h1>
-      
+
       <h2 className="team-heading">Core Committee</h2>
       <h3 className="team-heading-year">2023-24</h3>
 
       <div className="team-grid">
-        {teamData.present.map(({ id, name, batch, image, role, email }: TeamProps) => (
+        {teamData.present.map(({ id, name, batch, image, role, email, insta, linkedin, other, dept }: TeamProps) => (
           <figure className="person-card" key={id}>
-            <Image src={`/team/${image}`} width={230} height={230} alt={`${name}`}/>
+            <Image src={`/team/${image}`} width={230} height={230} alt={`${name}`} />
             <figcaption>
               <p className="person-name">{name}</p>
-              <p className="person-batch">Batch {batch}</p>
+              <p className="person-batch">Batch {batch} ({dept})</p>
               <p className="person-role">{role}</p>
-              <ul className="person-socials">
-                <li>
-                  <a href={`mailto:${email}`} target="_blank" rel="noreferrer" className="mx-sm-2 mx-1">
-                    <FontAwesomeIcon icon={faEnvelope} className="" style={{ backgroundColor: '#0000' }} />
-                  </a>
-                </li>
+              <ul className="person-socials" >
+                <AddSocialIcon link={email} type='email' />
+                <AddSocialIcon link={insta} type='insta' />
+                <AddSocialIcon link={linkedin} type='linkedin' />
+                <AddSocialIcon link={other} type='other' />
               </ul>
             </figcaption>
           </figure>
@@ -50,19 +43,17 @@ export default async function Team() {
 
 
       <div className="team-grid">
-        {teamData.advisory.map(({ id, name, batch, image, role, email }: TeamProps) => (
+        {teamData.advisory.map(({ id, name, batch, image, role, email, insta, linkedin, other, dept }: TeamProps) => (
           <figure className="person-card" key={id}>
-            <Image src={`/team/${image}`} width={230} height={230} alt={`${name}`}/>
+            <Image src={`/team/${image}`} width={230} height={230} alt={`${name}`} />
             <figcaption>
               <p className="person-name">{name}</p>
-              <p className="person-batch">Batch {batch}</p>
-              {/* <p className="person-role">{role}</p> */}
+              <p className="person-batch">Batch {batch} ({dept})</p>
               <ul className="person-socials">
-                <li>
-                  <a href={`mailto:${email}`} target="_blank" rel="noreferrer" className="mx-sm-2 mx-1">
-                    <FontAwesomeIcon icon={faEnvelope} className="" style={{ backgroundColor: '#0000' }} />
-                  </a>
-                </li>
+                <AddSocialIcon link={email} type='email' />
+                <AddSocialIcon link={insta} type='insta' />
+                <AddSocialIcon link={linkedin} type='linkedin' />
+                <AddSocialIcon link={other} type='other' />
               </ul>
             </figcaption>
           </figure>

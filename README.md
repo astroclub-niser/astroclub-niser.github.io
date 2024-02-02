@@ -5,17 +5,17 @@ Made with [Next.js](https://nextjs.org/). Currently hosted [here](https://astroc
 
 ## Running the site locally
 
-First clone this repository, then run the development server:
+First, clone this repository, then run the development server:
 
 ```bash
 npm install # install node_modules if not done already
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result. Edit the files as you like.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result. Remove the `output: "export"` line in the `next.config.js` before running locally. Edit the files as you like.
 
 ## To add/update data
 
-* Go to the `data/` folder and update the correspoding `.json` files to add/update events, astrophotographs or talks.
-* All club photos are arranges year wise in the folder in the `public/photos/<year>` directory.
-* To add a new post correspoding to an event or project, add the markdown file to the `_posts/` directory and the filename will be the url of the page. Add the file name to the corresponding field in `projects.json` or `events.json` file.
+* Go to the `data/` folder and update the corresponding `.json` files to add/update events, astrophotographs or talks.
+* All club photos are arranged year-wise in the folder in the `public/photos/<year>` directory.
+* To add a new post corresponding to an event or project, add the markdown file to the `_posts/` directory; the filename will be the page URL. Add the file name to the corresponding field in the `projects.json` or `events.json` file.
