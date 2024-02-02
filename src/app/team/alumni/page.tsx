@@ -1,11 +1,13 @@
 import { Metadata } from "next";
 import { promises as fs } from 'fs';
 import Image from "next/image";
+// import { Alert } from 'react-alert'
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faInstagram, faLinkedin } from '@fortawesome/free-brands-svg-icons'
 import { faEnvelope, faComment } from '@fortawesome/free-solid-svg-icons'
 import { AddSocialIcon, TeamProps } from "../../../../components/PropsPage";
+// import ModalItem from "../../../../components/Modal";
 const { library, config } = require('@fortawesome/fontawesome-svg-core');
 library.add(faEnvelope, faLinkedin, faInstagram,)
 
@@ -13,6 +15,10 @@ export const metadata: Metadata = {
   title: 'Decorated Members | NISER Astronomy Club',
   description: 'We are the Astronomy Club of NISER, Bhubaneswar',
 }
+
+// function OpenPopup({text}: {text: string}) {
+//   alert(text)
+// }
 
 export default async function Alumni() {
   const teamFile = await fs.readFile(process.cwd() + '/data/team.json', 'utf8');
@@ -35,13 +41,13 @@ export default async function Alumni() {
                 <AddSocialIcon link={insta} type='insta' />
                 <AddSocialIcon link={linkedin} type='linkedin' />
                 <AddSocialIcon link={other} type='other' />
-                {caption &&
+                {/* {caption &&
                   <li>
-                    <a href='#' target="_blank" rel="noreferrer" className="mx-sm-2 mx-1">
+                    <a onClick={OpenPopup(caption)} href='#' rel="noreferrer" className="mx-sm-2 mx-1">
                       <FontAwesomeIcon icon={faComment} className="" style={{ backgroundColor: '#0000' }} />
                     </a>
                   </li>
-                } 
+                }  */}
               </ul>
             </figcaption>
           </figure>
