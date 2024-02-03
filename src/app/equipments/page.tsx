@@ -69,6 +69,7 @@ const Equipments = () => {
             <h3>8-inch Reflecting Telescope</h3>
             <h4>The Sophomore</h4>
             <p>8-inch refelctive telescope with an equitorial mount. Can be fitted with cameras to take long exposure photographs and to trace the pattern of stars.</p>
+            <p>The instruction manual for this telescope can be found <a target="_blank" style={{textDecoration: 'underline'}} href="https://drive.google.com/file/d/1-CCV4krJJo7kB_kyvhxWOvbpdDgY_G84/view?usp=sharing">here</a>.</p>
           </div>
 
           <div className="equipment-figures">
