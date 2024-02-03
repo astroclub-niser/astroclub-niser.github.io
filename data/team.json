@@ -173,10 +173,18 @@
             "dept": "SMS"
         },
         {
+            "name": "Hrishikesh Malladi",
+            "batch": 2021,
+            "image": "user.jpg",
+            "role": "Sessions Team Lead",
+            "email": "hrishikesh.malladi@niser.ac.in",
+            "dept": "SPS"
+        },
+        {
             "name": "Samarth Mohan Nanjannavar",
             "batch": 2021,
             "image": "user.jpg",
-            "role": "Experiments Team Head",
+            "role": "Experiments Team Lead",
             "email": "samarthm.nanjannavar@niser.ac.in",
             "dept": "SPS"
         },
