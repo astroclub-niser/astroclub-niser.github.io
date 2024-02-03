@@ -14,7 +14,7 @@
         },
         {
             "name": "Stellar Photometry of a Variable Star",
-            "description": "(Ongoing Project) Using a CMOS sensor, we plan to perform photometry on a variable star system and measure it luminosity. The process includes calibrating our CMOS sensor and then measuring the star's brightness relative to fixed nearby objects in the night sky.",
+            "description": "(Ongoing Project) Using a CMOS sensor, we plan to perform photometry on a variable star system and measure its luminosity. The process includes calibrating our CMOS sensor and then measuring the star's brightness relative to fixed nearby objects in the night sky.",
             "image": "/photometry.jpg",
             "link": ""
         }
