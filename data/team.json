@@ -269,8 +269,11 @@
         {
             "name": "Anamika Jeethendran",
             "batch": 2017,
-            "image": "user.jpg",
-            "dept": "SPS"
+            "image": "anamika.jpg",
+            "dept": "SPS",
+            "caption": "The experience and exposure provided by NAC is really valuable. So do participate, learn new things and have fun :)",
+            "email": "anamikajatheendran@gmail.com",
+            "insta": "anamika_prabha"
         },
         {
             "name": "Anshuman Padhi",
