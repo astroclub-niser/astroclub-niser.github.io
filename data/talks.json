@@ -1,5 +1,25 @@
 {
     "upcoming": [],
+    "faculty": [
+        {
+            "title": "Shapes, Structures and Randomness",
+            "date": "November 11, 2023",
+            "speaker": "Dr. Pravabati Chingangbam",
+            "speaker_desc": "Professor, Indian Institute of Astrophysics",
+            "poster": "11-11-23.png",
+            "youtubeID": "",
+            "abstract": "The talk will introduce morphological descriptors known as scalar and tensorial Minkowski functionals, and Betti numbers. They are geometrical and topological quantities that quantify the morphological information of structures. We will connect these quantities to random fields and discuss how they reveal the statistical nature of the fields. Lastly, some physical  applications will be discussed."
+        },
+        {
+            "title": "Hunting low-frequency gravitational waves through Pulsar Timing Arrays: The role of Indian Pulsar Timing Array",
+            "date": "July 29, 2023",
+            "speaker": "Dr. Manjari Bagchi",
+            "speaker_desc": "Astrophysicist, IMSc, Chennai",
+            "poster": "29-07-23.png",
+            "youtubeID": "",
+            "abstract": "We know that gravity is just the curvature of the spacetime. A mass curves the spacetime around it, and both massive and massless particles follow the curvature of the spacetime. Motion (translational, rotational or vibrational) of massive particles generate ripples in the spacetime or gravitational waves. Like electromagnetic waves, gravitational waves also have a wide range of frequencies. Gravitational waves of different frequencies are created by different sources āand we need different types of detectors to detect them. There is an innovative āmethod to detect low-frequency gravitational waves by using a number of undead stars as the detectors. These low-frequency gravitational waves are caused by mergers of supermassive black holes, and not only one mergers, many mergers resulting a summed-up background wave. As pulsars are the special type of undead star used for this purpose, we call such experiments as Pulsar Timing Array experiments. Presently, there are multiple Pulsar Timing Array experiments ongoing in various continents. These groups recently declared their results revealing a hint of the low-frequency gravitational waves. Indian Pulsar Timing Array (InPTA) is an Indo-Japanese collaboration performing PTA experiment using Indian telescope, the upgraded Giant Metrewave Radio Telescope. In the present talk, I will briefly discuss low-frequency gravitational waves, the basics of a PTA experiment, and the contribution of InPTA in this field."
+        }
+    ],
     "year24": [
         {
             "title": "Navigating the Mysteries of the Sun through Physics",
@@ -21,15 +41,7 @@
         }
     ],
     "year23": [
-        {
-            "title": "Shapes, Structures and Randomness",
-            "date": "November 11, 2023",
-            "speaker": "Dr. Pravabati Chingangbam",
-            "speaker_desc": "Professor, Indian Institute of Astrophysics",
-            "poster": "11-11-23.png",
-            "youtubeID": "",
-            "abstract": "The talk will introduce morphological descriptors known as scalar and tensorial Minkowski functionals, and Betti numbers. They are geometrical and topological quantities that quantify the morphological information of structures. We will connect these quantities to random fields and discuss how they reveal the statistical nature of the fields. Lastly, some physical  applications will be discussed."
-        },
+        
         {
             "title": "Introduction to Cosmology",
             "date": "October 20, 2023",
@@ -111,15 +123,7 @@
             "youtubeID": "jJlra_udsA0",
             "abstract": "The main aim is to find out the time-period of 4 bright moons of  Jupiter (IO, Callisto, Ganymede, and Europa) on pure experimental background i.e., without using any theoretical knowledge. We present to you the first experiment that the NAC Experimental team undertook. This was first done by Galileo. The problems encountered during the data analysis were versatile. The logic and method of solving the problems encountered is especially emphasised upon. Further we also used the data to find the mass of Jupiter using some basic literature on the topic."
         },
-        {
-            "title": "Hunting low-frequency gravitational waves through Pulsar Timing Arrays: The role of Indian Pulsar Timing Array",
-            "date": "July 29, 2023",
-            "speaker": "Dr. Manjari Bagchi",
-            "speaker_desc": "Astrophysicist, IMSc, Chennai",
-            "poster": "29-07-23.png",
-            "youtubeID": "",
-            "abstract": "We know that gravity is just the curvature of the spacetime. A mass curves the spacetime around it, and both massive and massless particles follow the curvature of the spacetime. Motion (translational, rotational or vibrational) of massive particles generate ripples in the spacetime or gravitational waves. Like electromagnetic waves, gravitational waves also have a wide range of frequencies. Gravitational waves of different frequencies are created by different sources āand we need different types of detectors to detect them. There is an innovative āmethod to detect low-frequency gravitational waves by using a number of undead stars as the detectors. These low-frequency gravitational waves are caused by mergers of supermassive black holes, and not only one mergers, many mergers resulting a summed-up background wave. As pulsars are the special type of undead star used for this purpose, we call such experiments as Pulsar Timing Array experiments. Presently, there are multiple Pulsar Timing Array experiments ongoing in various continents. These groups recently declared their results revealing a hint of the low-frequency gravitational waves. Indian Pulsar Timing Array (InPTA) is an Indo-Japanese collaboration performing PTA experiment using Indian telescope, the upgraded Giant Metrewave Radio Telescope. In the present talk, I will briefly discuss low-frequency gravitational waves, the basics of a PTA experiment, and the contribution of InPTA in this field."
-        },
+       
         {
             "title": "A Misty Mystery: Unraveling Cloud Formation in Alien Skies",
             "date": "April 22, 2023",

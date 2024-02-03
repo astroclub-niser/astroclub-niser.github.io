@@ -16,7 +16,8 @@ export default async function Talks() {
   const talkKeys = Object.keys(talksData)
 
   const upcomingTalksData = talksData[talkKeys[0]]
-  const archivedTalks = talkKeys.slice(1)
+  const facultyTalks = talksData[talkKeys[1]]
+  const archivedTalks = talkKeys.slice(2)
 
   let upcomingTalks = ''
   if (Object.keys(upcomingTalksData).length === 0) {
@@ -33,10 +34,20 @@ export default async function Talks() {
       <p className="page-description">An archive of all the talks conducted by the NAC.</p>
 
       <div className="talks-year" id={'upcoming-talks'}>
-        <h2 className="talks-year-label">Upcoming Talks</h2>
+        <h2 className="talks-year-label team-heading">Upcoming Talks</h2>
         <div className="talks-grid section-description">
 
           {upcomingTalks}
+
+        </div>
+      </div>
+
+      <div className="talks-year" id={'upcoming-talks'}>
+        <h2 className="talks-year-label team-heading">Faculty Talks</h2>
+        <div className="talks-grid section-description">
+          {facultyTalks.map(({ id, title, date, speaker, speaker_desc, poster, youtubeID, abstract }: TalkItemProps) => (
+            <TalkCard key={id} title={title} date={date} speaker={speaker} speaker_desc={speaker_desc} poster={poster} youtubeID={youtubeID} abstract={abstract} />
+          ))}
 
         </div>
       </div>
