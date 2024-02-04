@@ -65,9 +65,9 @@
         },
         {
             "object": "Messier 51 (Whirlpool Galaxy)",
-            "photographer": "Sourav Kumar",
             "image": "whirlpool2.png",
             "date": "",
+            "photographer": "",
             "description": "Another stunning image of the Whirlpool galaxy, captured by NAC."
         },
         {
@@ -79,21 +79,21 @@
         },
         {
             "object": "Messier 104 (Sombrero Galaxy)",
-            "photographer": "Karan Mahajan",
+            "photographer": "Satyam Chandra Mishra and Karan",
             "image": "sombrero.jpg",
             "date": "May 8, 2020",
             "description": "The dark region there is the galactic dust blocking the light from the stars in the galaxy. The brighter area in the middle is the galactic nucleus with a black-hole on a strict diet. Captured using the 11-inch."
         },
         {
             "object": "Messier 51 (Whirlpool Galaxy)",
-            "photographer": "",
+            "photographer": "Satyam Chandra Mishra and Karan",
             "image": "whirlpool-2.jpg",
             "date": "May 8, 2020",
             "description": "The larger M51a (NGC5194) and and a photobomb by its lesser known companion M51b(NGC5195). Located within the constellation Canes Venatici."
         },
         {
             "object": "The Ring Nebula",
-            "photographer": "",
+            "photographer": "Satyam Chandra Mishra and Karan",
             "image": "m57-ring.jpg",
             "date": "",
             "description": "The Ring Nebula, captured by NAC."
@@ -104,6 +104,20 @@
             "image": "iss.jpeg",
             "date": "",
             "description": "This picture was taken by the squad of NAC members at the premises of NISER to witness the ISS skim through the sky. Painstakingly tracked via the 8-inch Skywatcher Equatorial Mount reflecting type telescope with well-trained hands and expert timing, this image carries a signature of intense planning and execution."
+        },
+        {
+            "object": "Milky Way",
+            "image": "mc.jpg",
+            "date": "",
+            "photographer": "",
+            "description": "Another stunning image of the Milky Way seen along with NISER's meditation center."
+        },
+        {
+            "object": "Milky Way meets Meditation Centre",
+            "image": "milkyway_mc.jpg",
+            "photographer": "Satyam Chandra Mishra and Manabputra",
+            "date": "",
+            "description": "Milky Way, setting behind NISER's meditation center on 21st August, 2017."
         },
         {
             "object": "Pleides Cluster",

@@ -18,12 +18,12 @@
         {
             "image": "2024/29.1.jpeg",
             "date": "",
-            "description": "NAC Talk Series"
+            "description": "NAC Talk Series - N. Sneha"
         },
         {
             "image": "2023/openday-2.jpg",
             "date": "",
-            "description": "Open Day 2023"
+            "description": "Open Day 2023 - An experiment simulating the behavior of Gravitational Lenses on a tabletop, using Optical lenses. "
         },
         {
             "image": "2023/openday-4.jpg",
@@ -34,6 +34,11 @@
             "image": "2023/openday-5.jpg",
             "date": "",
             "description": "Open Day 2023"
+        },
+        {
+            "image": "2023/chandrayaan32.jpg",
+            "date": "",
+            "description": "Chandrayan 3 Landing Livestream along with the RoboTech Club"
         },
         {
             "image": "2023/chandrayaan3_landing.webp",
@@ -48,7 +53,7 @@
         {
             "image": "2023/cmos.jpg",
             "date": "",
-            "description": ""
+            "description": "Attempt to capture the Whirlpool galaxy"
         },
         {
             "image": "2023/514.jpg",
@@ -58,17 +63,17 @@
         {
             "image": "2023/obs-3.jpg",
             "date": "",
-            "description": ""
+            "description": "General observation session"
         },
         {
             "image": "2023/14.7.jpg",
             "date": "",
-            "description": ""
+            "description": "General observation session"
         },
         {
             "image": "2023/15.10.jpg",
             "date": "",
-            "description": ""
+            "description": "General observation session"
         },
         {
             "image": "11inch-3.jpg",
@@ -76,9 +81,29 @@
             "description": "Comet ZTF observation session"
         },
         {
+            "image": "2023/farewell2.jpg",
+            "date": "",
+            "description": "NAC Farewell 2023"
+        },
+        {
+            "image": "2023/farewell3.jpg",
+            "date": "",
+            "description": "NAC Farewell 2023"
+        },
+        {
+            "image": "2023/farewell4.jpg",
+            "date": "",
+            "description": "NAC Farewell 2023"
+        },
+        {
             "image": "2023/tvisha-5.jpg",
             "date": "",
             "description": "Tvisha 2023"
+        },
+        {
+            "image": "2022/ind2.jpg",
+            "date": "",
+            "description": "NAC Talk Series - Adesh Thawale"
         },
         {
             "image": "2023/14.2(1).JPG",
@@ -108,37 +133,37 @@
         {
             "image": "2022/1.jpg",
             "date": "",
-            "description": ""
+            "description": "General observation session"
         },
         {
             "image": "2022/ind.jpg",
             "date": "",
-            "description": "Club Induction Session"
+            "description": "Club Induction Session 2022"
         },
         {
             "image": "2022/ind1.jpg",
             "date": "",
-            "description": "Club Induction Session"
-        },
-        {
-            "image": "2022/ind2.jpg",
-            "date": "",
-            "description": "Club Induction Session"
+            "description": "Club Induction Session 2022"
         },
         {
             "image": "2022/ind3.jpg",
             "date": "",
-            "description": "Club Induction Session"
+            "description": "Club Induction Session 2022"
         },
         {
             "image": "2022/11.jpg",
             "date": "",
-            "description": ""
+            "description": "General observation session"
         },
         {
             "image": "2022/7.8.22.jpg",
             "date": "",
-            "description": ""
+            "description": "General observation session"
+        },
+        {
+            "image": "8inch-2.jpg",
+            "date": "",
+            "description": "Sunspot Observation Session"
         },
         {
             "image": "2022/sunspot1.jpg",
@@ -166,9 +191,14 @@
             "description": ""
         },
         {
+            "image": "2021/room.jpg",
+            "date": "",
+            "description": "We have quite professional ways of resolving conflicts within the club."
+        },
+        {
             "image": "2019/4.JPG",
             "date": "",
-            "description": ""
+            "description": "Chandrayan 2 Launch Event"
         },
         {
             "image": "2019/5.JPG",
@@ -193,17 +223,17 @@
         {
             "image": "2019/nac-wall.jpeg",
             "date": "",
-            "description": ""
+            "description": "SPS rooftop, where we conduct most of our observation sessions"
+        },
+        {
+            "image": "2018/planetarium.jpg",
+            "date": "",
+            "description": "RAD@Home Citizen Radio Astronomy, IISER Berhampur attended by 6 NAC members on 19th October, 2019"
         },
         {
             "image": "2019/11inch-first.jpeg",
             "date": "",
             "description": "Our first session with Celestron 1100 Edge HD (11 inch)"
-        },
-        {
-            "image": "8inch-2.jpg",
-            "date": "",
-            "description": ""
         },
         {
             "image": "6inch-7.JPG",
@@ -213,17 +243,7 @@
         {
             "image": "obs-2.jpg",
             "date": "",
-            "description": ""
-        },
-        {
-            "image": "2018/rad1.jpeg",
-            "date": "",
-            "description": ""
-        },
-        {
-            "image": "2018/milkyway_mc.jpg",
-            "date": "",
-            "description": "Milky Way, setting behind NISER's meditation center on 21st August, 2017. Credit: Satyam Chandra Mishra (B15) and Manabputra (B16)"
+            "description": "General observation session"
         },
         {
             "image": "2019/NAC_Summer_Group-2.jpg",

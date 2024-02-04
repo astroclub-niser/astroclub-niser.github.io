@@ -15,6 +15,7 @@ export default async function Team() {
   return (
     <main id="section-team">
       <h1 className="page-heading">Meet Our Team</h1>
+      <p className="page-description">NAC comprises of 13 sub-committees, all devoted to different purposes to make its functioning as smooth as possible. We also have senior members of the club on the advisory committee helping us along the way.</p>
 
       <h2 className="team-heading">Core Committee</h2>
       <h3 className="team-heading-year">2023-24</h3>
@@ -40,7 +41,6 @@ export default async function Team() {
 
       <h2 className="team-heading">Advisory Committee</h2>
       <h3 className="team-heading-year">2023-24</h3>
-
 
       <div className="team-grid">
         {teamData.advisory.map(({ id, name, batch, image, role, email, insta, linkedin, other, dept }: TeamProps) => (

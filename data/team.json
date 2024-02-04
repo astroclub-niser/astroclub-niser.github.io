@@ -3,18 +3,26 @@
         {
             "name": "Abhinav Roy",
             "batch": 2020,
-            "image": "user.jpg",
+            "image": "abhinav.JPG",
             "role": "Club Representative",
             "email": "abhinav.roy@niser.ac.in",
-            "dept": "SPS"
+            "dept": "SPS",
+            "caption": "Ad Astra, Per Aspera.",
+            "insta": "currently_planning_a_lot",
+            "linkedin": "abhinav-roy-03",
+            "other": "https://sites.google.com/view/abhinav-roy/home"
         },
         {
             "name": "R Vasanth Kashyap",
             "batch": 2019,
-            "image": "user.jpg",
+            "image": "vasanth.jpg",
             "role": "Core member",
             "email": "vasanth.kashyap@niser.ac.in",
-            "dept": "SPS"
+            "dept": "SPS",
+            "caption": "Look up and get lost",
+            "insta": "vasanth_kashyap",
+            "linkedin": "vasanth-kashyap",
+            "other": "https://sites.google.com/niser.ac.in/vasanth-kashyap"
         },
         {
             "name": "Abha Vishwakarma",
@@ -47,7 +55,7 @@
         {
             "name": "Devamrutha IS",
             "batch": 2019,
-            "image": "user.jpg",
+            "image": "devamrutha.jpg",
             "role": "Core member",
             "email": "devamrutha.is@niser.ac.in",
             "dept": "SPS"
@@ -103,17 +111,6 @@
             "role": "Core member",
             "email": "sourav.sahu@niser.ac.in",
             "insta": "52_shades_of_a_deck",
-            "dept": "SPS"
-        },
-        {
-            "name": "Tridev Sahu",
-            "batch": 2022,
-            "image": "tridev.jpg",
-            "role": "Core member",
-            "caption": "",
-            "email": "tridev.sahu@niser.ac.in",
-            "insta": "t.r.4.5",
-            "linkedin": "tridev-sahu-812812249",
             "dept": "SPS"
         }
     ],
@@ -186,7 +183,8 @@
             "image": "user.jpg",
             "role": "Experiments Team Lead",
             "email": "samarthm.nanjannavar@niser.ac.in",
-            "dept": "SPS"
+            "dept": "SPS",
+            "caption": "This a place where you explore science the way you want. Use this platform to it's full extent to understand more science and grow. Finally you will have a place with lot of loveable memories at NISER😁."
         },
         {
             "name": "Arnab Biswas",
@@ -228,14 +226,36 @@
             "dept": "SPS"
         },
         {
-            "name": "SriUma Maheshwari V",
+            "name": "Sattvik Yadav",
             "batch": 2022,
             "image": "user.jpg",
+            "role": "Core member",
+            "caption": "",
+            "email": "sattvik.yadav@niser.ac.in",
+            "insta": "",
+            "linkedin": "sattvik-yadav-003958225",
+            "dept": "SPS"
+        },
+        {
+            "name": "SriUma Maheshwari V",
+            "batch": 2022,
+            "image": "uma.jpg",
             "role": "Induction & Events Team Lead",
             "caption": "",
             "email": "sriuma.maheswari@niser.ac.in",
             "insta": "sriumamaheshwarivittal",
             "linkedin": "sriuma-maheshwari-v-321701246",
+            "dept": "SPS"
+        },
+        {
+            "name": "Tridev Sahu",
+            "batch": 2022,
+            "image": "tridev.jpg",
+            "role": "Core member",
+            "caption": "",
+            "email": "tridev.sahu@niser.ac.in",
+            "insta": "t.r.4.5",
+            "linkedin": "tridev-sahu-812812249",
             "dept": "SPS"
         },
         {
@@ -263,7 +283,7 @@
             "image": "adesh.jpg",
             "caption": "Pale blue dot.",
             "email": "adesh.thawale@stonybrook.edu",
-            "role":"Clown in chief",
+            "role":"",
             "insta": "nearacidrat.pdf",
             "linkedin": "",
             "dept": "SCS"
@@ -275,7 +295,7 @@
             "dept": "SPS"
         },
         {
-            "name": "Anamika Jeethendran",
+            "name": "Anamika Jatheendran",
             "batch": 2017,
             "image": "anamika.jpg",
             "dept": "SPS",
@@ -298,8 +318,10 @@
         {
             "name": "Chandranathan A",
             "batch": 2017,
-            "image": "user.jpg",
-            "dept": "SPS"
+            "image": "chandranathan.jpg",
+            "dept": "SPS",
+            "email": "777chand@gmail.com",
+            "insta":"chandru_6.626"
         },
         {
             "name": "Danush Shekar",
@@ -356,13 +378,13 @@
         {
             "name": "Kishore Sourav",
             "batch": 2017,
-            "image": "user.jpg",
+            "image": "kishore.jpg",
             "dept": "SPS"
         },
         {
             "name": "Nikhil Keshav",
             "batch": 2018,
-            "image": "user.jpg",
+            "image": "nikhil_keshav.jpg",
             "dept": "SPS"
         },
         {
@@ -377,7 +399,7 @@
             "image": "pulkit.JPG",
             "caption": "Stars are living organisms. They take birth, produce remnants, die and take rebirths as zombies. ",
             "email": "pulkitojha0901@gmail.com",
-            "role":"Advisory Committee",
+            "role":"",
             "insta": "o.pulkit",
             "linkedin": "pulkit-ojha-9249171b1",
             "dept": "SPS"

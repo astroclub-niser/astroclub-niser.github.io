@@ -52,7 +52,7 @@ export default async function Home() {
           <h3>The Monthly NAC Newsletter</h3>
           <p>The Astronomy Club Monthly Newsletter will be your ultimate passport to explore the furthest reaches of space, right from the comfort of your inbox!</p>
           <p>It will provide a curated collection of astronomical insights, celestial highlights, and educational resources that will ignite your passion for the mysteries of space. Whether you are a seasoned astronomer or simply fascinated by the cosmos, our newsletter is designed to cater to all levels of knowledge and enthusiasm.</p>
-          <button className='btn'><a target='_blank' href='https://drive.google.com/file/d/1tN4aYEysrj8TeM97y28Z6If_-Ir8flR6/view?usp=sharing'>Read Latest</a></button>
+          {/* <button className='btn'><a target='_blank' href='https://drive.google.com/file/d/1tN4aYEysrj8TeM97y28Z6If_-Ir8flR6/view?usp=sharing'>Read Latest</a></button> */}
           <button className='btn'><a target='_blank' href='https://drive.google.com/drive/u/2/folders/1ObmIzxPWnGn2fG4HpaiMYrB3sjlxtvAl'>View All</a></button>
         </div>
       </div>
@@ -71,10 +71,10 @@ export default async function Home() {
         <div className="magazine-content">
           <h2>Kshitij</h2>
           <h3>Our in-house magazine encompassing all fields of astronomy.</h3>
-          <p>Through Kshitij, the innate passion of our club members towards astronomy is accounted through academic articles, puzzles and details of various activities the club has undertaken.
-            The foremost aim of this magazine is to inspire the NISER fraternity and all its readers, towards the beauty we Astronomy enthusiasts derive from the night sky while imagining the depth of the space through our small eyes.</p>
+          <p>Through Kshitij, the innate passion of our club members towards astronomy is accounted through academic articles, puzzles and details of various activities the club has undertaken. Not just limited to the NISER fraternity, we invite astronomy enthusiasts everywhere to contribute to the magazine.
+            <br/>The foremost aim of this magazine is to inspire all its readers, towards the beauty we Astronomy enthusiasts derive from the night sky while imagining the depth of the space through our small eyes.</p>
           <button className='btn'><Link href="/magazine">Know More</Link></button>
-          <button className='btn'><a href=''>Contribute</a></button>
+          {/* <button className='btn'><a href=''>Contribute</a></button> */}
         </div>
         <div className="magazine-previews">
           <figure>
