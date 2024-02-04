@@ -283,16 +283,19 @@
             "image": "adesh.jpg",
             "caption": "Pale blue dot.",
             "email": "adesh.thawale@stonybrook.edu",
-            "role":"",
             "insta": "nearacidrat.pdf",
             "linkedin": "",
+            "role":"",
             "dept": "SCS"
         },
         {
             "name": "Akshay Priyadarshi",
             "batch": 2016,
-            "image": "user.jpg",
-            "dept": "SPS"
+            "image": "akshay.jpeg",
+            "dept": "SPS",
+            "email": "priyadarshi.akshay@outlook.com",
+            "insta": "ak_darshi",
+            "linkedin": "PriyadarshiAkshay"
         },
         {
             "name": "Anamika Jatheendran",
