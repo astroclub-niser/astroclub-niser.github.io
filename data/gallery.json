@@ -91,7 +91,7 @@
             "description": "NAC Farewell 2023"
         },
         {
-            "image": "2023/farewell4.jpg",
+            "image": "2023/farewell4.JPG",
             "date": "",
             "description": "NAC Farewell 2023"
         },
@@ -141,11 +141,6 @@
             "description": "Club Induction Session 2022"
         },
         {
-            "image": "2022/ind1.jpg",
-            "date": "",
-            "description": "Club Induction Session 2022"
-        },
-        {
             "image": "2022/ind3.jpg",
             "date": "",
             "description": "Club Induction Session 2022"
@@ -189,6 +184,11 @@
             "image": "6inch-6.JPG",
             "date": "",
             "description": ""
+        },
+        {
+            "image": "2022/ind1.jpg",
+            "date": "",
+            "description": "Club Induction Session 2020"
         },
         {
             "image": "2021/room.jpg",
