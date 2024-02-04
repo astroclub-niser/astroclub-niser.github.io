@@ -146,7 +146,7 @@
             "name": "Upasana Das",
             "batch": 2020,
             "image": "upasana.jpg",
-            "role": "Magazine Team Head",
+            "role": "Magazine Team Lead",
             "email": "upasana.das@niser.ac.in",
             "insta": "upasana_das",
             "linkedin": "upasana-das-01ud",
@@ -156,7 +156,7 @@
             "name": "Sagar Prakash Barad",
             "batch": 2020,
             "image": "user.jpg",
-            "role": "Magazine Team Head",
+            "role": "Magazine Team Lead",
             "email": "sagar.barad@niser.ac.in",
             "dept": "SPS"
         },
@@ -164,7 +164,7 @@
             "name": "Anurenj ER",
             "batch": 2021,
             "image": "anurenj.jpg",
-            "role": "Talks Representative",
+            "role": "Talks Team Lead",
             "email": "anurenj.er@niser.ac.in",
             "other": "https://twitter.com/Anurenj_E_R",
             "dept": "SMS"
@@ -199,7 +199,7 @@
             "name": "Asmi Nandy",
             "batch": 2022,
             "image": "asmi.jpg",
-            "role": "Outreach Coordinator",
+            "role": "Outreach Team Lead",
             "email": "asmi.nandy@niser.ac.in",
             "insta": "asminandy2003",
             "linkedin": "asminandy",
@@ -220,7 +220,7 @@
             "name": "Gayatri",
             "batch": 2022,
             "image": "gayatri.jpg",
-            "role": "Website Coordinator",
+            "role": "Website Team Lead",
             "email": "gayatri.p@niser.ac.in",
             "linkedin": "gayatri-p-a7a348267",
             "dept": "SPS"
@@ -262,7 +262,7 @@
             "name": "Vishal Meena",
             "batch": 2022,
             "image": "vishal.jpg",
-            "role": "Astrophotography Head",
+            "role": "Astrophotography Team Lead",
             "caption": "",
             "email": "vishal.meena@niser.ac.in",
             "insta": "vishal._.meena0",
@@ -282,7 +282,7 @@
             "batch": 2018,
             "image": "adesh.jpg",
             "caption": "Pale blue dot.",
-            "email": "adesh.thawale@stonybrook.edu",
+            "email": "adesh.thawale@gatech.edu",
             "insta": "nearacidrat.pdf",
             "linkedin": "",
             "role":"",
@@ -292,6 +292,7 @@
             "name": "Akshay Priyadarshi",
             "batch": 2016,
             "image": "akshay.jpeg",
+            "role": "Former Club Representative",
             "dept": "SPS",
             "email": "priyadarshi.akshay@outlook.com",
             "insta": "ak_darshi",
@@ -302,6 +303,7 @@
             "batch": 2017,
             "image": "anamika.jpg",
             "dept": "SPS",
+            "role": "1st Editor-in-Chief (Kshitij)",
             "caption": "The experience and exposure provided by NAC is really valuable. So do participate, learn new things and have fun :)",
             "email": "anamikajatheendran@gmail.com",
             "insta": "anamika_prabha"
@@ -336,6 +338,7 @@
             "name": "Datti Raga Sahiti",
             "batch": 2018,
             "image": "user.jpg",
+            "role": "Former Editor-in-Chief",
             "dept": "SBS"
         },
         {
@@ -413,7 +416,7 @@
             "image": "satyam.jpeg",
             "caption": "Dear Astronomy Enthusiasts, \nWhen someone says NAC, the first thing that comes into my mind is the friendships formed within the club's close-knit community which were more than just connections; they were constellations in the vast sky of my college experience. The mutual passion for astronomy brought us together, creating a supportive environment fueled our collective journey. In moments of academic challenges or personal trials, it was within the comforting glow of like-minded peers that I found solace and encouragement. NAC became a second home where our shared passion for the cosmos transformed acquaintances into lifelong friends. The wealth of knowledge exchanged during late-night stargazing sessions, discussions about cosmic phenomena, and projects was immeasurable. Each member brought a unique perspective, enriching our collective understanding of the cosmos.\nTo the future torchbearers of NAC, relish every moment under the star-studded canopy of the club. Treasure the friendships, seek and offer support, and embrace the invaluable lessons that come from your peers. As you embark on your astronomical voyage, I hope you experience the same sense of wonder and camaraderie that defined my tenure. Let the sky serve as a constant reminder of endless possibilities - just as it did for me. In moments of challenge, consider your problems as mere motes of dust against the vast celestial canvas. Embrace the boundless opportunities that the cosmos and the club offer.\nLife, much like the universe, is to be enjoyed to its fullest extent. May your journey in the NISER Astronomy Club be filled with discovery, learning, and unforgettable moments.\nHere's to the enduring magic of NAC and the limitless wonders that lie ahead.\nWarm regards,\nSatyam Chandra Mishra\nProud NAC Alumnus",
             "email": "satyamchandramishra@gmail.com",
-            "role":"",
+            "role": "Former Club Representative",
             "insta": "satyam_chandra_mishra",
             "linkedin": "satyam-chandra-mishra-4b0031230",
             "dept": "SPS"
@@ -421,7 +424,7 @@
         {
             "name": "Swagat Sourav Mishra",
             "batch": 2008,
-            "image": "user.jpg",
+            "image": "swagat.jpg",
             "dept": "SPS",
             "email": "swagatam18@gmail.com",
             "other":"https://swagatam18.wordpress.com/"

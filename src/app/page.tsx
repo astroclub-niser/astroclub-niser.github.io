@@ -71,7 +71,7 @@ export default async function Home() {
         <div className="magazine-content">
           <h2>Kshitij</h2>
           <h3>Our in-house magazine encompassing all fields of astronomy.</h3>
-          <p>Through Kshitij, the innate passion of our club members towards astronomy is accounted through academic articles, puzzles and details of various activities the club has undertaken. Not just limited to the NISER fraternity, we invite astronomy enthusiasts everywhere to contribute to the magazine.
+          <p>Through Kshitij, the innate passion of our club members towards astronomy is accounted through academic articles, puzzles and details of various activities the club has undertaken. Not just limited to the NISER fraternity, we have had astronomy enthusiasts everywhere, including IISERs to contribute to the magazine.
             <br/>The foremost aim of this magazine is to inspire all its readers, towards the beauty we Astronomy enthusiasts derive from the night sky while imagining the depth of the space through our small eyes.</p>
           <button className='btn'><Link href="/magazine">Know More</Link></button>
           {/* <button className='btn'><a href=''>Contribute</a></button> */}

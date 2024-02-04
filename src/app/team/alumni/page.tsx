@@ -36,7 +36,7 @@ export default async function Alumni() {
             <figcaption>
               <p className="person-name">{name}</p>
               {batch < 2010 &&
-                <p className="person-extra">(Founder)</p>
+                <p className="person-extra">Founder</p>
               }
               {role &&
                 <p className="person-role">{role}</p>
