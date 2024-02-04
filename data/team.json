@@ -137,7 +137,7 @@
         {
             "name": "Dibya Bharati Pradhan",
             "batch": 2019,
-            "image": "user.jpg",
+            "image": "dibya.jpg",
             "role": "Observatory Representative",
             "email": "dibyabharati.pradhan@niser.ac.in",
             "dept": "SPS"
@@ -422,7 +422,9 @@
             "name": "Swagat Sourav Mishra",
             "batch": 2008,
             "image": "user.jpg",
-            "dept": "SPS"
+            "dept": "SPS",
+            "email": "swagatam18@gmail.com",
+            "other":"https://swagatam18.wordpress.com/"
         },
         {
             "name": "Ved Prakash Roy",
