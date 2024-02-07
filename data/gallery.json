@@ -61,6 +61,11 @@
             "description": "NAC's very own Room 514, SPS, NISER"
         },
         {
+            "image": "2023/514_1.jpg",
+            "date": "",
+            "description": "Redecorating Room 514"
+        },
+        {
             "image": "2023/obs-3.jpg",
             "date": "",
             "description": "General observation session"
@@ -101,11 +106,6 @@
             "description": "Tvisha 2023"
         },
         {
-            "image": "2022/ind2.jpg",
-            "date": "",
-            "description": "NAC Talk Series - Adesh Thawale"
-        },
-        {
             "image": "2023/14.2(1).JPG",
             "date": "",
             "description": "Stargazing session on 14th February, 2023"
@@ -114,6 +114,16 @@
             "image": "2023/14.2.JPG",
             "date": "",
             "description": "Stargazing session on 14th February, 2023"
+        },
+        {
+            "image": "2023/adesh_talk.jpg",
+            "date": "",
+            "description": "NAC Talk Series - Adesh Thawale ft. Pulkit"
+        },
+        {
+            "image": "2022/ind2.jpg",
+            "date": "",
+            "description": "NAC Talk Series - Adesh Thawale"
         },
         {
             "image": "2022/childrensday1.JPG",
@@ -129,6 +139,11 @@
             "image": "2022/childrensday3.JPG",
             "date": "",
             "description": "Children's Day 2022"
+        },
+        {
+            "image": "2022/obs.jpg",
+            "date": "",
+            "description": "11\" telescope during a General Observation Session ft. Karan"
         },
         {
             "image": "2022/1.jpg",

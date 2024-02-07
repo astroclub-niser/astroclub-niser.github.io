@@ -68,7 +68,7 @@ const Equipments = () => {
           <div className="equipment-details">
             <h3>8-inch Reflecting Telescope</h3>
             <h4>The Sophomore</h4>
-            <p>8-inch refelctive telescope with an equitorial mount. Can be fitted with cameras to take long exposure photographs and to trace the pattern of stars.</p>
+            <p>SkyWatcher Quattro 200P is an 8-inch Reflecting Newtonian Telescope with an equitorial mount. It can be fitted with cameras to take long exposure photographs and to trace the pattern of stars.</p>
             <p>The instruction manual for this telescope can be found <a target="_blank" style={{textDecoration: 'underline'}} href="https://drive.google.com/file/d/1-CCV4krJJo7kB_kyvhxWOvbpdDgY_G84/view?usp=sharing">here</a>.</p>
           </div>
 
@@ -106,6 +106,28 @@ const Equipments = () => {
             />
           </div>
         </div>
+
+        {/* <div className="equipment">
+          
+          <div className="equipment-details">
+            <h3>Celestron Skyris 236M Camera</h3>
+            <h4>CMOS Sensor</h4>
+            <p>The Celestron Skyris 236M Monochrome Camera is a planetary imaging camera and is very sensitive in the near-infrared range. It has been involved in all our projects, icluding spectroscopy, photometry as well as (complete this)</p>
+            <p></p>
+          </div>
+
+          <div className="equipment-figures">
+            <SimpleImageSlider
+              width={sliderWidth}
+              height={sliderHeight}
+              autoPlay={true}
+              slideDuration={1}
+              images={sixInch}
+              showBullets={true}
+              showNavs={true}
+            />
+          </div>
+        </div> */}
 
       </div>
     </main>
