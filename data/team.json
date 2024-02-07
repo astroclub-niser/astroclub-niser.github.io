@@ -16,7 +16,7 @@
             "name": "R Vasanth Kashyap",
             "batch": 2019,
             "image": "vasanth.jpg",
-            "role": "Core member",
+            "role": "Core Member",
             "email": "vasanth.kashyap@niser.ac.in",
             "dept": "SPS",
             "caption": "Look up and get lost",
@@ -28,7 +28,7 @@
             "name": "Abha Vishwakarma",
             "batch": 2019,
             "image": "abha.jpg",
-            "role": "Core member",
+            "role": "Core Member",
             "caption": "Its really nice to be a part of such an active community of people who love Astrophysics so much!",
             "email": "abha.vishwakarma@niser.ac.in",
             "insta": "penguins.wanna.fly.too",
@@ -40,7 +40,7 @@
             "name": "Gayathri Santhosh",
             "batch": 2019,
             "image": "gayathri.jpg",
-            "role": "Core member",
+            "role": "Core Member",
             "email": "gayathri.santhosh@niser.ac.in",
             "dept": "SPS"
         },
@@ -48,7 +48,7 @@
             "name": "Ratul Das",
             "batch": 2019,
             "image": "ratul.jpg",
-            "role": "Core member",
+            "role": "Core Member",
             "email": "ratul.das@niser.ac.in",
             "dept": "SPS"
         },
@@ -56,23 +56,24 @@
             "name": "Devamrutha IS",
             "batch": 2019,
             "image": "devamrutha.jpg",
-            "role": "Core member",
+            "role": "Core Member",
             "email": "devamrutha.is@niser.ac.in",
             "dept": "SPS"
         },
         {
             "name": "Maitrey Sharma",
             "batch": 2019,
-            "image": "user.jpg",
-            "role": "Core member",
-            "email": "maitrey.sharma@niser.ac.in",
-            "dept": "SPS"
+            "image": "maitrey.jpg",
+            "role": "Core Member",
+            "email": "km.maitrey@gmail.com",
+            "dept": "SPS",
+            "other": "https://kmaitreys.github.io/"
         },
         {
             "name": "Aniket Nath",
             "batch": 2020,
             "image": "aniket.jpg",
-            "role": "Core member",
+            "role": "Core Member",
             "caption": "... and the rest is rust and stardust.",
             "email": "aniket.nath@niser.ac.in",
             "insta": "baryonik_matter",
@@ -83,7 +84,7 @@
             "name": "Srusti Sampanna",
             "batch": 2021,
             "image": "srusti.jpg",
-            "role": "Core member",
+            "role": "Core Member",
             "email": "srusti.sampanna@niser.ac.in",
             "dept": "SPS"
         },
@@ -91,24 +92,26 @@
             "name": "S Rajalakshmi",
             "batch": 2019,
             "image": "rajalakshmi.jpg",
-            "role": "Core member",
+            "role": "Core Member",
             "email": "vistavision.rs@gmail.com",
             "insta": "vista_vision",
-            "dept": "SBS"
+            "dept": "SPS"
         },
         {
-            "name": "Aheesh Chandrakant Hedge",
+            "name": "Aheesh Chandrakant Hegde",
             "batch": 2019,
-            "image": "user.jpg",
-            "role": "Core member",
-            "email": "aheesh.hedge@niser.ac.in",
-            "dept": "SPS"
+            "image": "aheesh.png",
+            "role": "Core Member",
+            "email": "aheesh.hegde@niser.ac.in",
+            "dept": "SPS",
+            "insta": "i.ahee",
+            "caption": "Many might have said this to you.. but still Happy Birthday.. no sorry to be serious this has been one of the unexpectedly great community. Find Friends, Fun and Foster. "
         },
         {
             "name": "Sourav Kumar Sahu",
             "batch": 2019,
             "image": "sourav.jpg",
-            "role": "Core member",
+            "role": "Core Member",
             "email": "sourav.sahu@niser.ac.in",
             "insta": "52_shades_of_a_deck",
             "dept": "SPS"
@@ -228,8 +231,8 @@
         {
             "name": "Sattvik Yadav",
             "batch": 2022,
-            "image": "user.jpg",
-            "role": "Core member",
+            "image": "sattvik.jpg",
+            "role": "Core Member",
             "caption": "",
             "email": "sattvik.yadav@niser.ac.in",
             "insta": "",
@@ -251,7 +254,7 @@
             "name": "Tridev Sahu",
             "batch": 2022,
             "image": "tridev.jpg",
-            "role": "Core member",
+            "role": "Core Member",
             "caption": "",
             "email": "tridev.sahu@niser.ac.in",
             "insta": "t.r.4.5",
@@ -275,6 +278,7 @@
             "name": "Abhipsa Mishra",
             "batch": 2018,
             "image": "user.jpg",
+            "role": "Former Talks Representative",
             "dept": "SPS"
         },
         {
@@ -285,7 +289,7 @@
             "email": "adesh.thawale@gatech.edu",
             "insta": "nearacidrat.pdf",
             "linkedin": "",
-            "role":"",
+            "role":"Club Legend",
             "dept": "SCS"
         },
         {
@@ -325,6 +329,7 @@
             "batch": 2017,
             "image": "chandranathan.jpg",
             "dept": "SPS",
+            "role": "Former Training Team Member",
             "email": "777chand@gmail.com",
             "insta":"chandru_6.626"
         },
@@ -332,13 +337,16 @@
             "name": "Danush Shekar",
             "batch": 2017,
             "image": "user.jpg",
+            "role": "Former Core Member",
             "dept": "SPS"
         },
         {
             "name": "Datti Raga Sahiti",
             "batch": 2018,
-            "image": "user.jpg",
+            "image": "raga_sahiti.jpeg",
             "role": "Former Editor-in-Chief",
+            "insta": "raga_sahiti",
+            "email": "ragasahitid@gmail.com",
             "dept": "SBS"
         },
         {
@@ -353,7 +361,7 @@
             "image": "sreeram.jpg",
             "caption": "The club has grown a lot and you guys are doing a wonderful job. We're just waiting for the latest stunning pictures to drop!!",
             "email": "sreerameak@gmail.com",
-            "role":"",
+            "role":"Former Training Team & Astrophotography Team Member",
             "insta": "easreeram",
             "linkedin": "easreeram",
             "dept": "SPS"
@@ -370,9 +378,9 @@
             "image": "karan.jpg",
             "caption": "",
             "email": "karan42mahajan@gmail.com",
-            "role":"",
             "insta": "karanprobably",
             "linkedin": "",
+            "role":"Club Legend",
             "dept": "SPS"
         },
         {
@@ -405,7 +413,7 @@
             "image": "pulkit.JPG",
             "caption": "Stars are living organisms. They take birth, produce remnants, die and take rebirths as zombies. ",
             "email": "pulkitojha0901@gmail.com",
-            "role":"",
+            "role":"Club Legend",
             "insta": "o.pulkit",
             "linkedin": "pulkit-ojha-9249171b1",
             "dept": "SPS"
@@ -414,7 +422,7 @@
             "name": "Satyam Chandra Mishra ",
             "batch": 2015,
             "image": "satyam.jpeg",
-            "caption": "Dear Astronomy Enthusiasts, \nWhen someone says NAC, the first thing that comes into my mind is the friendships formed within the club's close-knit community which were more than just connections; they were constellations in the vast sky of my college experience. The mutual passion for astronomy brought us together, creating a supportive environment fueled our collective journey. In moments of academic challenges or personal trials, it was within the comforting glow of like-minded peers that I found solace and encouragement. NAC became a second home where our shared passion for the cosmos transformed acquaintances into lifelong friends. The wealth of knowledge exchanged during late-night stargazing sessions, discussions about cosmic phenomena, and projects was immeasurable. Each member brought a unique perspective, enriching our collective understanding of the cosmos.\nTo the future torchbearers of NAC, relish every moment under the star-studded canopy of the club. Treasure the friendships, seek and offer support, and embrace the invaluable lessons that come from your peers. As you embark on your astronomical voyage, I hope you experience the same sense of wonder and camaraderie that defined my tenure. Let the sky serve as a constant reminder of endless possibilities - just as it did for me. In moments of challenge, consider your problems as mere motes of dust against the vast celestial canvas. Embrace the boundless opportunities that the cosmos and the club offer.\nLife, much like the universe, is to be enjoyed to its fullest extent. May your journey in the NISER Astronomy Club be filled with discovery, learning, and unforgettable moments.\nHere's to the enduring magic of NAC and the limitless wonders that lie ahead.\nWarm regards,\nSatyam Chandra Mishra\nProud NAC Alumnus",
+            "caption": "Dear Astronomy Enthusiasts, \nWhen someone says NAC, the first thing that comes into my mind is the friendships formed within the club's close-knit community which were more than just connections; they were constellations in the vast sky of my college experience. The mutual passion for astronomy brought us together, creating a supportive environment fueled our collective journey. In moments of academic challenges or personal trials, it was within the comforting glow of like-minded peers that I found solace and encouragement. NAC became a second home where our shared passion for the cosmos transformed acquaintances into lifelong friends. The wealth of knowledge exchanged during late-night stargazing sessions, discussions about cosmic phenomena, and projects was immeasurable. Each Member brought a unique perspective, enriching our collective understanding of the cosmos.\nTo the future torchbearers of NAC, relish every moment under the star-studded canopy of the club. Treasure the friendships, seek and offer support, and embrace the invaluable lessons that come from your peers. As you embark on your astronomical voyage, I hope you experience the same sense of wonder and camaraderie that defined my tenure. Let the sky serve as a constant reminder of endless possibilities - just as it did for me. In moments of challenge, consider your problems as mere motes of dust against the vast celestial canvas. Embrace the boundless opportunities that the cosmos and the club offer.\nLife, much like the universe, is to be enjoyed to its fullest extent. May your journey in the NISER Astronomy Club be filled with discovery, learning, and unforgettable moments.\nHere's to the enduring magic of NAC and the limitless wonders that lie ahead.\nWarm regards,\nSatyam Chandra Mishra\nProud NAC Alumnus",
             "email": "satyamchandramishra@gmail.com",
             "role": "Former Club Representative",
             "insta": "satyam_chandra_mishra",

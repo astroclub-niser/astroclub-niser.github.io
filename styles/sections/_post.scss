@@ -28,6 +28,10 @@ article {
         font-size: 1.15rem;
         text-align: justify;
 
+        li {
+            list-style-type: circle;
+        }
+
         a {
             text-decoration: underline;
         }
