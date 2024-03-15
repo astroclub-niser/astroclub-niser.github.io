@@ -115,6 +115,15 @@
             "email": "sourav.sahu@niser.ac.in",
             "insta": "52_shades_of_a_deck",
             "dept": "SPS"
+        },
+        {
+            "name": "Anurenj ER",
+            "batch": 2021,
+            "image": "anurenj.jpg",
+            "role": "Talks Team Lead",
+            "email": "anurenj.er@niser.ac.in",
+            "other": "https://twitter.com/Anurenj_E_R",
+            "dept": "SMS"
         }
     ],
     "present": [
@@ -162,15 +171,6 @@
             "role": "Magazine Team Lead",
             "email": "sagar.barad@niser.ac.in",
             "dept": "SPS"
-        },
-        {
-            "name": "Anurenj ER",
-            "batch": 2021,
-            "image": "anurenj.jpg",
-            "role": "Talks Team Lead",
-            "email": "anurenj.er@niser.ac.in",
-            "other": "https://twitter.com/Anurenj_E_R",
-            "dept": "SMS"
         },
         {
             "name": "Hrishikesh Malladi",
@@ -226,6 +226,17 @@
             "role": "Website Team Lead",
             "email": "gayatri.p@niser.ac.in",
             "linkedin": "gayatri-p-a7a348267",
+            "dept": "SPS"
+        },
+        {
+            "name": "Rabi Narayan Mishra",
+            "batch": 2022,
+            "image": "user.jpg",
+            "role": "Talks Team Lead",
+            "caption": "",
+            "email": "rabinarayan.mishra@niser.ac.in",
+            "insta": "",
+            "linkedin": "",
             "dept": "SPS"
         },
         {
