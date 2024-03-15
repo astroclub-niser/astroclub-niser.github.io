@@ -80,6 +80,16 @@
     padding: 4rem 5rem;
     font-size: 1.1rem;
     justify-content: space-around;
+    position: relative;
+
+    p.credits {
+        position: absolute;
+        bottom: -10px;
+        right: 10px;
+        font-size: 12px;
+        color: #fff5;
+        text-align: right;
+    }
 
     .newsletter-content {
         width: 60%;
