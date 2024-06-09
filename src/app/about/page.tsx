@@ -36,7 +36,7 @@ const About = () => {
         <div className="content">
           <h2>Our Constitution</h2>
           <p>NAC has always adopted a flexible means of running the club. But, with growing memberships and activities of the club, it became imperative to regulate the function while preserving its flexibility and democracy. </p>
-          <p>Our constitution plays the role of appropriate check and balance to ensure the activities are truly governed by the members, rather than a single individual or group. This also ensures that the Club's key values remain intact and properly gets passed on to the newer faces.</p>
+          <p>Our constitution plays the role of appropriate check and balance to ensure the activities are truly governed by the members, rather than a single individual or group. This also ensures that the Club&apos;s key values remain intact and properly gets passed on to the newer faces.</p>
           <button className="btn"><a target="_blank" href="https://drive.google.com/file/d/1KfXMc9GWYaZNhUbopeOjRrUWIcm_6v1H/view?usp=sharing">Read our Constitution</a></button>
         </div>
       </div>
