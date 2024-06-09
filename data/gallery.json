@@ -1,5 +1,30 @@
 {
     "gallery": [
+                {
+            "image": "2024/farewell3.jpg",
+            "date": "",
+            "description": "The batch '19 farewell"
+        },
+        {
+            "image": "2024/farewell2.jpg",
+            "date": "",
+            "description": "The batch '19 farewell"
+        },
+        {
+            "image": "2024/farewell1.jpg",
+            "date": "",
+            "description": "The batch '19 farewell cake!"
+        },
+        {
+            "image": "2024/obs1.jpg",
+            "date": "",
+            "description": "Observation session on March 22nd, '24"
+        },
+        {
+            "image": "2024/obs2.jpg",
+            "date": "",
+            "description": "Observation session on March 23rd, '24 using the 11 inch telescope"
+        },
         {
             "image": "2024/merch.jpeg",
             "date": "",
@@ -14,6 +39,11 @@
             "image": "2024/solar-obs.jpeg",
             "date": "",
             "description": "Solar Observation Session"
+        },
+        {
+            "image": "2024/alumni-session.jpg",
+            "date": "",
+            "description": "NAC members connecting with Kishan Deka, an NAC alumni from B17 (SPS), now pursuing a PhD at the National Centre for Nuclear Research (NCBJ) in Otwock, Poland"
         },
         {
             "image": "2024/29.1.jpeg",

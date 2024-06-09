@@ -2,9 +2,27 @@
     "upcoming": [],
     "year24": [
         {
+            "eventName": "Au Revoir Batch '19",
+            "eventDate": "May 10th 2024",
+            "shortDesc": "As a token of gratitude for the contributions of the Batch 19 seniors, the Astro Club organized a minimalistic farewell event on the evening of May 10th. The gathering included fun games and casual conversations, allowing the seniors to reminisce and share their experiences with the younger members under the open night sky at the Yamuna cricket ground.",
+            "blogEntry": "",
+            "images": [
+                "2024/farewell4.jpg"
+            ]
+        },
+        {
+            "eventName": "Astrophotography Workshop",
+            "eventDate": "April 6th 2024",
+            "shortDesc": "A mini astrophotography workshop by Vishal Meena (Int. M.Sc. Physics B22) was held that focused on data collection and processing. Participants learned techniques for capturing stunning images of celestial objects using telescopes and cameras. The workshop covered topics such as equipment setup, exposure settings, and image stacking. Attendees also gained hands-on experience with processing software to enhance and refine their captured images.",
+            "blogEntry": "",
+            "images": [
+                "2024/astrophtography_workshop.jpg"
+            ]
+        },
+        {
             "eventName": "Valentine's Day Special",
-            "eventDate": "February 14th 2023",
-            "shortDesc": " On Valentine's Day, a stargazing session was held on the Yamuna Cricket Ground with the celestial presence of the goddess of love. Owing to prevailing weather conditions, the session predominantly constituted a naked-eye observational experience coupled with interactive discussions centered around celestial narratives and tales of love derived from the night sky.",
+            "eventDate": "February 14th 2024",
+            "shortDesc": "On Valentine's Day, a stargazing session was held on the Yamuna Cricket Ground with the celestial presence of the goddess of love. Owing to prevailing weather conditions, the session predominantly constituted a naked-eye observational experience coupled with interactive discussions centered around celestial narratives and tales of love derived from the night sky.",
             "blogEntry": "",
             "images": [
                 "2024/14feb.jpg"
@@ -12,7 +30,7 @@
         },
         {
             "eventName": "Prerana",
-            "eventDate": "January 21st 2023",
+            "eventDate": "January 21st 2024",
             "shortDesc": "As part of Prerana, a Zaaria initiative event for the kids of the campus security staff, IWD and housekeeping staff of NISER to foster innovative and scientific thinking, the NAC conducted a telescope session for the kids where they were able to observe the Moon and Jupiter through the club's 6 inch Newtonian telescopes. Various posters had also been put up for the perusal of the young ones. The club members also discussed various astronomical phenomena with the keenly interested folks present there.",
             "blogEntry": "",
             "images": [

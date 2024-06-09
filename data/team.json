@@ -289,7 +289,7 @@
             "name": "Abhipsa Mishra",
             "batch": 2018,
             "image": "user.jpg",
-            "role": "Former Talks Representative",
+            "role": "Former Talks Representative & Kshitij Editor",
             "dept": "SPS"
         },
         {
@@ -340,7 +340,7 @@
             "batch": 2017,
             "image": "chandranathan.jpg",
             "dept": "SPS",
-            "role": "Former Training Team Member",
+            "role": "Former Training Team Member & Kshitij Editor",
             "email": "777chand@gmail.com",
             "insta":"chandru_6.626"
         },
@@ -348,7 +348,7 @@
             "name": "Danush Shekar",
             "batch": 2017,
             "image": "user.jpg",
-            "role": "Former Core Member & Designer of the NAC Logo",
+            "role": "Former Talks in-charge & Designer of the NAC Logo",
             "dept": "SPS"
         },
         {
@@ -398,19 +398,22 @@
             "name": "Kishan Deka",
             "batch": 2017,
             "image": "user.jpg",
-            "dept": "SPS"
+            "dept": "SPS",
+            "role": "Former Observation Session in-charge & Events Organiser"
         },
         {
             "name": "Kishore Sourav",
             "batch": 2017,
             "image": "kishore.jpg",
-            "dept": "SPS"
+            "dept": "SPS",
+            "role": "Former Observation Session in-charge & Events Organiser"
         },
         {
             "name": "Nikhil Keshav",
             "batch": 2018,
             "image": "nikhil_keshav.jpg",
-            "dept": "SPS"
+            "dept": "SPS",
+            "role": "Former Observation Session in-charge"
         },
         {
             "name": "Nisarg Vyas",
