@@ -101,6 +101,12 @@
     }
 }
 
+@media (max-width: 800px) {
+    h2.talks-year-label {
+        font-size: 2.1rem !important;
+    }
+}
+
 @media (max-width: 400px) {
     .section-description {
         margin: 0 2rem;

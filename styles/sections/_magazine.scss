@@ -19,6 +19,7 @@
 
     .magazine {
         margin: 20px;
+        position: relative;
 
         img {
             transition: ease-in-out .3s;
@@ -41,3 +42,46 @@
         color: $grey;
     }
 }
+
+.new-sticker {
+    margin: 0;
+    position: absolute;
+    display: inline-block;
+    top: -20px;
+    left: -20px;
+  }
+  .new {
+    background-color: orange;
+    color: #000;
+    font-size: .8rem;
+    letter-spacing: .09rem;
+    position: absolute;
+    left: .4rem;
+    top: .9rem;
+    transform: rotate(-15deg);
+    font-weight: bold;
+  }
+  .sticker {
+    height: 3rem;
+    width: 3rem;
+    background: orange;
+    position: absolute;
+  }
+  .sticker:before {
+    height: 3rem;
+    width: 3rem;
+    background: orange;
+    content:"";
+    position: absolute;
+    /* Rotate */
+    transform: rotate(30deg);
+  }
+  .sticker:after {
+    height: 3rem;
+    width: 3rem;
+    background: orange;
+    content:"";
+    position: absolute;
+    /* Rotate */
+    transform: rotate(-30deg);
+  }

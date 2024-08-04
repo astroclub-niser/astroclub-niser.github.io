@@ -102,6 +102,16 @@ export default async function Home() {
               <figcaption>Kshitij 4.0<br /><span>Dec 2022</span></figcaption>
             </a>
           </figure>
+          <figure>
+            <a href="https://drive.google.com/file/d/1vsY3vub7Wr82K92rTX3kV69f9AOWQOT0/view" title='Read this edition' target="_blank">
+              <Image src={'/kshitij/Kshitij_Aug_2024.jpg'} alt='event horizon' width={200} height={460}></Image>
+              <figcaption>Kshitij 5.0<br /><span>Aug 2024</span></figcaption>
+              <div className="new-sticker">
+                <span className="sticker"></span>
+                <span className="new">NEW!</span>
+              </div>
+            </a>
+          </figure>
         </div>
       </div>
     </main>

@@ -433,6 +433,14 @@
             "dept": "SPS"
         },
         {
+            "name": "Rutuja Attal",
+            "batch": 2017,
+            "image": "rutuja.jpg",
+            "role": "Head Event Coordinator",
+            "dept": "SPS",
+            "linkedin": "rutuja-attal-63ba7b1b6"
+        },
+        {
             "name": "Satyam Chandra Mishra ",
             "batch": 2015,
             "image": "satyam.jpeg",
