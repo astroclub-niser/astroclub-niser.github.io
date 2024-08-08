@@ -3,7 +3,7 @@ import Link from 'next/link'
 import { promises as fs } from 'fs';
 import AstropicCard, { AstroProps } from '../../components/AstropicCard';
 import {a} from '../../components/AllLinks'
-// import TalkCard from '../../components/TalkCard';
+import EventCard, { EventProps } from '../../components/EventCard';
 // import { TalkItemProps } from '../../components/PropsPage';
 // import React from "react";
 
@@ -11,13 +11,13 @@ export default async function Home() {
   const picsFile = await fs.readFile(process.cwd() + '/data/astropics.json', 'utf8');
   const picsData = JSON.parse(picsFile).astrophotographs.slice(0, 6);
 
-  const talksFile = await fs.readFile(process.cwd() + '/data/talks.json', 'utf8');
-  const talksData = JSON.parse(talksFile)
+  // const talksFile = await fs.readFile(process.cwd() + '/data/talks.json', 'utf8');
+  // const talksData = JSON.parse(talksFile)
   // const upcomingTalks = talksData[Object.keys(talksData)[0]]
 
   const eventsFile = await fs.readFile(process.cwd() + '/data/events.json', 'utf8');
   const eventsData = JSON.parse(eventsFile)
-  // const newEvents = eventsData[Object.keys(eventsData)[0]]
+  const newEvents = eventsData[Object.keys(eventsData)[0]]
 
   return (
     <main>
@@ -34,6 +34,19 @@ export default async function Home() {
         <p>We are a group of undergraduate members of the NISER Astronomy Club working in the footsteps of the club founder, late Debasish Jena, working towards inspiring students to do research in Space and Astronomy and unravel the mysteries of the universe.</p>
         <p>Explore the page and get the latest updates of astronomical events at NISER (such as mega-events, talks, observation sessions, astrophotography tutorials, etc.) that happened in the past and will commence in the future.</p>
       </div>
+
+      <div id="whats-new" className='section-home'>
+        <h2>What&apos;s New</h2>
+        <div className="whats-new-grid">
+          
+          {newEvents.map(({ id, eventName, eventDate, shortDesc, images, blogEntry }: EventProps) => (
+            <EventCard id={id} eventDate={eventDate} eventName={eventName} shortDesc={shortDesc} images={images} blogEntry={blogEntry}/>
+          ))}
+
+        </div>
+      </div>
+
+
       <div id="home-gallery" className='section-home'>
         <h2>Gallery</h2>
         <p className='page-description'>Some of the beautiful moments of the sky captured by our beloved members.</p>
@@ -57,16 +70,6 @@ export default async function Home() {
           <p className="credits">Image credit: Getty Images</p>  
         </div>
       </div>
-
-      {/* <div id="whats-new" className='section-home'>
-        <h2>What&apos;s New</h2>
-        <div className="whats-new-grid">
-          {upcomingTalks.map(({ id, title, date, speaker, speaker_desc, poster, youtubeID, abstract }: TalkItemProps) => (
-            <TalkCard key={id} title={title} date={date} speaker={speaker} speaker_desc={speaker_desc} poster={poster} youtubeID={youtubeID} abstract={abstract} />
-          ))}
-
-        </div>
-      </div> */}
 
       <div id="magazine" className='section-home'>
         <div className="magazine-content">
