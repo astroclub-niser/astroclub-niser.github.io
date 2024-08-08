@@ -3,7 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 
 export interface EventProps {
-    id: string,
+    key: string,
     eventName: string,
     eventDate: string,
     shortDesc: string,
@@ -19,9 +19,9 @@ function ReadMore({ link }: { link: string }) {
     }
 }
 
-export default function EventCard({ id, eventName, eventDate, shortDesc, images, blogEntry }: EventProps) {
+export default function EventCard({ key, eventName, eventDate, shortDesc, images, blogEntry }: EventProps) {
     return (
-        <figure className="event" id={id}>
+        <figure className="event" key={key}>
             <div className="event-img">
                 <Image src={`/photos/${images[0]}`} width={500} height={500} alt={`${eventName}`} />
             </div>

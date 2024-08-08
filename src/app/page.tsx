@@ -39,8 +39,8 @@ export default async function Home() {
         <h2>What&apos;s New</h2>
         <div className="whats-new-grid">
           
-          {newEvents.map(({ id, eventName, eventDate, shortDesc, images, blogEntry }: EventProps) => (
-            <EventCard id={id} eventDate={eventDate} eventName={eventName} shortDesc={shortDesc} images={images} blogEntry={blogEntry}/>
+          {newEvents.map(({ key, eventName, eventDate, shortDesc, images, blogEntry }: EventProps) => (
+            <EventCard key={key} eventDate={eventDate} eventName={eventName} shortDesc={shortDesc} images={images} blogEntry={blogEntry}/>
           ))}
 
         </div>
