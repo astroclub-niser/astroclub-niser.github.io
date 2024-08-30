@@ -1,9 +1,13 @@
 {
     "upcoming": [
+       
+    ],
+    "year24": [
+
         {
             "eventName": "Unveiling KALPANA: NAC's very own Observatory",
-            "eventDate": "",
-            "shortDesc": "The wait for NAC's brand new observatory, 'Kalpana' is finally over, thanks to the contributions of club legends who worked day and night to make this possible. Cheers to a new era at NAC! Stay tuned for more details",
+            "eventDate": "August 22, 2024",
+            "shortDesc": "The wait for NAC's brand new observatory, 'Kalpana' is finally over, thanks to the contributions of club legends who worked day and night to make this possible. Cheers to a new era at NAC!",
             "blogEntry": "",
             "images": [
                 "2024/kalpana.jpg"
@@ -12,14 +16,13 @@
         {
             "eventName": "StarStrider: The Astro Treasure Hunt",
             "eventDate": "August 23rd to 25th, 2024",
-            "shortDesc": "The Space Time Authority has intercepted signals indicating a growing instability in the spacetime continuum originating from the NISER campus. To eliminate this threat, we seek a select group of elite individuals to infiltrate NISER, detect and destroy the anomaly and restore equilibrium.",
-            "blogEntry": "https://forms.gle/9DPs7vcV8s2TsBmYA",
+            "shortDesc": "The Space Time Authority had intercepted signals indicating a growing instability in the spacetime continuum originating from the NISER campus. The threat has now been eliminated thanks to the valiant efforts of Team \"Aasmani Tatte\". Shoutout to all the other astrocadets who helped in this grand cosmic mission.",
+            "blogEntry": "",
             "images": [
                 "2024/starstrider.jpg"
             ]
-        }
-    ],
-    "year24": [
+        },
+
         {
             "eventName": "Au Revoir Batch '19",
             "eventDate": "May 10th 2024",
