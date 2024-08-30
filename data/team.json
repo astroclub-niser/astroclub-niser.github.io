@@ -4,38 +4,15 @@
             "name": "Abhinav Roy",
             "batch": 2020,
             "image": "abhinav.JPG",
-            "role": "Club Representative",
+            "role": "Former Club Representative",
             "email": "abhinav.roy@niser.ac.in",
             "dept": "SPS",
             "caption": "Ad Astra, Per Aspera.",
             "insta": "currently_planning_a_lot",
-            "linkedin": "abhinav-roy-03",
+            "linkedin": "",
             "other": "https://sites.google.com/view/abhinav-roy/home"
         },
-        {
-            "name": "R Vasanth Kashyap",
-            "batch": 2019,
-            "image": "vasanth.jpg",
-            "role": "Core Member",
-            "email": "vasanth.kashyap@niser.ac.in",
-            "dept": "SPS",
-            "caption": "Look up and get lost",
-            "insta": "vasanth_kashyap",
-            "linkedin": "vasanth-kashyap",
-            "other": "https://sites.google.com/niser.ac.in/vasanth-kashyap"
-        },
-        {
-            "name": "Abha Vishwakarma",
-            "batch": 2019,
-            "image": "abha.jpg",
-            "role": "Core Member",
-            "caption": "Its really nice to be a part of such an active community of people who love Astrophysics so much!",
-            "email": "abha.vishwakarma@niser.ac.in",
-            "insta": "penguins.wanna.fly.too",
-            "linkedin": "abha-vishwakarma",
-            "other": "https://sites.google.com/view/abhavishwakarma/",
-            "dept": "SPS"
-        },
+        
         {
             "name": "Gayathri Santhosh",
             "batch": 2019,
@@ -98,16 +75,6 @@
             "dept": "SPS"
         },
         {
-            "name": "Aheesh Chandrakant Hegde",
-            "batch": 2019,
-            "image": "aheesh.png",
-            "role": "Core Member",
-            "email": "aheesh.hegde@niser.ac.in",
-            "dept": "SPS",
-            "insta": "i.ahee",
-            "caption": "Many might have said this to you.. but still Happy Birthday.. no sorry to be serious this has been one of the unexpectedly great community. Find Friends, Fun and Foster. "
-        },
-        {
             "name": "Sourav Kumar Sahu",
             "batch": 2019,
             "image": "sourav.jpg",
@@ -120,18 +87,16 @@
             "name": "Anurenj ER",
             "batch": 2021,
             "image": "anurenj.jpg",
-            "role": "Talks Team Lead",
+            "role": "Former Talks Team Lead",
             "email": "anurenj.er@niser.ac.in",
             "other": "https://twitter.com/Anurenj_E_R",
             "dept": "SMS"
-        }
-    ],
-    "present": [
+        },
         {
             "name": "Niti Singh",
             "batch": 2020,
             "image": "niti.jpg",
-            "role": "Club Representative",
+            "role": "Former Club Representative",
             "caption": "Admiring stars for the energy it has? or wishing for its power to withstand the ash?",
             "email": "niti.singh@niser.ac.in",
             "linkedin": "niti-singh-601653223",
@@ -139,26 +104,10 @@
             "dept": "SPS"
         },
         {
-            "name": "Chandan Kumar Sahu",
-            "batch": 2019,
-            "image": "chandan.jpg",
-            "role": "Observatory Representative",
-            "email": "chandankumar.sahu@niser.ac.in",
-            "dept": "SPS"
-        },
-        {
-            "name": "Dibya Bharati Pradhan",
-            "batch": 2019,
-            "image": "dibya.jpg",
-            "role": "Observatory Representative",
-            "email": "dibyabharati.pradhan@niser.ac.in",
-            "dept": "SPS"
-        },
-        {
             "name": "Upasana Das",
             "batch": 2020,
             "image": "upasana.jpg",
-            "role": "Magazine Team Lead",
+            "role": "Former Magazine Team Lead",
             "email": "upasana.das@niser.ac.in",
             "insta": "upasana_das",
             "linkedin": "upasana-das-01ud",
@@ -168,15 +117,18 @@
             "name": "Sagar Prakash Barad",
             "batch": 2020,
             "image": "sagar.jpg",
-            "role": "Magazine Team Lead",
+            "role": "Former Magazine Team Lead",
             "email": "sagar.barad@niser.ac.in",
             "dept": "SPS"
-        },
+        }
+    ],
+    "present": [
+        
         {
             "name": "Hrishikesh Malladi",
             "batch": 2021,
             "image": "user.jpg",
-            "role": "Sessions Team Lead",
+            "role": "Club Representative",
             "email": "hrishikesh.malladi@niser.ac.in",
             "dept": "SPS"
         },
@@ -202,22 +154,11 @@
             "name": "Asmi Nandy",
             "batch": 2022,
             "image": "asmi.jpg",
-            "role": "Outreach Team Lead",
+            "role": "Club Representative",
             "email": "asmi.nandy@niser.ac.in",
             "insta": "asminandy2003",
             "linkedin": "asminandy",
             "dept": "SCS"
-        },
-        {
-            "name": "Dipam Naskar",
-            "batch": 2022,
-            "image": "dipam.jpg",
-            "role": "Newsletter Team Lead",
-            "caption": "Happy Stargazing!",
-            "email": "dipam.naskar@niser.ac.in",
-            "insta": "dipam.naskar",
-            "linkedin": "dipam-naskar-01231a287",
-            "dept": "SBS"
         },
         {
             "name": "Gayatri",
@@ -243,7 +184,7 @@
             "name": "Sattvik Yadav",
             "batch": 2022,
             "image": "sattvik.jpg",
-            "role": "Core Member",
+            "role": "Newsletter Team Lead",
             "caption": "",
             "email": "sattvik.yadav@niser.ac.in",
             "insta": "",
@@ -254,7 +195,7 @@
             "name": "SriUma Maheshwari V",
             "batch": 2022,
             "image": "uma.jpg",
-            "role": "Induction & Events Team Lead",
+            "role": "Magazine Chief Editor",
             "caption": "",
             "email": "sriuma.maheswari@niser.ac.in",
             "insta": "sriumamaheshwarivittal",
@@ -265,7 +206,7 @@
             "name": "Tridev Sahu",
             "batch": 2022,
             "image": "tridev.jpg",
-            "role": "Core Member",
+            "role": "Observatory Team Lead",
             "caption": "",
             "email": "tridev.sahu@niser.ac.in",
             "insta": "t.r.4.5",
@@ -276,7 +217,7 @@
             "name": "Vishal Meena",
             "batch": 2022,
             "image": "vishal.jpg",
-            "role": "Astrophotography Team Lead",
+            "role": "Astrophotography and Sessions Team Lead",
             "caption": "",
             "email": "vishal.meena@niser.ac.in",
             "insta": "vishal._.meena0",
@@ -291,6 +232,56 @@
             "image": "user.jpg",
             "role": "Former Talks Representative & Kshitij Editor",
             "dept": "SPS"
+        },
+        {
+            "name": "Chandan Kumar Sahu",
+            "batch": 2019,
+            "image": "chandan.jpg",
+            "role": "Former Observatory Representative",
+            "email": "chandankumar.sahu@niser.ac.in",
+            "dept": "SPS"
+        },
+        {
+            "name": "Dibya Bharati Pradhan",
+            "batch": 2019,
+            "image": "dibya.jpg",
+            "role": "Former Observatory Representative",
+            "email": "dibyabharati.pradhan@niser.ac.in",
+            "dept": "SPS"
+        },
+        {
+            "name": "Aheesh Chandrakant Hegde",
+            "batch": 2019,
+            "image": "aheesh.png",
+            "role": "Core Member",
+            "email": "aheesh.hegde@niser.ac.in",
+            "dept": "SPS",
+            "insta": "i.ahee",
+            "caption": "Many might have said this to you.. but still Happy Birthday.. no sorry to be serious this has been one of the unexpectedly great community. Find Friends, Fun and Foster. "
+        },
+        {
+            "name": "Abha Vishwakarma",
+            "batch": 2019,
+            "image": "abha.jpg",
+            "role": "Core Member",
+            "caption": "Its really nice to be a part of such an active community of people who love Astrophysics so much!",
+            "email": "abha.vishwakarma@niser.ac.in",
+            "insta": "penguins.wanna.fly.too",
+            "linkedin": "abha-vishwakarma",
+            "other": "https://sites.google.com/view/abhavishwakarma/",
+            "dept": "SPS"
+        },
+        {
+            "name": "R Vasanth Kashyap",
+            "batch": 2019,
+            "image": "vasanth.jpg",
+            "role": "Club Legend",
+            "email": "vasanth.kashyap@niser.ac.in",
+            "dept": "SPS",
+            "caption": "Look up and get lost",
+            "insta": "vasanth_kashyap",
+            "linkedin": "vasanth-kashyap",
+            "other": "https://sites.google.com/niser.ac.in/vasanth-kashyap"
         },
         {
             "name": "Adesh Natthuji Thawale ",
