@@ -2,11 +2,6 @@
 import { Metadata } from "next"
 import SimpleImageSlider from "react-simple-image-slider";
 
-// export const metadata: Metadata = {
-//   title: 'Equipments | NISER Astronomy Club',
-//   description: 'We are the Astronomy Club of NISER, Bhubaneswar',
-// }
-
 const elevenInch = [
   { url: "/photos/11inch-1.JPG" },
   { url: "/photos/11inch-3.jpg" },
@@ -43,8 +38,8 @@ const Equipments = () => {
         <div className="equipment">
           
           <div className="equipment-details">
-            <h3>Celestron 11-inch</h3>
-            <h4>The Senior</h4>
+            <h3>Paddy</h3>
+            <h4>Celestron 11-inch</h4>
             <p>The Celestron 11-inch Schmidt-Cassegrain Hybrid telescope is the biggest telescope that NAC has and is used for terrestrial and deep sky viewing and astrophotography. The 11-inch CPC focal length is 28 cm and with it’s eyepieces it can yield a magnification of 40x to a whopping 1650x.</p>
             <p>It has a revolutionary and very easy to use SkyAlign alignment technology. We simply need to locate and manually point to 3 bright celestial objects, and it’s software simply models the night sky to determine the position of every star, planet, and celestial object above the horizon. Once aligned, the remote hand control allows direct access to each of the celestial catalogs in its remarkably user-friendly database. It’s database contains more than 40,000 celestial objects, including the Caldwell Catalog, as well as NGC Galaxies, nebulae, and planets. It has been used to view the Whirlpool Galaxy, Sombrero Galaxy, Moon-Mars Occulation and Saturn Jupiter Conjunction and is also used in regular club observation sessions.</p>
           </div>
@@ -66,8 +61,8 @@ const Equipments = () => {
         <div className="equipment">
           
           <div className="equipment-details">
-            <h3>8-inch Reflecting Telescope</h3>
-            <h4>The Sophomore</h4>
+            <h3>Bhaskara</h3>
+            <h4>8-inch Reflecting Telescope</h4>
             <p>SkyWatcher Quattro 200P is an 8-inch Reflecting Newtonian Telescope with an equitorial mount. It can be fitted with cameras to take long exposure photographs and to trace the pattern of stars.</p>
             <p>The instruction manual for this telescope can be found <a target="_blank" style={{textDecoration: 'underline'}} href="https://drive.google.com/file/d/1-CCV4krJJo7kB_kyvhxWOvbpdDgY_G84/view?usp=sharing">here</a>.</p>
           </div>

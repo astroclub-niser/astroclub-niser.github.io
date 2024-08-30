@@ -14,9 +14,9 @@ const Footer = () => {
         <div className='mail'><h1>Contact Us</h1>
           <p><a href='mailto:astroclub@niser.ac.in'>astroclub@niser.ac.in</a></p>
         </div>
-        <div className='address'>Room 514<br/>School of Physical Sciences<br/>NISER,
+        <div className='address'>Control Room (514)<br/>School of Physical Sciences<br/>NISER,
           Bhubaneswar<br/>
-          P.O. Jatni, Khurda – 752050<br/>
+          P.O. Jatni, Khurda - 752050<br/>
           Odisha, India</div>
       </div>
       <div className='footer-socials'>
