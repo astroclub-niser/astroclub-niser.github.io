@@ -12,40 +12,6 @@
             "linkedin": "",
             "other": "https://sites.google.com/view/abhinav-roy/home"
         },
-        
-        {
-            "name": "Gayathri Santhosh",
-            "batch": 2019,
-            "image": "gayathri.jpg",
-            "role": "Core Member",
-            "email": "gayathri.santhosh@niser.ac.in",
-            "dept": "SPS"
-        },
-        {
-            "name": "Ratul Das",
-            "batch": 2019,
-            "image": "ratul.jpg",
-            "role": "Core Member",
-            "email": "ratul.das@niser.ac.in",
-            "dept": "SPS"
-        },
-        {
-            "name": "Devamrutha IS",
-            "batch": 2019,
-            "image": "devamrutha.jpg",
-            "role": "Core Member",
-            "email": "devamrutha.is@niser.ac.in",
-            "dept": "SPS"
-        },
-        {
-            "name": "Maitrey Sharma",
-            "batch": 2019,
-            "image": "maitrey.jpg",
-            "role": "Core Member",
-            "email": "km.maitrey@gmail.com",
-            "dept": "SPS",
-            "other": "https://kmaitreys.github.io/"
-        },
         {
             "name": "Aniket Nath",
             "batch": 2020,
@@ -53,8 +19,9 @@
             "role": "Core Member",
             "caption": "... and the rest is rust and stardust.",
             "email": "aniket.nath@niser.ac.in",
-            "insta": "baryonik_matter",
+            "insta": "",
             "linkedin": "aniket-nath-niser",
+            "other": "https://aniket-nath.github.io/",
             "dept": "SPS"
         },
         {
@@ -63,24 +30,6 @@
             "image": "srusti.jpg",
             "role": "Core Member",
             "email": "srusti.sampanna@niser.ac.in",
-            "dept": "SPS"
-        },
-        {
-            "name": "S Rajalakshmi",
-            "batch": 2019,
-            "image": "rajalakshmi.jpg",
-            "role": "Core Member",
-            "email": "vistavision.rs@gmail.com",
-            "insta": "vista_vision",
-            "dept": "SPS"
-        },
-        {
-            "name": "Sourav Kumar Sahu",
-            "batch": 2019,
-            "image": "sourav.jpg",
-            "role": "Core Member",
-            "email": "sourav.sahu@niser.ac.in",
-            "insta": "52_shades_of_a_deck",
             "dept": "SPS"
         },
         {
@@ -235,10 +184,61 @@
             "dept": "SPS"
         },
         {
+            "name": "S Rajalakshmi",
+            "batch": 2019,
+            "image": "rajalakshmi.jpg",
+            "role": "Former Editor, KSHITIJ",
+            "email": "vistavision.rs@gmail.com",
+            "insta": "vista_vision",
+            "dept": "SPS"
+        },
+        {
+            "name": "Maitrey Sharma",
+            "batch": 2019,
+            "image": "maitrey.jpg",
+            "role": "Former Editor, KSHITIJ & Event Horizon",
+            "email": "km.maitrey@gmail.com",
+            "dept": "SPS",
+            "other": "https://kmaitreys.github.io/"
+        },
+        {
+            "name": "Devamrutha IS",
+            "batch": 2019,
+            "image": "devamrutha.jpg",
+            "role": "Former Talks & Newsletter Respresetative",
+            "email": "devamrutha.is@niser.ac.in",
+            "dept": "SPS"
+        },
+        {
+            "name": "Ratul Das",
+            "batch": 2019,
+            "image": "ratul.jpg",
+            "role": "Former Magazine Editor, KSHITIJ",
+            "email": "ratul.das@niser.ac.in",
+            "dept": "SPS"
+        },
+        {
+            "name": "Gayathri Santhosh",
+            "batch": 2019,
+            "image": "gayathri.jpg",
+            "role": "Former Editor-in-Chief, KSHITIJ",
+            "email": "gayathri.santhosh@niser.ac.in",
+            "dept": "SPS"
+        },
+        {
+            "name": "Sourav Kumar Sahu",
+            "batch": 2019,
+            "image": "sourav.jpg",
+            "role": "Former Astrophotography Representative",
+            "email": "sourav.sahu@niser.ac.in",
+            "insta": "52_shades_of_a_deck",
+            "dept": "SPS"
+        },
+        {
             "name": "Chandan Kumar Sahu",
             "batch": 2019,
             "image": "chandan.jpg",
-            "role": "Former Observatory Representative",
+            "role": "Former Club Representative",
             "email": "chandankumar.sahu@niser.ac.in",
             "dept": "SPS"
         },
@@ -246,7 +246,7 @@
             "name": "Dibya Bharati Pradhan",
             "batch": 2019,
             "image": "dibya.jpg",
-            "role": "Former Observatory Representative",
+            "role": "Former Club Representative",
             "email": "dibyabharati.pradhan@niser.ac.in",
             "dept": "SPS"
         },
@@ -254,7 +254,7 @@
             "name": "Aheesh Chandrakant Hegde",
             "batch": 2019,
             "image": "aheesh.png",
-            "role": "Core Member",
+            "role": "Former Talks Representative",
             "email": "aheesh.hegde@niser.ac.in",
             "dept": "SPS",
             "insta": "i.ahee",
