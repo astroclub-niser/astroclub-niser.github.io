@@ -32,13 +32,23 @@
             
         },
         {
+            "title": "Formation of Giant Planets: Insights from Pebble Accretion",
+            "date": "September 06, 2024",
+            "speaker": "Anuja Raorone",
+            "speaker_desc": "P (SPS), IISER, Pune",
+            "poster": "10-08-24.jpg",
+            "youtubeID": "",
+            "abstract": "The origin of our solar system and the structure of planetary systems across the cosmos is a fundamental question in astrophysics. With over 5,000 exoplanetary systems discovered, none perfectly mirrors our solar system. In this talk, I will explore the journey of planetary system formation, focusing on the protoplanetary disk stage, where planets acquire their unique characteristics. I will highlight how molecular line observations using the Atacama Large Millimeter/submillimeter Array (ALMA) provide invaluable insights into these early stages, advancing our understanding of planetary origins."
+            
+        },
+        {
             "title": "Beyond the Visible: Exploring the Universe with Neutral Hydrogen",
             "date": "August 3, 2024",
             "speaker": "Tanya Tripty",
-            "speaker_desc": "PhD Scholar (SPS), NISER",
-            "poster": "03-08-24.jpg",
+            "speaker_desc": "Int. Msc. (Batch 23) (SPS), NISER",
+            "poster": "06-09-2024.jpg",
             "youtubeID": "",
-            "abstract": "Imagine a cosmic detective story where the most common element in the universe plays the starring role. This tale is about neutral hydrogen, the simplest atom in existence, consisting of just one proton and one electron. However, do not be deceived by its simplicity– neutral hydrogen holds the key to unlocking some of the universe's greatest mysteries. In this cosmic exploration, we'll first uncover the essence of neutral hydrogen and why astronomers are so excited about it. Finally, we'll put on our detective hats and learn how to decode the secret messages hidden in hydrogen's spectral fingerprint. This special light signature, emitted at a wavelength of 21 centimeters, tells us incredible stories about the motion, mass, and history of galaxies."
+            "abstract": "The formation history of Jupiter has been of interest due to its ability to shape the solar system's history. Yet little attention has been paid to the formation and growth of Saturn and the other giant planets. Through N-body simulations on a simple disc, we have explored the formation of these planets via pebble accretion. We conducted a statistical survey of different disc parameters and initial conditions of the protoplanetary disc to establish which combination best reproduces the present outer solar system. This talk will highlight key findings on the eccentricity and semi-major axis distribution of the giant planets and provide insights into their formation timelines."
         },
         {
             "title": "My Research Experience during a Master's Project",
