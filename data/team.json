@@ -82,6 +82,30 @@
             "dept": "SPS"
         },
         {
+            "name": "Bhuban Mohan Bebarta",
+            "batch": 2023,
+            "image": "Bhuban.jpg",
+            "role": "Induction Team Lead",
+            "email": "bhubanmohan.bebarta@niser.ac.in",
+            "dept": "SCS"
+        },
+        {
+            "name": "Sanchari Mukhopadhyay",
+            "batch": 2023,
+            "image": "Sanchari.jpg",
+            "role": "Documentation Team Lead",
+            "email": "sanchari.m@niser.ac.in",
+            "dept": "SCS"
+        },
+        {
+            "name": "Diya Ghosh",
+            "batch": 2023,
+            "image": "diya.jpeg",
+            "role": "Outreach Team Lead",
+            "email": "diya.ghosh@niser.ac.in",
+            "dept": "SCS"
+        },
+        {
             "name": "Samarth Mohan Nanjannavar",
             "batch": 2021,
             "image": "samarth.jpg",
