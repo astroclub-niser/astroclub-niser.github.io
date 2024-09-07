@@ -72,7 +72,6 @@
         }
     ],
     "present": [
-        
         {
             "name": "Hrishikesh Malladi",
             "batch": 2021,
@@ -80,6 +79,16 @@
             "role": "Club Representative",
             "email": "hrishikesh.malladi@niser.ac.in",
             "dept": "SPS"
+        },
+        {
+            "name": "Asmi Nandy",
+            "batch": 2022,
+            "image": "asmi.jpg",
+            "role": "Club Representative",
+            "email": "asmi.nandy@niser.ac.in",
+            "insta": "asminandy2003",
+            "linkedin": "asminandy",
+            "dept": "SCS"
         },
         {
             "name": "Bhuban Mohan Bebarta",
@@ -122,16 +131,6 @@
             "email": "arnab.biswas@niser.ac.in",
             "linkedin": "arnab-biswas-036a19296",
             "dept": "SPS"
-        },
-        {
-            "name": "Asmi Nandy",
-            "batch": 2022,
-            "image": "asmi.jpg",
-            "role": "Club Representative",
-            "email": "asmi.nandy@niser.ac.in",
-            "insta": "asminandy2003",
-            "linkedin": "asminandy",
-            "dept": "SCS"
         },
         {
             "name": "Gayatri",

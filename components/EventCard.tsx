@@ -14,7 +14,7 @@ export interface EventProps {
 function ReadMore({ link }: { link: string }) {
     if (link) {
         return (
-            <Link href={link}><button className="btn">Register Now</button></Link>
+            <Link href={link}><button className="btn">More Details</button></Link>
         )
     }
 }
