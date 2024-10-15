@@ -39,7 +39,15 @@
             "poster": "10-08-24.jpg",
             "youtubeID": "",
             "abstract": "This is a story that started as a casual tea table conversation in December 2023 and led to an oppurtunity to do some interesting observations using the latest upgraded GMRT radio telescope couple of weeks ago. This is a state of the art facility, comprising of 30 radio antennae, each 45 m in size spread over 25 kms at Khodad, Pune. I was at the facility for a few days and in this talk, I will discuss how exactly it all went about. The proposals, technical details, actual observations and the future of this project. This, I believe is just a step towards a bigger global project to build a \"Faraday Telescope\"."
-            
+        },
+        {
+            "title": "Formation of Giant Planets: Insights from Pebble Accretion",
+            "date": "September 06, 2024",
+            "speaker": "Anuja Raorone",
+            "speaker_desc": "Integrated M.Sc., IISER Pune",
+            "poster": "06-09-2024.jpeg",
+            "youtubeID": "",
+            "abstract": "The formation history of Jupiter has been of interest due to its ability to shape the solar system's history. Yet little attention has been paid to the formation and growth of Saturn and the other giant planets. Through N-body simulations on a simple disk, we have explored the formation of these planets via pebble accretion. We conducted a statistical survey of different disc parameters and initial conditions of the protoplanetary disc to establish which combination best reproduces the present outer solar system. This talk will highlight key findings on the eccentricity and semi-major axis distribution of the giant planets and provide insights into their formation timelines."
         },
         {
             "title": "Zooming in on Planetary birthplaces with ALMA",
@@ -161,7 +169,7 @@
             "speaker_desc": "Research Assistant, IMSc, Chennai (B18 Alumni)",
             "poster": "",
             "youtubeID": "EUgdumX9SyQ",
-            "abstract": "Binary stars, comprising more than 90% of the stars we see in our night sky, play a significant role in all kinds of astrophysical research. A peculiarly interesting category is x-ray binary, which happens to have compact stellar remnants, specifically a neutron star as one of their components. X-ray binaries act as space-based laboratories, allowing us to study the physics of accretion and the neutron star with good proximity observations. They also serve as progenitor systems to some exotic objects like millisecond pulsars and ultra-compact binaries releasing gravitational waves. For more than a year now, I've been working on modelling a class of such X-ray binaries using tools like MESA(Modules of Experiments in Stellar Astrophysics), the state-of-the-art Fortran-based 1D stellar simulation package. In the talk, I plan to start with a discussion about different classes of X-ray binaries and their wide applicability in astrophysics in the first part. Secondly, I’ll present a small overview of my thesis work and the significance of such theoretical studies. I’ll conclude the talk by talking about MESA, why it is important for anyone interested in working in astrophysics and how to use it as a beginner."
+            "abstract": "Binary stars, comprising more than 90% of the stars we see in our night sky, play a significant role in all kinds of astrophysical research. A peculiarly interesting category is x-ray binary, which happens to have compact stellar remnants, specifically a neutron star as one of their components. X-ray binaries act as space-based laboratories, allowing us to study the physics of accretion and the neutron star with good proximity observations. They also serve as progenitor systems to some exotic objects like millisecond pulsars and ultra-compact binaries releasing gravitational waves. For more than a year now, I've been working on modelling a class of such X-ray binaries using tools like MESA(Modules of Experiments in Stellar Astrophysics), the state-of-the-art Fortran-based 1D stellar simulation package. In the talk, I plan to start with a discussion about different classes of X-ray binaries and their wide applicability in astrophysics in the first part. Secondly, I'll present a small overview of my thesis work and the significance of such theoretical studies. I'll conclude the talk by talking about MESA, why it is important for anyone interested in working in astrophysics and how to use it as a beginner."
         },
         {
             "title": "Magnetic Field of Stars ",
@@ -458,7 +466,7 @@
             "speaker_desc": "Int. M.Sc., SBS, NISER",
             "poster": "",
             "link": "",
-            "abstract": "Life on other planets has always been a fascinating endeavour for humans. But it doesn’t necessarily mean extraterrestrial life or as we fondly call them, aliens. It also means exploring the possibility of settling human life on other planets. Our best possible candidate for this is Mars. This planet has been well explored, with respect to other planets and will be at the focus of several missions in the future as well. I will explain the current understanding of the situation of establishing life there, as well as future possibilities. Hopefully, it won’t break marriages of the Indians who settle there ;-)."
+            "abstract": "Life on other planets has always been a fascinating endeavour for humans. But it doesn't necessarily mean extraterrestrial life or as we fondly call them, aliens. It also means exploring the possibility of settling human life on other planets. Our best possible candidate for this is Mars. This planet has been well explored, with respect to other planets and will be at the focus of several missions in the future as well. I will explain the current understanding of the situation of establishing life there, as well as future possibilities. Hopefully, it won't break marriages of the Indians who settle there ;-)."
         },
         {
             "title": "Climbing the ladder of cosmos",
@@ -476,7 +484,7 @@
             "speaker_desc": "Int. M.Sc. B15 & B18 SPS, NISER",
             "poster": "",
             "link": "",
-            "abstract": "In an extension to the last week’s NAC series talk, this time we will learn how to analyze the data collected from the telescopes. For this, we will use Virtual Educational Observatory (VIREO) which is a simulated observatory and can access a huge database of astronomical information, both through a set of dedicated catalogues and via online databases. It also simulates a very large and diverse sample of the observable astronomical sky, as seen with optical and radio telescopes, and thus can be used to carry out a wide variety of realistic observing projects. We will start by discussing Kepler's Laws and see how we can use them to predict the mass of the Jupiter, by observing its moons. I’ll then present the basics of pulsar observation and explain the signal extraction technique from simulated noisy data."
+            "abstract": "In an extension to the last week's NAC series talk, this time we will learn how to analyze the data collected from the telescopes. For this, we will use Virtual Educational Observatory (VIREO) which is a simulated observatory and can access a huge database of astronomical information, both through a set of dedicated catalogues and via online databases. It also simulates a very large and diverse sample of the observable astronomical sky, as seen with optical and radio telescopes, and thus can be used to carry out a wide variety of realistic observing projects. We will start by discussing Kepler's Laws and see how we can use them to predict the mass of the Jupiter, by observing its moons. I'll then present the basics of pulsar observation and explain the signal extraction technique from simulated noisy data."
         }
     ],
     "year18": [
