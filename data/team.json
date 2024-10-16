@@ -72,23 +72,14 @@
         }
     ],
     "present": [
+        
         {
             "name": "Hrishikesh Malladi",
             "batch": 2021,
-            "image": "user.jpg",
+            "image": "hrishikesh.jpg",
             "role": "Club Representative",
             "email": "hrishikesh.malladi@niser.ac.in",
             "dept": "SPS"
-        },
-        {
-            "name": "Asmi Nandy",
-            "batch": 2022,
-            "image": "asmi.jpg",
-            "role": "Club Representative",
-            "email": "asmi.nandy@niser.ac.in",
-            "insta": "asminandy2003",
-            "linkedin": "asminandy",
-            "dept": "SCS"
         },
         {
             "name": "Bhuban Mohan Bebarta",
@@ -133,6 +124,16 @@
             "dept": "SPS"
         },
         {
+            "name": "Asmi Nandy",
+            "batch": 2022,
+            "image": "asmi.jpg",
+            "role": "Club Representative",
+            "email": "asmi.nandy@niser.ac.in",
+            "insta": "asminandy2003",
+            "linkedin": "asminandy",
+            "dept": "SCS"
+        },
+        {
             "name": "Gayatri",
             "batch": 2022,
             "image": "gayatri.jpg",
@@ -164,17 +165,6 @@
             "dept": "SPS"
         },
         {
-            "name": "Shiva Thanay Pandiri",
-            "batch": 2022,
-            "image": "shiva.jpg",
-            "role": "Sessions Team Co-Head",
-            "caption": "",
-            "email": "shivathanay.pandiri@niser.ac.in",
-            "insta": "",
-            "linkedin": "shiva-thanay-pandiri",
-            "dept": "SPS"
-        },
-        {
             "name": "SriUma Maheshwari V",
             "batch": 2022,
             "image": "uma.jpg",
@@ -200,7 +190,7 @@
             "name": "Vishal Meena",
             "batch": 2022,
             "image": "vishal.jpg",
-            "role": "Astrophotography Team Head & Sessions Team Co-Head",
+            "role": "Astrophotography and Sessions Team Lead",
             "caption": "",
             "email": "vishal.meena@niser.ac.in",
             "insta": "vishal._.meena0",
