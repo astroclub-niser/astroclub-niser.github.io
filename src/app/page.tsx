@@ -17,15 +17,22 @@ export default async function Home() {
 
   const eventsFile = await fs.readFile(process.cwd() + '/data/events.json', 'utf8');
   const eventsData = JSON.parse(eventsFile)
-  const newEvents = eventsData[Object.keys(eventsData)[0]]
+  const newEventsData = eventsData[Object.keys(eventsData)[0]]
+
+  let upcomingEvents = ''
+  if (Object.keys(newEventsData).length === 0) {
+    upcomingEvents = 'There are no new events scheduled for now. Come back later!'
+  } else {
+    upcomingEvents = newEventsData.map(({ key, eventName, eventDate, shortDesc, images, blogEntry }: EventProps) => (
+      <EventCard key={key} eventDate={eventDate} eventName={eventName} shortDesc={shortDesc} images={images} blogEntry={blogEntry}/>
+    ))
+  }
 
   return (
     <main>
 
       <div id="hero" className='section-home'>
-        {/* <Image src={'/bg.jpg'} alt='hero' width={1920} height={1080}></Image> */}
         <h1>NISER<br/>Astronomy<br/>Club</h1>
-        {/* <h4>Website Under Construction!</h4> */}
         <p>Andromeda Galaxy<br/>Credit: Adesh Thawale</p>
       </div>
 
@@ -35,13 +42,16 @@ export default async function Home() {
         <p>Explore the page and get the latest updates of astronomical events at NISER (such as mega-events, talks, observation sessions, astrophotography tutorials, etc.) that happened in the past and will commence in the future.</p>
       </div>
 
+      
       <div id="whats-new" className='section-home'>
         <h2>What&apos;s New</h2>
         <div className="whats-new-grid">
+
+          {upcomingEvents}
           
-          {newEvents.map(({ key, eventName, eventDate, shortDesc, images, blogEntry }: EventProps) => (
+          {/* {newEvents.map(({ key, eventName, eventDate, shortDesc, images, blogEntry }: EventProps) => (
             <EventCard key={key} eventDate={eventDate} eventName={eventName} shortDesc={shortDesc} images={images} blogEntry={blogEntry}/>
-          ))}
+          ))} */}
 
         </div>
       </div>
