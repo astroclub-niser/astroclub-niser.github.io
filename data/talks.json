@@ -22,6 +22,37 @@
     ],
     "year24": [
         {
+<<<<<<< HEAD
+=======
+            "title": "Introduction to Solar Astrophysics",
+            "date": "September 21, 2024",
+            "speaker": "SriUma M Vittal",
+            "speaker_desc": "PhD Scholar (SEPS), NISER",
+            "poster": "10-08-24 - Uma.jpg",
+            "youtubeID": "",
+            "abstract": "Solar Astrophysics is a major discipline in Astronomy, where a lot of foundational physics concepts are applied to solve problems, and understand the star that makes our existence possible. This talk will attempt to introduce the flavour of the field, by giving a brief look at the Sun, how it is studied, and the kind of problems and active areas currently being worked on."
+            
+        },
+        {
+            "title": "Huge Radio Telescopes and Where to Find Them",
+            "date": "September 21, 2024",
+            "speaker": "Vasanth Kashyap",
+            "speaker_desc": "Int. MSc. (Batch 19), SPS, NISER",
+            "poster": "10-08-24.jpg",
+            "youtubeID": "",
+            "abstract": "This is a story that started as a casual tea table conversation in December 2023 and led to an oppurtunity to do some interesting observations using the latest upgraded GMRT radio telescope couple of weeks ago. This is a state of the art facility, comprising of 30 radio antennae, each 45 m in size spread over 25 kms at Khodad, Pune. I was at the facility for a few days and in this talk, I will discuss how exactly it all went about. The proposals, technical details, actual observations and the future of this project. This, I believe is just a step towards a bigger global project to build a \"Faraday Telescope\"."
+        },
+        {
+            "title": "Formation of Giant Planets: Insights from Pebble Accretion",
+            "date": "September 06, 2024",
+            "speaker": "Anuja Raorone",
+            "speaker_desc": "Integrated M.Sc., IISER Pune",
+            "poster": "06-09-2024.jpeg",
+            "youtubeID": "",
+            "abstract": "The formation history of Jupiter has been of interest due to its ability to shape the solar system's history. Yet little attention has been paid to the formation and growth of Saturn and the other giant planets. Through N-body simulations on a simple disk, we have explored the formation of these planets via pebble accretion. We conducted a statistical survey of different disc parameters and initial conditions of the protoplanetary disc to establish which combination best reproduces the present outer solar system. This talk will highlight key findings on the eccentricity and semi-major axis distribution of the giant planets and provide insights into their formation timelines."
+        },
+        {
+>>>>>>> ac61881cd7eaf80fc859a9d45c23226c5230ad83
             "title": "Zooming in on Planetary birthplaces with ALMA",
             "date": "August 10, 2024",
             "speaker": "Parashmoni Kashyap",
