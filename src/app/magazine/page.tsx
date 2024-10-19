@@ -20,10 +20,10 @@ const Kshitij = () => {
           </a><p className="magazine-issue">Issue 05</p>
           <p className="magazine-release">August 2024</p>
           <p className="magazine-desc"></p>
-          <div className="new-sticker">
+          {/* <div className="new-sticker">
             <span className="sticker"></span>
             <span className="new">NEW!</span>
-          </div>
+          </div> */}
         </div>
         <div className="magazine">
           <a target="_blank" href="https://drive.google.com/file/d/1kaqLiAXlc42GCPFabkorGOYLHxq18ROZ/view">
