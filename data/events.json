@@ -11,6 +11,7 @@
         }       
     ],
     "year24": [
+        
         {
             "eventName": "Unveiling KALPANA: NAC's very own Observatory",
             "eventDate": "August 22, 2024",
@@ -20,6 +21,15 @@
                 "2024/kalpana.jpg"
             ]
         },
+        {
+            "eventName": "Umang '24",
+            "eventDate": "September 13-15th, 2023",
+            "shortDesc": "As part of NISER's intra-college fest Umang, NAC has hosted two events - 'Stellar Shorts' and 'Conspire Con'. Conspire Con was an entertaining success with many theories made up by students were brought forward and ",
+            "blogEntry": "https://sites.google.com/niser.ac.in/gymkhana/events",
+            "images": [
+                "2023/tvisha-3.jpg"
+            ]
+        },      
         {
             "eventName": "StarStrider: The Astro Treasure Hunt",
             "eventDate": "August 23rd to 25th, 2024",
