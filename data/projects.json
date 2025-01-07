@@ -11,12 +11,6 @@
             "description": "This was a semester-long experimental project aiming to design and build a dedicated spectrometer for NAC's own 11-inch CPC Deluxe 1100 HD telescope by using a diffraction grating and a planetary CMOS sensor.",
             "image": "/spec.jpg",
             "link": "/projects/spectroscopy"
-        },
-        {
-            "name": "Stellar Photometry of a Variable Star",
-            "description": "(Ongoing Project) Using a CMOS sensor, we plan to perform photometry on a variable star system and measure its luminosity. The process includes calibrating our CMOS sensor and then measuring the star's brightness relative to fixed nearby objects in the night sky.",
-            "image": "/photometry.jpg",
-            "link": ""
         }
     ]
 }
