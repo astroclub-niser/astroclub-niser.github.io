@@ -1,16 +1,17 @@
 {
     "upcoming": [
-        {
-            "eventName": "Umang '24",
-            "eventDate": "September 13-15th, 2023",
-            "shortDesc": "As part of NISER's intra-college fest Umang, NAC will be hosting two events - 'Stellar Shorts' and 'Conspire Con'. More details and rules are shared on the official Umang page.",
-            "blogEntry": "https://sites.google.com/niser.ac.in/gymkhana/events",
-            "images": [
-                "2023/tvisha-3.jpg"
-            ]
-        }       
+        
     ],
     "year24": [
+        {
+            "eventName": "A \"Highly Commended\" honor received in Astronomad's APERTURE: Indian Astrophotography Competition",
+            "eventDate": "December 22, 2024",
+            "shortDesc": "A huge thank you to astronomadsbangla for this incredible opportunity. Our image of Jupiter (p.c.:Vishal Meena and NAC) was exhibited at the \"Lights of Cosmos\" exhibition at the M.P. Birla Plantetarium, Kolkata. It was also featured in the prestigious IAPY 2024 Yearbook, published online on December 22nd 2024.",
+            "blogEntry": "",
+            "images": [
+                "events-min.jpeg"
+            ]
+        },
         
         {
             "eventName": "Unveiling KALPANA: NAC's very own Observatory",
