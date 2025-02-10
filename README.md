@@ -19,3 +19,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 * Go to the `data/` folder and update the corresponding `.json` files to add/update events, astrophotographs or talks.
 * All club photos are arranged year-wise in the folder in the `public/photos/<year>` directory.
 * To add a new post corresponding to an event or project, add the markdown file to the `_posts/` directory; the filename will be the page URL. Add the file name to the corresponding field in the `projects.json` or `events.json` file.
+
+## Maintenance
+
+* Update Next.js version artifacts in `.github/workflows` regularly.
