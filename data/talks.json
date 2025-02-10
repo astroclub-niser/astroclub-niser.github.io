@@ -21,15 +21,33 @@
         }
     ],
     "year24": [
+        
         {
-            "title": "Introduction to Solar Astrophysics",
-            "date": "September 21, 2024",
-            "speaker": "SriUma M Vittal",
-            "speaker_desc": "PhD Scholar (SEPS), NISER",
-            "poster": "21-09-24 - Uma.jpg",
+            "title": "Galaxy Evolution and Bar Formation",
+            "date": "October 26, 2024",
+            "speaker": "Pratik Chandra Nath",
+            "speaker_desc": "Int. MSc. (Batch 22), SPS, NISER",
+            "poster": "26-10-24.png",
             "youtubeID": "",
-            "abstract": "Solar Astrophysics is a major discipline in Astronomy, where a lot of foundational physics concepts are applied to solve problems, and understand the star that makes our existence possible. This talk will attempt to introduce the flavour of the field, by giving a brief look at the Sun, how it is studied, and the kind of problems and active areas currently being worked on."
-            
+            "abstract": "A significant fraction of galaxies exhibit bars, which play a crucial role in their evolution. This talk will focus on the formation and evolution of galaxies and bars, the bar fraction, and its variation with redshift. Additionally, I will discuss how Convolutional Neural Networks (CNNs) can aid in identifying barred galaxies, aiding in our understanding of galactic structure and morphology."
+        },
+        {
+            "title": "Photometry in Astronomy",
+            "date": "October 26, 2024",
+            "speaker": "Arnab Biswas",
+            "speaker_desc": "Int. MSc. (Batch 22), SPS, NISER",
+            "poster": "26-10-24.png",
+            "youtubeID": "",
+            "abstract": "Photometry is one of the most used and essential tools in astronomy. The sparkling tiny dots we see in the night sky tell us a cryptic story of almost everything happening in the universe. Photometry lets us decode these hints just by knowing how bright a dot is. In this talk, I will introduce the principles and different methods of photometry and discuss their applications."
+        },
+        {
+            "title": "An Introduction to X-Ray Astronomy",
+            "date": "October 19, 2024",
+            "speaker": "Shishir H",
+            "speaker_desc": "Int. MSc. (Batch 21), SPS, NISER",
+            "poster": "19-10-24.jpg",
+            "youtubeID": "",
+            "abstract": "X-ray astronomy has seen significant advancements spanning over many decades and remains a dynamic field of study even today. In this talk, we will explore the history of X-ray astronomy, examining how early discoveries paved the way for modern research. We will also discuss the broad classifications of X-ray sources in the universe, highlighting their importance in probing the fascinating physics of celestial objects such as binary systems and pulsars, to name a few. In the second part of the talk, we will delve into time series analysis—an essential tool not only in X-ray astronomy but across many other fields. Using examples from X-ray sources, we will explore how time series analysis enables us to understand and differentiate between the properties of different sources."
         },
         {
             "title": "Huge Radio Telescopes and Where to Find Them",
@@ -39,6 +57,15 @@
             "poster": "21-09-24_Vasant.jpg",
             "youtubeID": "",
             "abstract": "This is a story that started as a casual tea table conversation in December 2023 and led to an oppurtunity to do some interesting observations using the latest upgraded GMRT radio telescope couple of weeks ago. This is a state of the art facility, comprising of 30 radio antennae, each 45 m in size spread over 25 kms at Khodad, Pune. I was at the facility for a few days and in this talk, I will discuss how exactly it all went about. The proposals, technical details, actual observations and the future of this project. This, I believe is just a step towards a bigger global project to build a \"Faraday Telescope\"."
+        },
+        {
+            "title": "Introduction to Solar Astrophysics",
+            "date": "September 21, 2024",
+            "speaker": "SriUma Maheshwari Vittal",
+            "speaker_desc": "Int. MSc. (Batch 23), SPS, NISER",
+            "poster": "21-09-24 - Uma.jpg",
+            "youtubeID": "",
+            "abstract": "Solar Astrophysics is a major discipline in Astronomy, where a lot of foundational physics concepts are applied to solve problems, and understand the star that makes our existence possible. This talk will attempt to introduce the flavour of the field, by giving a brief look at the Sun, how it is studied, and the kind of problems and active areas currently being worked on."
         },
         {
             "title": "Formation of Giant Planets: Insights from Pebble Accretion",
