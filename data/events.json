@@ -9,10 +9,18 @@
             "shortDesc": "A huge thank you to astronomadsbangla for this incredible opportunity. Our image of Jupiter (p.c.:Vishal Meena and NAC) was exhibited at the \"Lights of Cosmos\" exhibition at the M.P. Birla Plantetarium, Kolkata. It was also featured in the prestigious IAPY 2024 Yearbook, published online on December 22nd 2024.",
             "blogEntry": "",
             "images": [
-                "astrocomp.jpeg"
+                "2024/astrocomp.jpeg"
             ]
         },
-        
+        {
+            "eventName": "Umang '24",
+            "eventDate": "September 13-15th, 2024",
+            "shortDesc": "As part of NISER's intra-college fest Umang, NAC has hosted two events - 'Stellar Shorts' and 'Conspire Con'. Conspire Con was an entertaining success with many theories made up by students were brought forward and Stellar Shots brought out the creativity within students which allowed the spread of knowledge.",
+            "blogEntry": "https://sites.google.com/niser.ac.in/gymkhana/events",
+            "images": [
+                "2024/conspirecon-umang.jpeg"
+            ]
+        },      
         {
             "eventName": "Unveiling KALPANA: NAC's very own Observatory",
             "eventDate": "August 22, 2024",
@@ -22,15 +30,6 @@
                 "2024/kalpana.jpg"
             ]
         },
-        {
-            "eventName": "Umang '24",
-            "eventDate": "September 13-15th, 2023",
-            "shortDesc": "As part of NISER's intra-college fest Umang, NAC has hosted two events - 'Stellar Shorts' and 'Conspire Con'. Conspire Con was an entertaining success with many theories made up by students were brought forward and Stellar Shots brought out the creativity within students which allowed the spread of knowledge.",
-            "blogEntry": "https://sites.google.com/niser.ac.in/gymkhana/events",
-            "images": [
-                "conspirecon-umang.jpeg"
-            ]
-        },      
         {
             "eventName": "StarStrider: The Astro Treasure Hunt",
             "eventDate": "August 23rd to 25th, 2024",
