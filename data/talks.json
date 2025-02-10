@@ -23,24 +23,6 @@
     "year24": [
         
         {
-            "title": "Galaxy Evolution and Bar Formation",
-            "date": "October 26, 2024",
-            "speaker": "Pratik Chandra Nath",
-            "speaker_desc": "Int. MSc. (Batch 22), SPS, NISER",
-            "poster": "26-10-24.png",
-            "youtubeID": "",
-            "abstract": "A significant fraction of galaxies exhibit bars, which play a crucial role in their evolution. This talk will focus on the formation and evolution of galaxies and bars, the bar fraction, and its variation with redshift. Additionally, I will discuss how Convolutional Neural Networks (CNNs) can aid in identifying barred galaxies, aiding in our understanding of galactic structure and morphology."
-        },
-        {
-            "title": "Photometry in Astronomy",
-            "date": "October 26, 2024",
-            "speaker": "Arnab Biswas",
-            "speaker_desc": "Int. MSc. (Batch 22), SPS, NISER",
-            "poster": "26-10-24.png",
-            "youtubeID": "",
-            "abstract": "Photometry is one of the most used and essential tools in astronomy. The sparkling tiny dots we see in the night sky tell us a cryptic story of almost everything happening in the universe. Photometry lets us decode these hints just by knowing how bright a dot is. In this talk, I will introduce the principles and different methods of photometry and discuss their applications."
-        },
-        {
             "title": "An Introduction to X-Ray Astronomy",
             "date": "October 19, 2024",
             "speaker": "Shishir H",
