@@ -21,7 +21,24 @@
         }
     ],
     "year24": [
-        
+        {
+            "title": "Galaxy Evolution and Bar Formation",
+            "date": "October 26, 2024",
+            "speaker": "Pratik Chandra Nath",
+            "speaker_desc": "Int. MSc. (Batch 22), SPS, NISER",
+            "poster": "26-10-24.jpg",
+            "youtubeID": "",
+            "abstract": "A significant fraction of galaxies exhibit bars, which play a crucial role in their evolution. This talk will focus on the formation and evolution of galaxies and bars, the bar fraction, and its variation with redshift. Additionally, I will discuss how Convolutional Neural Networks (CNNs) can aid in identifying barred galaxies, aiding in our understanding of galactic structure and morphology."
+        },
+        {
+            "title": "Photometry in Astronomy",
+            "date": "October 26, 2024",
+            "speaker": "Arnab Biswas",
+            "speaker_desc": "Int. MSc. (Batch 22), SPS, NISER",
+            "poster": "26-10-24.jpg",
+            "youtubeID": "",
+            "abstract": "Photometry is one of the most used and essential tools in astronomy. The sparkling tiny dots we see in the night sky tell us a cryptic story of almost everything happening in the universe. Photometry lets us decode these hints just by knowing how bright a dot is. In this talk, I will introduce the principles and different methods of photometry and discuss their applications."
+        },
         {
             "title": "An Introduction to X-Ray Astronomy",
             "date": "October 19, 2024",
@@ -53,7 +70,7 @@
             "title": "Formation of Giant Planets: Insights from Pebble Accretion",
             "date": "September 06, 2024",
             "speaker": "Anuja Raorone",
-            "speaker_desc": "Integrated M.Sc., IISER Pune",
+            "speaker_desc": "Int. M.Sc., IISER Pune",
             "poster": "06-09-24.jpeg",
             "youtubeID": "",
             "abstract": "The formation history of Jupiter has been of interest due to its ability to shape the solar system's history. Yet little attention has been paid to the formation and growth of Saturn and the other giant planets. Through N-body simulations on a simple disk, we have explored the formation of these planets via pebble accretion. We conducted a statistical survey of different disc parameters and initial conditions of the protoplanetary disc to establish which combination best reproduces the present outer solar system. This talk will highlight key findings on the eccentricity and semi-major axis distribution of the giant planets and provide insights into their formation timelines."
@@ -72,10 +89,10 @@
             "title": "Beyond the Visible: Exploring the Universe with Neutral Hydrogen",
             "date": "August 3, 2024",
             "speaker": "Tanya Tripty",
-            "speaker_desc": "Int. Msc. (Batch 23) (SPS), NISER",
+            "speaker_desc": "PhD student (SPS), NISER",
             "poster": "03-08-24.jpg",
             "youtubeID": "",
-            "abstract": "The formation history of Jupiter has been of interest due to its ability to shape the solar system's history. Yet little attention has been paid to the formation and growth of Saturn and the other giant planets. Through N-body simulations on a simple disc, we have explored the formation of these planets via pebble accretion. We conducted a statistical survey of different disc parameters and initial conditions of the protoplanetary disc to establish which combination best reproduces the present outer solar system. This talk will highlight key findings on the eccentricity and semi-major axis distribution of the giant planets and provide insights into their formation timelines."
+            "abstract": "Imagine a cosmic detective story where the most common element in the universe plays the starring role. This tale is about neutral hydrogen, the simplest atom in existence, consisting of just one proton and one electron. However, do not be deceived by its simplicity– neutral hydrogen holds the key to unlocking some of the universe's greatest mysteries. In this cosmic exploration, we'll first uncover the essence of neutral hydrogen and why astronomers are so excited about it. Finally, we'll put on our detective hats and learn how to decode the secret messages hidden in hydrogen's spectral fingerprint. This special light signature, emitted at a wavelength of 21 centimeters, tells us incredible stories about the motion, mass, and history of galaxies. By the end of our adventure, you'll understand why this invisible gas is so visible to astronomers and how it's helping us piece together the puzzle of our cosmic neighborhood."
         },
         {
             "title": "My Research Experience during a Master's Project",
