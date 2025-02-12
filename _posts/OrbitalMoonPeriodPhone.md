@@ -1,6 +1,6 @@
 ---
 title: "Determining the orbital periods of Jupiter's Galilean moons and verifying Kepler's 3rd law using a smartphone and the 6-inch telescope"
-date: 2024-02-01
+date: 31-12-2024
 author: "Aparajita Banerjee, Pratik K. (Int. Msc. B23)"
 ---
 
