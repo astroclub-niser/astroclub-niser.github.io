@@ -22,6 +22,15 @@
     ],
     "year24": [
         {
+            "title": "Eccentricity of Moon's orbit using a smartphone and the 6-inch telescope ",
+            "date": "February 09, 2025",
+            "speaker": "Subhajit Biswal, Aditya Raj,  Anshika Singhal, Swayamjit Kundu",
+            "speaker_desc": "Int. MSc. (Batch 23), SPS, NISER",
+            "poster": "09-02-25.png",
+            "youtubeID": "",
+            "abstract": "The Moon's orbit around Earth is not a perfect circle but an ellipse, with its eccentricity influencing observable parameters such as its apparent size. In this talk, we present our experiment, submitted to the IUCAA astronomy-themed experiments competition, where we determine the Moon's orbital eccentricity by analyzing variations in its apparent diameter over time. We'll delve into the physics behind orbital motion using the Lagrangian approach to the central force problem, deriving Kepler's three laws along the way. Additionally, we will discuss our methods for acquiring data and the real-world challenges that come with it. Finally, we will compare our findings with established values by fitting our data into two models."
+        },
+        {
             "title": "SED Fitting using CIGALE: Building a bridge between Photometry and Spectroscopy",
             "date": "February 01, 2025",
             "speaker": "Shiva Thanay Pandiri",
