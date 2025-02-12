@@ -1,8 +1,8 @@
 {
     "projects": [
         {
-            "name": "Eccentricity of the Moon's orbit using a smartphone and the 6-inch telescope",
-            "description": "Utilizing a smartphone and a 6-inch telescope, Subhajit, Swayamjit, Aditya, and Anshika (Batch 23) skillfully calculated the eccentricity of the Moon's orbit. The project was conceptualized and supported by Pratik and Rabi (Batch 22).",
+            "name": "Determining the orbital periods of Jupiter's Galilean moons and verifying Kepler's 3rd law using a smartphone and the 6-inch telescope",
+            "description": "Employing similar tools, Aparajita and Pratik K. (Batch 23) determined the orbital periods of Jupiter's Galilean moons and verified Kepler's Third Law. Their meticulous approach was enhanced by Dr. G. Santosh B's guidance on error analysis.",
             "image": "moon-composite.jpg",
             "link": "/projects/OrbitalMoonPeriodPhone"
         },
