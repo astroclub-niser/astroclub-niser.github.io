@@ -22,11 +22,47 @@
     ],
     "year24": [
         {
+            "title": "SED Fitting using CIGALE: Building a bridge between Photometry and Spectroscopy",
+            "date": "February 01, 2025",
+            "speaker": "Shiva Thanay Pandiri",
+            "speaker_desc": "Int. MSc. (Batch 22), SPS, NISER",
+            "poster": "01-02-25.png",
+            "youtubeID": "",
+            "abstract": "Ever tried to complete a photo puzzle only to find out some pieces are missing? Do you go out to buy a new puzzle? Or do you paint the rest of it yourself? In this talk, I will take you through how CIGALE helps you build a spectral energy distribution for a galaxy, provided you have the photometric data, step by step, from modeling the spectral contribution from all the stars to account for the redshift and explain all the words you didn't understand in the abstract up until now. See you there!"
+        },
+        {
+            "title": "Variable Stars: Chroniclers of the Night Sky",
+            "date": "January 25, 2025",
+            "speaker": "Sattvik Yadav",
+            "speaker_desc": "Int. MSc. (Batch 22), SPS, NISER",
+            "poster": "25-01-25.png",
+            "youtubeID": "",
+            "abstract": "Variable stars are the musicians of the night sky. My internship last year explored the eclipsing binary stars and tried to understand them theoretically and model them numerically. I will introduce the domain of stars, with a special emphasis on the variable stars. I will review the types of variable stars, focusing on the two types of systems I covered in my internship and how they are helpful in astronomy. I will also cover the techniques and methods of data processing, including the Lomb-Scargle Periodogram, with a brief introduction to the PHOEBE library used for modeling eclipsing binary stars."
+        },
+        {
+            "title": "AI Meets Astronomy",
+            "date": "January 18, 2025",
+            "speaker": "Sagar Prakash Barad",
+            "speaker_desc": "Int. MSc. (Batch 20), SPS, NISER",
+            "poster": "18-01-25.png",
+            "youtubeID": "",
+            "abstract": "The exponential growth of astronomical data necessitates the use of deep learning techniques to extract meaningful insights and address previously intractable problems. Artificial intelligence (AI), particularly neural networks, has become an essential companion in this data-driven era of astronomy. From classifying celestial objects to detecting exoplanets and estimating photometric redshifts, AI has demonstrated its versatility and transformative impact on the field. In this talk, we will trace the evolution of connectionism in astronomy through its three waves: the early use of multilayer perceptrons, the rise of convolutional and recurrent neural networks, and the current era of unsupervised and generative deep learning methods. Looking ahead to the anticipated fourth wave of astronomical connectionism, we advocate for the adoption of GPT-like foundation models fine-tuned for astronomical applications. These models have the potential to harness the wealth of high-quality, multimodal astronomical data, enabling state-of-the-art downstream tasks. By the end of this talk, I hope to provide you with a comprehensive understanding of the evolving partnership between artificial intelligence and the exploration of our universe, as we navigate the path toward future discoveries."
+        },
+        {
+            "title": "Beyond Sight: Discovering Radio Astronomy",
+            "date": "November 02, 2024",
+            "speaker": "Srusti Sampanna",
+            "speaker_desc": "Int. MSc. (Batch 22), SPS, NISER",
+            "poster": "02-11-24.png",
+            "youtubeID": "",
+            "abstract": "Have you ever wondered what lies hidden beyond our sight? What if I told you that the most intriguing stories of the universe are whispered in waves we can't see? Join us as we delve into the captivating field of Radio Astronomy to access the universe's best-kept secrets. This talk is part of the Introductory series, specifically aiming for first-year students to provide a comprehensive overview of the field. This talk will cover the fundamental concepts of radio astronomy, their significance in astronomical research, powerful tools such as radio telescopes, understanding how astronomers extract and decode the information from radio data along with highlighting some of the groundbreaking discoveries that have shaped our understanding of the universe, such as Cosmic Microwave Background Radiation (CMBR)."
+        },
+        {
             "title": "Galaxy Evolution and Bar Formation",
             "date": "October 26, 2024",
             "speaker": "Pratik Chandra Nath",
             "speaker_desc": "Int. MSc. (Batch 22), SPS, NISER",
-            "poster": "26-10-24.jpg",
+            "poster": "26-10-24.png",
             "youtubeID": "",
             "abstract": "A significant fraction of galaxies exhibit bars, which play a crucial role in their evolution. This talk will focus on the formation and evolution of galaxies and bars, the bar fraction, and its variation with redshift. Additionally, I will discuss how Convolutional Neural Networks (CNNs) can aid in identifying barred galaxies, aiding in our understanding of galactic structure and morphology."
         },
@@ -35,7 +71,7 @@
             "date": "October 26, 2024",
             "speaker": "Arnab Biswas",
             "speaker_desc": "Int. MSc. (Batch 22), SPS, NISER",
-            "poster": "26-10-24.jpg",
+            "poster": "26-10-24.png",
             "youtubeID": "",
             "abstract": "Photometry is one of the most used and essential tools in astronomy. The sparkling tiny dots we see in the night sky tell us a cryptic story of almost everything happening in the universe. Photometry lets us decode these hints just by knowing how bright a dot is. In this talk, I will introduce the principles and different methods of photometry and discuss their applications."
         },
