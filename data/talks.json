@@ -310,8 +310,8 @@
         {
             "title": "Determination of Solar offset using Cepheids",
             "date": "November 5th, 2022",
-            "speaker": "Swaroop R Averesekar",
-            "speaker_desc": "Int. M.Sc. B19 SPS, NISER",
+            "speaker": "Swaroop R Avarsekar",
+            "speaker_desc": "Int. M.Sc. B20 SPS, NISER",
             "poster": "5-11-22.jpg",
             "link": "",
             "abstract": "The sun's galactocentric radius (RGC) is previously calculated and known. It has also been established that our sun is not located precisely on the galactic plane but is slightly displaced. Previous estimates have calculated this solar offset (z) using sources such as OB stars, young open clusters (YOCs), pulsars, Etc. The right ascension and declination of Cepheids, obtained from The Optical Gravitational Lensing Experiment (OGLE) catalog cross-matched with the GAIA mission's - DR3, provides a way to calculate the z. This talk will give a quick tour into Cepheids, the data, and visualize the sun's coordinates in the milky way galaxy."
