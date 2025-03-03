@@ -1,7 +1,16 @@
 {
     "gallery": [
+        { "image": "2025/dr.rani interaction.jpg",
+        "date": "",
+        "description": "Dr. Namrata Rani's visit"
+        },
         {
-            "image": "2025/calendar merch",
+            "image": "2025/dr.rani group.jpg",
+            "date": "",
+            "description": "Dr. Namrata Rani and Club!"
+        },
+        {
+            "image": "2025/calendar merch.jpeg",
             "date": "",
             "description": "NAC Club personalized calendars!"
         },
