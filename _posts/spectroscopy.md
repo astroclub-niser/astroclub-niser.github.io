@@ -10,7 +10,7 @@ Niti Singh and Abhinav Roy worked on a semester-long experimental project aiming
 
 The final report including the findings and analysis are given here - 
 - [Report by Niti](https://file.notion.so/f/f/f37d1c7d-86b7-4f1d-a8f1-223cd778a26e/b7e73f10-4a1f-4a6e-8411-80fd08bf2ebb/Stellar_spectroscopy_final_Niti.pdf?id=1757d19c-f270-4adf-84a0-4f5435cba481&table=block&spaceId=f37d1c7d-86b7-4f1d-a8f1-223cd778a26e&expirationTimestamp=1707393600000&signature=5aXg_1xNW1huqHQcTO-m85M96OGeo_9l9oGgWsnSEZg&downloadName=Stellar_spectroscopy_final_Niti.pdf).
-- [Report by Abhinav](https://file.notion.so/f/f/f37d1c7d-86b7-4f1d-a8f1-223cd778a26e/bc43b50f-dfbb-4ebf-8d45-da95a13c4759/2011003_OpenLab_Endsem_Report_Fall_2023_24.pdf?id=ad3ae6a0-f5c2-4053-812c-acc08acf333a&table=block&spaceId=f37d1c7d-86b7-4f1d-a8f1-223cd778a26e&expirationTimestamp=1707393600000&signature=oHMqo7mufs-5_InzDv9bQmqsefu-Pt9t7j82DiANcyw&downloadName=2011003_OpenLab_Endsem_Report_Fall_2023_24.pdf)
+- [Report by Abhinav]( https://sites.google.com/view/abhinav-roy/academic/stellar-spectroscopy-fall-2023)
 
 
-For more information, [click here](https://phyopenlab.notion.site/P441-STELLAR-SPECTROSCOPY-0b46a996129744848ffd2a7f79b804bc).
+For more information, [click here](https://abhinavroy.notion.site/P441-STELLAR-SPECTROSCOPY-0b46a996129744848ffd2a7f79b804bc).
