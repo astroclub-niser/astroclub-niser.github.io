@@ -1,6 +1,36 @@
 {
     "gallery": [
-                {
+        {
+            "image": "2025/calendar merch",
+            "date": "",
+            "description": "NAC Club personalized calendars!"
+        },
+        {
+            "image": "2024/p.ewine letter.heic",
+            "date": "",
+            "description": "Prof. Ewine's Letter to the Club"
+        },
+        {
+            "image": "2024/p.ewine talk.heic",
+            "date": "",
+            "description": "Prof. Ewine's talk"
+        },
+        {
+            "image": "2024/p.ewine signing.heic",
+            "date": "",
+            "description": "Prof. Ewine's Letter to the Club"
+        },
+        {
+            "image": "2024/p.ewine interaction.heic",
+            "date": "",
+            "description": "Prof. Ewine's visit"
+        },
+        {
+            "image": "2024/p.ewine and club.heic",
+            "date": "",
+            "description": "Prof. Ewine's visit"
+        },
+        {
             "image": "2024/farewell3.jpg",
             "date": "",
             "description": "The batch '19 farewell"
