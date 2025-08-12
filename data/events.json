@@ -1,5 +1,12 @@
 {
     "upcoming": [
+        {
+            "eventName":"Astro Treasure Hunt",
+            "eventDate": "Coming Soon!",
+            "images": [
+                "2025/treasure hunt.png"
+            ]
+        }
         
     ],
     "year24": [
