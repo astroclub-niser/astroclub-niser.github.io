@@ -18,6 +18,18 @@
             "dept": "SPS"
         },
         {
+            "name": "Abhinav Roy",
+            "batch": 2020,
+            "image": "abhinav.JPG",
+            "role": "Former Club Representative",
+            "email": "abhinav.roy@niser.ac.in",
+            "dept": "SPS",
+            "caption": "Ad Astra, Per Aspera.",
+            "insta": "currently_planning_a_lot",
+            "linkedin": "",
+            "other": "https://sites.google.com/view/abhinav-roy/home"
+        },
+        {
             "name": "Srusti Sampanna",
             "batch": 2021,
             "image": "srusti.jpg",
@@ -93,7 +105,7 @@
         {
             "name": "Sattvik Yadav",
             "batch": 2022,
-            "image": "sattvik.jpg",
+            "image": "satvik.jpg",
             "role": "Club Representative",
             "caption": "",
             "email": "sattvik.yadav@niser.ac.in",
@@ -104,7 +116,7 @@
         {
             "name": "Asmi Nandy",
             "batch": 2022,
-            "image": "asmi.jpg",
+            "image": "asmi01.jpg",
             "role": "Magazine Chief Editor",
             "email": "asmi.nandy@niser.ac.in",
             "insta": "asminandy2003",
@@ -115,7 +127,7 @@
             "name": "Shiva Thanay Pandiri",
             "batch": 2022,
             "image": "shiva.jpg",
-            "role": "Experiments Team Lead & Sessions Team Co-head",
+            "role": "Experiments Team Co-Lead",
             "caption": "",
             "email": "shivathanay.pandiri@niser.ac.in",
             "insta": "",
@@ -126,7 +138,7 @@
             "name": "Vishal Meena",
             "batch": 2022,
             "image": "vishal.jpg",
-            "role": "Astrophotography Team Head & Sessions Team Co-Head",
+            "role": "Astrophotography Team Lead",
             "caption": "",
             "email": "vishal.meena@niser.ac.in",
             "insta": "vishal._.meena0",
@@ -134,6 +146,12 @@
             "other": "https://sites.google.com/view/vishal-meena/home",
             "dept": "SCS"
         },
+        {
+            "name": "Shiva Thanay Pandiri & Vishal Meena",
+            "batch": 2022,
+            "image": "siva.jpg",
+            "role": "Sessions Team Co-leads"
+        }
         {
             "name": "Arnab Biswas",
             "batch": 2022,
@@ -164,14 +182,32 @@
             "dept": "SPS"
         },
         {
+            "name": "Pratik Popat Kalel",
+            "batch": 2023,
+            "image": "pratik.jpg",
+            "role": "Experiments Team Co-Lead",
+            "email": "kalelpratik.p@niser.ac.in",
+            "insta": "pratik_kalel24",
+            "dept": "SBS"
+        }
+        {
+            "name": "Subhajit Biswal",
+            "batch": 2023,
+            "image": "subhajit.jpg",
+            "role": "Experiments Team Co-Lead",
+            "email": "subhajit.biswal@niser.ac.in",
+            "insta": "sub_h_ajit948",
+            "dept": "SPS"
+        }
+        {
             "name": "Ravita Meena",
             "batch": 2023,
             "image": "ravita.jpg",
             "role": "Talks Team Lead",
             "caption": "",
             "email": "ravita.meena@niser.ac.in",
-            "insta": "",
-            "linkedin": "",
+            "insta": "itsrv._.15",
+            "linkedin": "ravita-meena-31a7b4304",
             "dept": "SBS"
         },
         {
@@ -215,22 +251,12 @@
             "image": "shakshi.jpg",
             "role": "Events co-head",
             "email": "shakshi.sinha@niser.ac.in",
-            "insta": "mint_choco.06"
+            "insta": "mint_choco.06",
+            "dept": "SPS"
         }
     ],
     "alumni": [
-        {
-            "name": "Abhinav Roy",
-            "batch": 2020,
-            "image": "abhinav.JPG",
-            "role": "Former Club Representative",
-            "email": "abhinav.roy@niser.ac.in",
-            "dept": "SPS",
-            "caption": "Ad Astra, Per Aspera.",
-            "insta": "currently_planning_a_lot",
-            "linkedin": "",
-            "other": "https://sites.google.com/view/abhinav-roy/home"
-        },
+       
         {
             "name": "Abhipsa Mishra",
             "batch": 2018,

@@ -1,5 +1,70 @@
 {
     "gallery": [
+        {
+             "image": "2025/camera.jpg",
+            "date": "",
+            "description": "inspecting the camera"
+        }
+        {
+             "image": "2025/hair clips.jpg",
+            "date": "",
+            "description": "working with hairclips on!"
+        }
+        {
+            "image": "2025/intern.jpg",
+            "date": "",
+            "description": "Summer Interns"
+        }
+        {
+            "image": "2025/inters.jpg",
+            "date": "",
+            "description": "Interaction with interns"
+        }
+        {
+            "image": "2025/satadru.jpg",
+            "date": "",
+            "description": "Sir and members"
+        }
+        {
+            "image": "2025/satadru sir.jpg",
+            "date": "",
+            "description": "Satadru sir's interaction"
+        }
+        {
+            "image": "2025/scorpio.jpg",
+            "date": "",
+            "description": "sky at 3:00am!!"
+        }
+        {
+            "image": "2025/swagat sir.jpg",
+            "date": "",
+            "description": "Swagat Bhaiya's revist to NAC"
+        }
+        {
+             "image": "2025/astrochem.jpg",
+            "date": "",
+            "description": "Dr. Namarata Rani's talk"
+        }
+        {
+             "image": "2025/11'.jpg",
+            "date": "",
+            "description": "operating 11' telescope."
+        }
+        {
+             "image": "2025/8'.jpg",
+            "date": "",
+            "description": "the beauty of 8' telecope."
+        }
+        {
+             "image": "2024/kolkatta.jpg",
+            "date": "",
+            "description": "observation session with rural people"
+        }
+        {
+            "image": "2024/kolkata.jpg",
+            "date": "",
+            "description": "good sky, great pictures!!!"
+        }
         { "image": "2025/astronomadscomp2.jpg",
         "date": "",
         "description": "\"Highly Commended\" honour for NAC's photo for the AstroNomads competition at the M. P. Birla Planetarium"
@@ -25,11 +90,6 @@
             "image": "2025/calendar merch.jpeg",
             "date": "",
             "description": "NAC Club personalized calendars!"
-        },
-        {
-            "image": "2024/p.ewine letter.heic",
-            "date": "",
-            "description": "Prof. Ewine's Letter to the Club"
         },
         {
             "image": "2024/p.ewine talk.heic",
