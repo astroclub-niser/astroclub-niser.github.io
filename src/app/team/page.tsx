@@ -40,7 +40,7 @@ export default async function Team() {
       </div>
 
       <h2 className="team-heading">Advisory Committee</h2>
-      <h3 className="team-heading-year">2023-24</h3>
+      <h3 className="team-heading-year">2025-2026</h3>
 
       <div className="team-grid">
         {teamData.advisory.map(({ id, name, batch, image, role, email, insta, linkedin, other, dept }: TeamProps) => (
