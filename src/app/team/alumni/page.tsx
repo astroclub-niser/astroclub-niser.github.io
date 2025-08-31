@@ -26,7 +26,8 @@ export default async function Alumni() {
   const teamFile = await fs.readFile(process.cwd() + '/data/alumni.json', 'utf8');
   const teamData = JSON.parse(teamFile);
 
-  teamData.alumni.sort((x,y) => {
+  teamData.alumni.sort(({x,y}: {x:any, y:any}) => {
+    console.log(typeof(x))
     if (x.batch != y.batch) {
       return x.batch - y.batch
     }
