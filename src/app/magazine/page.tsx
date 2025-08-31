@@ -26,7 +26,7 @@ export default async function Kshitij() {
 
         {magazineData.magazines.map(({ id, link, coverPage, issue, releaseMonth, description }: MagazineProps) => (
 
-          <div className="magazine">
+          <div className="magazine" key={id}>
             <a target="_blank" href={link}>
               <Image src={coverPage} width={320} height={300} alt={issue}></Image>
             </a><p className="magazine-issue">{issue}</p>

@@ -92,7 +92,7 @@ export default async function Home() {
           {/* SHOW THE LAST 4 ISSUES, CHANGE THE SLICE VALUE TO DETERMINE WHAT GETS DISPLAYED */}
           {magazineData.magazines.slice(0,6).map(({ id, link, coverPage, issue, releaseMonth, description }: MagazineProps) => (
 
-            <figure>
+            <figure key={id}>
                 <a href={link} target="_blank">
                   <Image src={coverPage} alt={issue} width={200} height={460}></Image>
                   <figcaption>{issue}<br /><span>{releaseMonth}</span></figcaption>
