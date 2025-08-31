@@ -23,8 +23,15 @@ function OpenPopup({text}: {text: string}) {
 }
 
 export default async function Alumni() {
-  const teamFile = await fs.readFile(process.cwd() + '/data/team.json', 'utf8');
+  const teamFile = await fs.readFile(process.cwd() + '/data/alumni.json', 'utf8');
   const teamData = JSON.parse(teamFile);
+
+  teamData.alumni.sort((x,y) => {
+    if (x.batch != y.batch) {
+      return x.batch - y.batch
+    }
+    return  x.name.localeCompare(y.name);
+  });
 
   return (
     <main id="section-team">

@@ -16,7 +16,7 @@ export const metadata: Metadata = {
 }
 
 export default async function FICs() {
-  const teamFile = await fs.readFile(process.cwd() + '/data/team.json', 'utf8');
+  const teamFile = await fs.readFile(process.cwd() + '/data/FICs.json', 'utf8');
   const teamData = JSON.parse(teamFile);
   return (
     <main id="section-team">

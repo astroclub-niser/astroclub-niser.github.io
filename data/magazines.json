@@ -1,0 +1,39 @@
+{
+    "magazines": [
+        {
+            "link": "https://drive.google.com/file/d/1vsY3vub7Wr82K92rTX3kV69f9AOWQOT0/view",
+            "coverPage": "/kshitij/Kshitij_Aug_2024.jpg",
+            "issue": "Issue 05",
+            "releaseMonth": "August 2024",
+            "description": ""
+        },
+        {
+            "link": "https://drive.google.com/file/d/1kaqLiAXlc42GCPFabkorGOYLHxq18ROZ/view",
+            "coverPage": "/kshitij/Kshitij_Dec_2022.jpg",
+            "issue": "Issue 04",
+            "releaseMonth": "December 2022",
+            "description": ""
+        },
+        {
+            "link": "https://drive.google.com/file/d/1pJDicsQtoa6f2DPhuGtfYOPSWpvnxVjL/view",
+            "coverPage": "/kshitij/Kshitij_Dec_2021.jpg",
+            "issue": "Issue 03",
+            "releaseMonth": "December 2021",
+            "description": ""
+        },
+        {
+            "link": "https://drive.google.com/file/d/1vOArBZ7FtFoyd8oFQHsYkC7PtZcXjrtB/view",
+            "coverPage": "/kshitij/Kshitij_Dec_2020.jpg",
+            "issue": "Issue 02",
+            "releaseMonth": "December 2020",
+            "description": ""
+        },
+        {
+            "link": "https://drive.google.com/file/d/19Ff_veiKVzIaCTbjv5Oa9HI7U15wVaav/view",
+            "coverPage": "/kshitij/Kshitij_May_2020.jpg",
+            "issue": "Issue 01",
+            "releaseMonth": "May 2020",
+            "description": ""
+        }
+    ]
+}

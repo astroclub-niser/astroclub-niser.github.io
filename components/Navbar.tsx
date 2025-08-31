@@ -55,7 +55,7 @@ const Navbar = () => {
             <Link onClick={toggleNav} href="/talks#year22">2022</Link>
          </div> */}
         </li>
-        <li><Link onClick={toggleNav} href="/projects">Projects</Link></li>
+        <li><Link onClick={toggleNav} href="/projects">Experiments</Link></li>
         <li><Link onClick={toggleNav} href="/equipments">Equipment</Link></li>
         <li className="dropdown"><Link onClick={toggleNav} href="/team">Team <FontAwesomeIcon icon={faCaretDown} className="" style={{ backgroundColor: '#0000' }} /></Link>
           <div className="dropdown-content">

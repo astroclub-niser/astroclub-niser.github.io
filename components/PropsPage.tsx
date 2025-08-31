@@ -13,11 +13,35 @@ export interface FICProps {
 }
 
 export interface EventProps {
-    id:string, eventName:string, eventDate:string, shortDesc:string, images:string, blogEntry:string
+    id:string, eventName:string, eventDate:string, shortDesc:string, images:string, eventLink:string
 }
 
 export interface TalkItemProps {
     id:string, title: string, date: string, speaker: string, speaker_desc: string, poster: string, youtubeID: string, abstract: string
+}
+
+export interface MagazineProps {
+  id: string,
+  link: string,
+  coverPage: string,
+  issue: string,
+  releaseMonth: string,
+  description: string
+}
+
+export function NewSticker({ releaseMonth }: { releaseMonth: string }) {
+  // CHECK IF THE MAGAZINE IS RELEASED WITHIN TWO MONTHS
+  // FROM THE CURRENT DAY
+  // IF SO, ADD A NEW! STICKER 
+  let now = Date.now();
+  if (now - Date.parse(releaseMonth) < 5270400000) {
+    return (
+      <div className="new-sticker">
+        <span className="sticker"></span>
+        <span className="new">NEW!</span>
+      </div>
+    )
+  }
 }
 
 export function AddSocialIcon({ link, type }: { link: string, type: string }) {

@@ -2,6 +2,7 @@
 import { Metadata } from "next"
 import SimpleImageSlider from "react-simple-image-slider";
 
+// ADD LOCATION OF IMAGES TO BE USED IN THE SLIDER HERE
 const elevenInch = [
   { url: "/photos/11inch-1.JPG" },
   { url: "/photos/11inch-3.jpg" },
