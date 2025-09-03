@@ -12,16 +12,20 @@ export const metadata: Metadata = {
 export default async function Team() {
   const teamFile = await fs.readFile(process.cwd() + '/data/team.json', 'utf8');
   const teamData = JSON.parse(teamFile);
+
+  // Dynamic parameter
+  const academicYear = '2025-2026';
+
   return (
     <main id="section-team">
       <h1 className="page-heading">Meet Our Team</h1>
       <p className="page-description">NAC comprises of 13 sub-committees, all devoted to different purposes to make its functioning as smooth as possible. We also have senior members of the club on the advisory committee helping us along the way.</p>
 
       <h2 className="team-heading">Core Committee</h2>
-      <h3 className="team-heading-year">2024-2025</h3>
+      <h3 className="team-heading-year">{academicYear}</h3>
 
       <div className="team-grid">
-        {teamData.present.map(({ id, name, batch, image, role, email, insta, linkedin, other, dept }: TeamProps) => (
+        {teamData.core.map(({ id, name, batch, image, role, email, insta, linkedin, other, dept }: TeamProps) => (
           <figure className="person-card" key={id}>
             <Image src={`/team/${image}`} width={230} height={230} alt={`${name}`} />
             <figcaption>
@@ -40,7 +44,7 @@ export default async function Team() {
       </div>
 
       <h2 className="team-heading">Advisory Committee</h2>
-      <h3 className="team-heading-year">2025-2026</h3>
+      <h3 className="team-heading-year">{academicYear}</h3>
 
       <div className="team-grid">
         {teamData.advisory.map(({ id, name, batch, image, role, email, insta, linkedin, other, dept }: TeamProps) => (

@@ -3,7 +3,7 @@
         {
             "name": "Eccentricity of the Moon's Orbit using a Smartphone and the 6-inch telescope",
             "description": "Utilizing a smartphone and a 6-inch telescope, Subhajit, Swayamjit, Aditya, and Anshika (Batch 23) skillfully calculated the eccentricity of the Moon's orbit. The project was conceptualized and supported by Pratik and Rabi (Batch 22).",
-            "image": "moon-composite.jpg",
+            "image": "/astrophotographs/moon-composite.jpg",
             "link": "/projects/Eccentricity_of_moon"
         },
         {
@@ -12,7 +12,6 @@
             "image": "/astrophotographs/moon_composite.jpg",
             "link": "/projects/OrbitalMoonPeriodPhone"
         },
-    
         {
             "name": "The Ballet of the Medicean Stars",
             "description": "Our aim here was to find out the time-period of 4 bright moons of Jupiter (IO, Callisto, Ganymede, and Europa) on pure experimental background i.e., without using any theoretical knowledge. Further we also used the data to find the mass of Jupiter using some basic literature on the topic.",

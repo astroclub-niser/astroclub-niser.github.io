@@ -3,11 +3,12 @@
         {
             "eventName":"Astro Treasure Hunt",
             "eventDate": "Coming Soon!",
+            "eventLink": "",
+            "shortDesc": "",
             "images": [
                 "2025/treasure hunt.png"
             ]
-        }
-        
+        }        
     ],
     "year24": [
         {

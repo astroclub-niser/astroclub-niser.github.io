@@ -8,7 +8,7 @@ export interface EventProps {
     eventDate: string,
     shortDesc: string,
     images: string,
-    blogEntry: string
+    eventLink: string
 }
 
 function ReadMore({ link }: { link: string }) {
@@ -19,7 +19,7 @@ function ReadMore({ link }: { link: string }) {
     }
 }
 
-export default function EventCard({ key, eventName, eventDate, shortDesc, images, blogEntry }: EventProps) {
+export default function EventCard({ key, eventName, eventDate, shortDesc, images, eventLink }: EventProps) {
     return (
         <figure className="event" key={key}>
             <div className="event-img">
@@ -29,8 +29,7 @@ export default function EventCard({ key, eventName, eventDate, shortDesc, images
                 <p className="event-name">{eventName}</p>
                 <p className="event-date">{eventDate}</p>
                 <p className="event-desc">{shortDesc}</p>
-                {/* <BlogEntryBtn blogEntry={blogEntry} />   */}
-                <ReadMore link={blogEntry}></ReadMore>
+                <ReadMore link={eventLink}></ReadMore>
                 </div>
         </figure>
     )

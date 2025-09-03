@@ -4,7 +4,7 @@
             "name": "Samarth Mohan Nanjannavar",
             "batch": 2021,
             "image": "samarth.jpg",
-            "role": "Experiments Team Lead",
+            "role": "Former Experiments Team Lead",
             "email": "samarthm.nanjannavar@niser.ac.in",
             "dept": "SPS",
             "caption": "This a place where you explore science the way you want. Use this platform to it's full extent to understand more science and grow. Finally you will have a place with lot of loveable memories at NISER😁."
@@ -13,21 +13,9 @@
             "name": "Hrishikesh Malladi",
             "batch": 2021,
             "image": "hrishikesh.jpg",
-            "role": "Club Representative",
+            "role": "Former Club Representative",
             "email": "hrishikesh.malladi@niser.ac.in",
             "dept": "SPS"
-        },
-        {
-            "name": "Abhinav Roy",
-            "batch": 2020,
-            "image": "abhinav.JPG",
-            "role": "Former Club Representative",
-            "email": "abhinav.roy@niser.ac.in",
-            "dept": "SPS",
-            "caption": "Ad Astra, Per Aspera.",
-            "insta": "currently_planning_a_lot",
-            "linkedin": "",
-            "other": "https://sites.google.com/view/abhinav-roy/home"
         },
         {
             "name": "Srusti Sampanna",
@@ -47,50 +35,17 @@
             "dept": "SMS"
         },
         {
-            "name": "Aniket Nath",
-            "batch": 2020,
-            "image": "aniket.jpg",
-            "role": "Core Member",
-            "caption": "... and the rest is rust and stardust.",
-            "email": "aniket.nath@niser.ac.in",
-            "insta": "",
-            "linkedin": "aniket-nath-niser",
-            "other": "https://aniket-nath.github.io/",
-            "dept": "SPS"
-        },
-        {
-            "name": "Niti Singh",
-            "batch": 2020,
-            "image": "niti.jpg",
-            "role": "Former Club Representative",
-            "caption": "Admiring stars for the energy it has? or wishing for its power to withstand the ash?",
-            "email": "niti.singh@niser.ac.in",
-            "linkedin": "niti-singh-601653223",
-            "insta": "nat_s__009",
-            "dept": "SPS"
-        },
-        {
-            "name": "Upasana Das",
-            "batch": 2020,
-            "image": "upasana.jpg",
-            "role": "Former Magazine Team Lead",
-            "email": "upasana.das@niser.ac.in",
-            "insta": "upasana_das",
-            "linkedin": "upasana-das-01ud",
-            "dept": "SPS"
-        },
-        {
-            "name": "Sagar Prakash Barad",
-            "batch": 2020,
-            "image": "sagar.jpg",
-            "role": "Former Magazine Team Lead",
-            "email": "sagar.barad@niser.ac.in",
+            "name": "Gayatri P",
+            "batch": 2022,
+            "image": "gayatri.jpg",
+            "role": "Former Website Team Lead",
+            "email": "gayatri.p@niser.ac.in",
+            "other": "https://gayatri-p.github.io/",
+            "linkedin": "gayatri-p-a7a348267",
             "dept": "SPS"
         }
     ],
-    "present": [
-        
-
+    "core": [
         {
             "name": "SriUma Maheshwari V",
             "batch": 2022,
@@ -173,15 +128,6 @@
             "dept": "SPS"
         },
         {
-            "name": "Gayatri",
-            "batch": 2022,
-            "image": "gayatri.jpg",
-            "role": "Website Team Lead",
-            "email": "gayatri.p@niser.ac.in",
-            "linkedin": "gayatri-p-a7a348267",
-            "dept": "SPS"
-        },
-        {
             "name": "Pratik Popat Kalel",
             "batch": 2023,
             "image": "pratik.jpg",
@@ -256,320 +202,6 @@
             "email": "shakshi.sinha@niser.ac.in",
             "insta": "",
             "dept": "SPS"
-        }
-    ],
-    "alumni": [
-       
-        {
-            "name": "Abhipsa Mishra",
-            "batch": 2018,
-            "image": "user.jpg",
-            "role": "Former Talks Representative & Kshitij Editor",
-            "dept": "SPS"
-        },
-        {
-            "name": "S Rajalakshmi",
-            "batch": 2019,
-            "image": "rajalakshmi.jpg",
-            "role": "Former Editor, KSHITIJ",
-            "email": "vistavision.rs@gmail.com",
-            "insta": "vista_vision",
-            "dept": "SPS"
-        },
-        {
-            "name": "Maitrey Sharma",
-            "batch": 2019,
-            "image": "maitrey.jpg",
-            "role": "Former Editor, KSHITIJ & Event Horizon",
-            "email": "km.maitrey@gmail.com",
-            "dept": "SPS",
-            "other": "https://kmaitreys.github.io/"
-        },
-        {
-            "name": "Devamrutha IS",
-            "batch": 2019,
-            "image": "devamrutha.jpg",
-            "role": "Former Talks & Newsletter Respresetative", 
-            "email": "devamrutha.is@niser.ac.in",
-            "dept": "SPS"
-        },
-        {
-            "name": "Ratul Das",
-            "batch": 2019,
-            "image": "ratul.jpg",
-            "role": "Former Magazine Editor, KSHITIJ",
-            "email": "ratul.das@niser.ac.in",
-            "dept": "SPS"
-        },
-        {
-            "name": "Gayathri Santhosh",
-            "batch": 2019,
-            "image": "gayathri.jpg",
-            "role": "Former Editor-in-Chief, KSHITIJ",
-            "email": "gayathri.santhosh@niser.ac.in",
-            "dept": "SPS"
-        },
-        {
-            "name": "Sourav Kumar Sahu",
-            "batch": 2019,
-            "image": "sourav.jpg",
-            "role": "Former Astrophotography Representative", 
-            "email": "sourav.sahu@niser.ac.in",
-            "insta": "52_shades_of_a_deck",
-            "dept": "SPS"
-        },
-        {
-            "name": "Chandan Kumar Sahu",
-            "batch": 2019,
-            "image": "chandan.jpg",
-            "role": "Former Club Representative",               
-            "email": "chandankumar.sahu@niser.ac.in",
-            "dept": "SPS"
-        },
-        {
-            "name": "Dibya Bharati Pradhan",
-            "batch": 2019,
-            "image": "dibya.jpg",
-            "role": "Former Club Representative",
-            "email": "dibyabharati.pradhan@niser.ac.in",
-            "dept": "SPS"
-        },
-        {
-            "name": "Aheesh Chandrakant Hegde",
-            "batch": 2019,
-            "image": "aheesh.png",
-            "role": "Former Talks Representative",
-            "email": "aheesh.hegde@niser.ac.in",
-            "dept": "SPS",
-            "insta": "i.ahee",
-            "caption": "Many might have said this to you.. but still Happy Birthday.. no sorry to be serious this has been one of the unexpectedly great community. Find Friends, Fun and Foster. "
-        },
-        {
-            "name": "Abha Vishwakarma",
-            "batch": 2019,
-            "image": "abha.jpg",
-            "role": "Core Member",
-            "caption": "Its really nice to be a part of such an active community of people who love Astrophysics so much!",
-            "email": "abha.vishwakarma@niser.ac.in",
-            "insta": "penguins.wanna.fly.too",
-            "linkedin": "abha-vishwakarma",
-            "other": "https://sites.google.com/view/abhavishwakarma/",
-            "dept": "SPS"
-        },
-        {
-            "name": "R Vasanth Kashyap",
-            "batch": 2019,
-            "image": "vasanth.jpg",
-            "role": "Club Legend",
-            "email": "vasanth.kashyap@niser.ac.in",
-            "dept": "SPS",
-            "caption": "Look up and get lost",
-            "insta": "vasanth_kashyap",
-            "linkedin": "vasanth-kashyap",
-            "other": "https://sites.google.com/niser.ac.in/vasanth-kashyap"
-        },
-        {
-            "name": "Adesh Natthuji Thawale ",
-            "batch": 2018,
-            "image": "adesh.jpg",
-            "caption": "Pale blue dot.",
-            "email": "adesh.thawale@gatech.edu",
-            "insta": "nearacidrat.pdf",
-            "linkedin": "",
-            "role":"Club Legend",
-            "dept": "SCS"
-        },
-        {
-            "name": "Akshay Priyadarshi",
-            "batch": 2016,
-            "image": "akshay.jpeg",
-            "role": "Former Club Representative",
-            "dept": "SPS",
-            "email": "priyadarshi.akshay@outlook.com",
-            "insta": "ak_darshi",
-            "linkedin": "PriyadarshiAkshay"
-        },
-        {
-            "name": "Anamika Jatheendran",
-            "batch": 2017,
-            "image": "anamika.jpg",
-            "dept": "SPS",
-            "role": "1st Editor-in-Chief (Kshitij)",
-            "caption": "The experience and exposure provided by NAC is really valuable. So do participate, learn new things and have fun :)",
-            "email": "anamikajatheendran@gmail.com",
-            "insta": "anamika_prabha"
-        },
-        {
-            "name": "Anshuman Padhi",
-            "batch": 2018,
-            "image": "anshuman.jpeg",
-            "role": "Former Club Representative",
-            "caption": "NAC has been the best and the most independent club of NISER and it is because we are a highly motivated team. NAC has shaped me as a person, while giving me sheer joy in life.",
-            "email": "padhi.anshuman31@gmail.com",
-            "insta": "anshuman.padhi",
-            "linkedin": "anshuman-padhi-4379701ab",
-            "other": "ph:+49-155100377882",
-            "dept": "SPS"
-        },
-        {
-            "name": "Chandranathan A",
-            "batch": 2017,
-            "image": "chandranathan.jpg",
-            "dept": "SPS",                
-            "role": "Former Training Team Member & Kshitij Editor",
-            "email": "777chand@gmail.com",
-            "insta":"chandru_6.626"
-        },
-        {
-            "name": "Danush Shekar",
-            "batch": 2017,
-            "image": "user.jpg",
-            "role": "Former Talks in-charge & Designer of the NAC Logo",
-            "dept": "SPS"
-        },
-        {
-            "name": "Datti Raga Sahiti",
-            "batch": 2018,
-            "image": "raga_sahiti.jpeg",
-            "role": "Former Editor-in-Chief",
-            "insta": "raga_sahiti",
-            "email": "ragasahitid@gmail.com",
-            "dept": "SBS"
-        },
-        {
-            "name": "Lt. Debashish Jena",
-            "batch": 2014,
-            "image": "user.jpg",
-            "dept": "SPS"
-        },
-        {
-            "name": "E A Sreeram",
-            "batch": 2016,
-            "image": "sreeram.jpg",
-            "caption": "The club has grown a lot and you guys are doing a wonderful job. We're just waiting for the latest stunning pictures to drop!!",                "email": "sreerameak@gmail.com",
-            "role":"Former Training Team & Astrophotography Team Member",
-            "insta": "easreeram",
-            "linkedin": "easreeram",
-            "dept": "SPS"
-        },
-        {
-            "name": "Himanshu Raj",
-            "batch": 2008,
-            "image": "user.jpg",
-            "dept": "SPS"
-        },
-        {
-            "name": "Karan",
-            "batch": 2017,
-            "image": "karan.jpg",
-            "caption": "",
-            "email": "karan42mahajan@gmail.com",
-            "insta": "karanprobably",
-            "linkedin": "",
-            "role":"Club Legend",
-            "dept": "SPS"
-        },
-        {
-            "name": "Kishan Deka",
-            "batch": 2017,
-            "image": "user.jpg",
-            "dept": "SPS",
-            "role": "Former Observation Session in-charge & Events Organiser"
-        },
-        {
-            "name": "Kishore Sourav",
-            "batch": 2017,
-            "image": "kishore.jpg",
-            "dept": "SPS",
-            "role": "Former Observation Session in-charge & Events Organiser"
-        },
-        {
-            "name": "Nikhil Keshav",
-            "batch": 2018,
-            "image": "nikhil_keshav.jpg",
-            "dept": "SPS",
-            "role": "Former Observation Session in-charge"
-        },
-        {
-            "name": "Nisarg Vyas",
-            "batch": 2017,
-            "image": "user.jpg",
-            "dept": "SPS"
-        },
-        {
-            "name": "Pulkit Ojha",
-            "batch": 2018,
-            "image": "pulkit.JPG",
-            "caption": "Stars are living organisms. They take birth, produce remnants, die and take rebirths as zombies. ",                "email": "pulkitojha0901@gmail.com",
-            "role":"Club Legend",
-            "insta": "o.pulkit",
-            "linkedin": "pulkit-ojha-9249171b1",
-            "dept": "SPS"
-        },
-        {
-            "name": "Rutuja Attal",
-            "batch": 2017,
-            "image": "rutuja.jpg",
-            "role": "Head Event Coordinator",
-            "dept": "SPS",
-            "linkedin": "rutuja-attal-63ba7b1b6"
-        },
-        {
-            "name": "Satyam Chandra Mishra ",
-            "batch": 2015,
-            "image": "satyam.jpeg",
-            "caption": "Dear Astronomy Enthusiasts, \nWhen someone says NAC, the first thing that comes into my mind is the friendships formed within the club's close-knit community which were more than just connections; they were constellations in the vast sky of my college experience. The mutual passion for astronomy brought us together, creating a supportive environment fueled our collective journey. In moments of academic challenges or personal trials, it was within the comforting glow of like-minded peers that I found solace and encouragement. NAC became a second home where our shared passion for the cosmos transformed acquaintances into lifelong friends. The wealth of knowledge exchanged during late-night stargazing sessions, discussions about cosmic phenomena, and projects was immeasurable. Each Member brought a unique perspective, enriching our collective understanding of the cosmos.\nTo the future torchbearers of NAC, relish every moment under the star-studded canopy of the club. Treasure the friendships, seek and offer support, and embrace the invaluable lessons that come from your peers. As you embark on your astronomical voyage, I hope you experience the same sense of wonder and camaraderie that defined my tenure. Let the sky serve as a constant reminder of endless possibilities - just as it did for me. In moments of challenge, consider your problems as mere motes of dust against the vast celestial canvas. Embrace the boundless opportunities that the cosmos and the club offer.\nLife, much like the universe, is to be enjoyed to its fullest extent. May your journey in the NISER Astronomy Club be filled with discovery, learning, and unforgettable moments.\nHere's to the enduring magic of NAC and the limitless wonders that lie ahead.\nWarm regards,\nSatyam Chandra Mishra\nProud NAC Alumnus",
-            "email": "satyamchandramishra@gmail.com",
-            "role": "Former Club Representative",
-            "insta": "satyam_chandra_mishra",
-            "linkedin": "satyam-chandra-mishra-4b0031230",
-            "dept": "SPS"
-        },
-        {
-            "name": "Swagat Sourav Mishra",
-            "batch": 2008,
-            "image": "swagat.jpg",
-            "dept": "SPS",
-            "email": "swagatam18@gmail.com",
-            "other":"https://swagatam18.wordpress.com/"
-        },
-        {
-            "name": "Ved Prakash Roy",
-            "batch": 2007,
-            "image": "user.jpg",
-            "dept": "SCS"
-        }
-    ],
-    "fics": [
-        {
-            "name": "Dr. Jayesh Mahendra Goyal",
-            "image": "jayesh.jpg",
-            "designation": "Assistant Professor",
-            "school": "School of Earth & Planetary Sciences",
-            "email": "jgoyal@niser.ac.in",
-            "website": "http://www.niser.ac.in/~jgoyal/"
-        },
-        {
-            "name": "Dr. Luke Robert Chamandy",
-            "image": "luke.jpg",
-            "designation": "Reader-F",
-            "school": "School of Physical Sciences",
-            "email": "lchamandy@niser.ac.in"
-        },
-        {
-            "name": "Dr. Liton Majumdar",
-            "image": "liton.png",
-            "designation": "Reader-F",
-            "school": "School of Earth & Planetary Sciences",
-            "email": "liton@niser.ac.in",
-            "website": "http://www.niser.ac.in/~liton/"
-        },
-        {
-            "name": "Dr. Tuhin Ghosh",
-            "image": "tuhin.jpeg",
-            "designation": "Reader-F",
-            "school": "School of Physical Sciences",
-            "email": "tghosh@niser.ac.in"
         }
     ]
 }

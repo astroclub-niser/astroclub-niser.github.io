@@ -1,0 +1,34 @@
+{
+    "fics": [
+        {
+            "name": "Dr. Jayesh Mahendra Goyal",
+            "image": "jayesh.jpg",
+            "designation": "Assistant Professor",
+            "school": "School of Earth & Planetary Sciences",
+            "email": "jgoyal@niser.ac.in",
+            "website": "http://www.niser.ac.in/~jgoyal/"
+        },
+        {
+            "name": "Dr. Luke Robert Chamandy",
+            "image": "luke.jpg",
+            "designation": "Reader-F",
+            "school": "School of Physical Sciences",
+            "email": "lchamandy@niser.ac.in"
+        },
+        {
+            "name": "Dr. Liton Majumdar",
+            "image": "liton.png",
+            "designation": "Reader-F",
+            "school": "School of Earth & Planetary Sciences",
+            "email": "liton@niser.ac.in",
+            "website": "http://www.niser.ac.in/~liton/"
+        },
+        {
+            "name": "Dr. Tuhin Ghosh",
+            "image": "tuhin.jpeg",
+            "designation": "Reader-F",
+            "school": "School of Physical Sciences",
+            "email": "tghosh@niser.ac.in"
+        }
+    ]
+}
