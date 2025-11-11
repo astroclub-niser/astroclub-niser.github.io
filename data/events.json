@@ -1,20 +1,55 @@
 {
     "upcoming": [
-        {
-            "eventName":"Astro Treasure Hunt",
-            "eventDate": "Coming Soon!",
+              
+    ],
+    "year25": [
+         {
+            "eventName":"Umang '25",
+            "eventDate": "October 26th, 2025",
             "eventLink": "",
             "shortDesc": "",
             "images": [
-                "2025/treasure hunt.png"
+                "2025/Umang 25.jpg"
             ]
-        }        
+        },
+        {
+            "eventName": "Supernova Sabotage",
+            "eventDate": "October 8-10th, 2025",
+            "shortDesc": "Nova trapped in his home planet needed help! ",
+            "images": [
+                "2025/Treasure Hunt.png"
+            ]
+        },
+        {
+            "eventName":"Blood Moon Observation",
+            "eventDate": "September 7th 2025",
+            "shortDesc": "India was witnessing a total lunar eclipse after 6 years and NAC was all set to get the NISER community to view this amazing spectacle. Under the red glow of the moon, the rooftop was filled with enthusiastic students and professors, head filled with questions. Three telescopes were set up, each displaying the eclipse in varying magnifications. For the eager few that stayed up, a possible sighting of the International Space Station was up for grabs. Unfortunately, the sky gods denied us a sight of it.",
+            "images": [
+                "2025/Blood Moon.jpg"
+            ]
+        },
+        {
+            "eventName":"Induction Batch25",
+            "eventDate": "September 6th, 2025",
+            "shortDesc": "The club expanded its family with the induction of members from the new batch. The induction quiz was conducted by the club's senior most member on campus, Abhinav bhaiya. We inducted around 50 eager members from the junior-most batch and are all set to welcome them into the club activities.",
+            "images": [
+                "2025/Induction 25.jpg"
+            ]
+        },
+        {
+            "eventName": "Farewell Batch '20 ",
+            "eventDate": "August 15, 2025",
+            "shortDesc": "Bye Bye Batch '20! As a token of gratitude for the contributions of the Batch 20 seniors, the Astro Club organized a minimalistic farewell event on the evening of August 15th. The gathering included fun games and casual conversations, allowing the seniors to reminisce and share their experiences with the younger members under the open night sky at the SPS Rooftop.",
+            "images": [
+                "2025/Farewell B20.png"
+            ]
+        } 
     ],
     "year24": [
         {
             "eventName": "A \"Highly Commended\" honor received in Astronomad's APERTURE: Indian Astrophotography Competition",
             "eventDate": "December 22, 2024",
-            "shortDesc": "A huge thank you to astronomadsbangla for this incredible opportunity. Our image of Jupiter (p.c.:Vishal Meena and NAC) was exhibited at the \"Lights of Cosmos\" exhibition at the M.P. Birla Plantetarium, Kolkata. It was also featured in the prestigious IAPY 2024 Yearbook, published online on December 22nd 2024.",
+            "shortDesc": "A huge thank you to our beloved seniors for all the knowledge and guidance. And as a token of grattitude we organiseOur image of Jupiter (p.c.:Vishal Meena and NAC) was exhibited at the \"Lights of Cosmos\" exhibition at the M.P. Birla Plantetarium, Kolkata. It was also featured in the prestigious IAPY 2024 Yearbook, published online on December 22nd 2024.",
             "blogEntry": "",
             "images": [
                 "2024/astrcomp.jpeg"

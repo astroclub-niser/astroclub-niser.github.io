@@ -1,6 +1,13 @@
 {
     "magazines": [
         {
+            "link": "https://drive.google.com/file/d/1y6G1j52CSdxNcBdfoqaYEBcDLy-F1mHm/view",
+            "coverPage": "/kshitij/Kshitij_Nov_2025.jpg",
+            "issue": "Issue 06",
+            "releaseMonth": "November 2025",
+            "description": ""
+        },
+        {
             "link": "https://drive.google.com/file/d/1vsY3vub7Wr82K92rTX3kV69f9AOWQOT0/view",
             "coverPage": "/kshitij/Kshitij_Aug_2024.jpg",
             "issue": "Issue 05",
