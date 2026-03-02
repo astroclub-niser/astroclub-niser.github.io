@@ -3,7 +3,16 @@
               
     ],
     "year25": [
-         {
+        {
+            "eventName":"NISER open day '25",
+            "eventDate": "Novemb 08, 2025",
+            "eventLink": "",
+            "shortDesc": "The NISER Open Day was a success with the NAC hosting a variety of experimental demonstrations for the students coming from different schools",
+            "images": [
+                "2025/niser.jpg"
+            ]
+        },
+        {
             "eventName":"Umang '25",
             "eventDate": "October 26th, 2025",
             "eventLink": "",

@@ -102,12 +102,6 @@
             "dept": "SCS"
         },
         {
-            "name": "Shiva Thanay Pandiri & Vishal Meena",
-            "batch": 2022,
-            "image": "siva.jpg",
-            "role": "Sessions Team Co-leads"
-        },
-        {
             "name": "Shibasis Divyajyoti",
             "batch": 2022,
             "image": "user.jpg",
@@ -132,7 +126,7 @@
             "name": "Pratik Popat Kalel",
             "batch": 2023,
             "image": "pratik.jpg",
-            "role": "Experiments Team Co-Lead",
+            "role": "Experiments Team Co-Lead & Outreach Team Lead",
             "email": "kalelpratik.p@niser.ac.in",
             "insta": "pratik_kalel24",
             "linkedin": "kalel-pratik-popat-a3384b348",
@@ -175,20 +169,10 @@
             "dept": "SCS"
         },
         {
-            "name": "Diya Verma",
-            "batch": 2024,
-            "image": "diyav.jpg",
-            "role": "Outreach Team Lead",
-            "email": "diya.verma@niser.ac.in",
-            "insta": "diyav0928",
-            "linkedin": "diya-verma-79248a324",
-            "dept": "SPS"
-        },
-        {
             "name": "Rishi Kumar Vura",
             "batch": 2024,
             "image": "rishi.jpg",
-            "role": "Events co-lead",
+            "role": "Events Team co-lead",
             "email": "rishikumar.vura@niser.ac.in",
             "insta": "rishi_vnsrkv",
             "linkedin": "rishi-kumar-vura-93b288276",
@@ -199,7 +183,7 @@
             "name": "Shakshi Sinha",
             "batch": 2024,
             "image": "shakshi.jpg",
-            "role": "Events co-lead",
+            "role": "Events Team co-lead & Session Team Lead",
             "email": "shakshi.sinha@niser.ac.in",
             "insta": "",
             "dept": "SPS"
