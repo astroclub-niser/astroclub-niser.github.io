@@ -2,6 +2,15 @@
     "upcoming": [],
     "faculty": [
         {
+            "title": "How life chemically originated on the ‘Pale Blue Dot’: An Astrobiological Narrative",
+            "date": "January 30, 2026",
+            "speaker": "Dr. Sudha Rajmani",
+            "speaker_desc": "Professor, IISER Pune",
+            "poster": "30-01-2026.png",
+            "youtubeID": "",
+            "abstract": "A central aspect of Astrobiology research pertains to delineating how life came about on our planet. The story is very ancient, intriguing, complex and continues to be one of the most fascinating scientific mysteries. It involves understanding how the transition from chemistry to biology would have occurred on Earth several billion years ago, much before any life as we now know even came about. Though this non-trivial puzzle is still missing many pieces, I will outline the current understanding prevalent in the field. In addition to having important implications for understanding whether there is life elsewhere in the Universe, I hope that this talk will get us thinking even more deeply about the only home we might ever know!"
+        },
+        {
             "title": "Shapes, Structures and Randomness",
             "date": "November 11, 2023",
             "speaker": "Dr. Pravabati Chingangbam",
@@ -20,13 +29,42 @@
             "abstract": "We know that gravity is just the curvature of the spacetime. A mass curves the spacetime around it, and both massive and massless particles follow the curvature of the spacetime. Motion (translational, rotational or vibrational) of massive particles generate ripples in the spacetime or gravitational waves. Like electromagnetic waves, gravitational waves also have a wide range of frequencies. Gravitational waves of different frequencies are created by different sources āand we need different types of detectors to detect them. There is an innovative āmethod to detect low-frequency gravitational waves by using a number of undead stars as the detectors. These low-frequency gravitational waves are caused by mergers of supermassive black holes, and not only one mergers, many mergers resulting a summed-up background wave. As pulsars are the special type of undead star used for this purpose, we call such experiments as Pulsar Timing Array experiments. Presently, there are multiple Pulsar Timing Array experiments ongoing in various continents. These groups recently declared their results revealing a hint of the low-frequency gravitational waves. Indian Pulsar Timing Array (InPTA) is an Indo-Japanese collaboration performing PTA experiment using Indian telescope, the upgraded Giant Metrewave Radio Telescope. In the present talk, I will briefly discuss low-frequency gravitational waves, the basics of a PTA experiment, and the contribution of InPTA in this field."
         }
     ],
+        "year26":[
+        {
+            "title": " Matter-Antimatter and ?",
+            "date": "February 07, 2026",
+            "speaker": "Sattvik Yadav",
+            "speaker_desc": "Int. M.Sc. (B22), SPS, NISER",
+            "poster": "",
+            "youtubeID": "ZcGDQYG030E",
+            "abstract": " We all know that X2= 1 has two solutions: +1 and -1, so does matter? Talk takes you on a journey from an initial mathematical spark to the one of the biggest observational mysteries of universe, the Matter-Antimatter Asymmetry. If the Big Bang produced equal amounts of both, where did all the antimatter go? We will explore the \"Standard Model\" explanation, but then venture into a more exotic possibility: the existence of surviving \"islands\" of antimatter in the deep universe. Could there be antimatter stars burning in the distance? How would they form, and more importantly, how would we spot them? "
+        },
+        {
+            "title": "Modern Tools for Magnetic Fields ",
+            "date": "January 17, 2026",
+            "speaker": "Vasanth Kashyap",
+            "speaker_desc": "Int. M.Sc. (B19), SPS, NISER , PhD Scholar, Scuola Normale Superiore(Italy)",
+            "poster": "",
+            "youtubeID": "lIb_7VYdyjo",
+            "abstract": "Simulating magnetic fields using Magnetohydrodynamics (MHD) is far from easy, even a tiny numerical error can make a simulation collapse into meaningless results. In this session, we will learn how modern computational tools tackle this problem and allow researchers to study the universe with remarkable accuracy. "
+        }   
+    ],
     "year25":[
+        {
+            "title": " Structure of Dark Matter Halos in Cosmological Simulations",
+            "date": "November 15, 2025",
+            "speaker": "Ayan Nanda",
+            "speaker_desc": "PhD Scholar , SPS, NISER",
+            "poster": "",
+            "youtubeID": "2gU__U5vmdE",
+            "abstract": "Galaxies are thought to form inside giant clumps of invisible matter called dark matter halos (DMHs). These halos act like cosmic scaffolds, shaping how galaxies grow and evolve. In the last three decades, people described them using simple, spherical models. But both observations and computer simulations now show that real halos are not perfectly round — they are more like stretched or squashed ellipsoids.In this talk, I will explore how the shapes of these halos change over time. By treating them as triaxial ellipsoids (with three different axes), we can measure how elongated or flattened they are. I will also show how halos can be grouped into oblate (flattened), triaxial (intermediate), and prolate (elongated) types, and how their proportions evolve. Finally, I will explain how a 3D structure of halos can be used to describe asphericity."
+        },
         {
             "title": "Cosmic Dust to Living Cell: A brief of Astrobiology ",
             "date": "October 17, 2025",
             "speaker": "Kalel  Pratik Popat",
             "speaker_desc": "Int. M.Sc. (B23), SBS, NISER",
-            "poster": "",
+            "poster": "17-10-2025.png",
             "youtubeID": "Mbn-7OhkaTU",
             "abstract": "Astrobiology seeks to answer one of humanity’s most profound questions: how did life begin, and could it exist elsewhere in the universe? This talk  traces the fascinating journey from cosmic dust to the dawn of the first living cell. We begin with Earth’s early formation, an era when the planet transformed from a chaotic, molten world into a stable, life-friendly environment. From there, we follow the gradual assembly of simple molecules into increasingly complex structures that began to mimic the functions of life. These primitive systems developed membranes resembling early cell boundaries, chemical networks that hinted at metabolism, and rudimentary information carriers that foreshadowed genetic material. Step by step, chemistry turned into biology. All these processes ultimately converged in the creation of the first primitive cell. This story reveals how natural forces shaped the boundary between the non-living and the living, setting the stage for all life as we know it."
         },
@@ -74,6 +112,15 @@
             "poster": "",
             "youtubeID": "CfkH6zvQCRY",
             "abstract": "The study of the structure of magnetic fields in spiral galaxies has been an active field of research in the past few decades. Methods have been developed to study the overall structure of the regular magnetic field in spiral galaxies using radio polarised emissions from synchrotron radiations.  I will briefly discuss the synchrotron, cyclotron radiation and Faraday rotation. Also, I will discuss how the Stokes I, Q, U and V maps are used to obtain the polarisation angle of the synchrotron radiation coming from galaxies. Lastly, I will discuss the model used to determine the structure of the magnetic fields."
+        },
+         {
+            "title": "Construction of Dark Matter Halo Merger Trees - A Semi-analytical Approach",
+            "date": "March 29, 2025",
+            "speaker": "Aniket Nath",
+            "speaker_desc": "Int. M.Sc. (B20), SPS, NISER",
+            "poster": "29-03-2025.png",
+            "youtubeID": "",
+            "abstract": "Dark Matter Halo Merger trees are crucial in understanding the formation and evolution of large-scale structures for a given Cosmology. In this talk, we will discuss how we can understand our universe better with halo merger trees and how these trees help us quantify different properties of the Universe."
         },
         {
             "title": "Eccentricity of Moon's orbit using a smartphone and the 6-inch telescope ",
