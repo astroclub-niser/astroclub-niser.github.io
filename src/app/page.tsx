@@ -89,7 +89,7 @@ export default async function Home() {
         </div>
         <div className="magazine-previews">
 
-          {/* SHOW THE LAST 4 ISSUES, CHANGE THE SLICE VALUE TO DETERMINE WHAT GETS DISPLAYED */}
+          {/* SHOW THE LAST 6 ISSUES, CHANGE THE SLICE VALUE TO DETERMINE WHAT GETS DISPLAYED */}
           {magazineData.magazines.slice(0,6).map(({ id, link, coverPage, issue, releaseMonth, description }: MagazineProps) => (
 
             <figure key={id}>

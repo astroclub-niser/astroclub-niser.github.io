@@ -1,3 +1,5 @@
+// Redundant (not used)
+
 import Link from 'next/link'
 import { getAllPosts } from '../../../lib/api'
 

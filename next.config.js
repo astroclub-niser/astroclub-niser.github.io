@@ -1,7 +1,8 @@
 const path = require('path')
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: "export",
+  // never comment out on github commits
+  output: "export", // output export not needed for running locally
   // sassOptions: {
   //     includePaths: [path.join(__dirname, 'styles')],
   // },
