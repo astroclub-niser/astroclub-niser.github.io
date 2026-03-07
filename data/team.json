@@ -169,10 +169,21 @@
             "dept": "SCS"
         },
         {
+            "name": "Abhijnan Saraswat Gogoi",
+            "batch": 2024,
+            "image": "abhijnan.jpeg",
+            "role": "Website Team Lead",
+            "caption": "",
+            "email": "abhijnans.gogoi@niser.ac.in",
+            "insta": "",
+            "linkedin": "abhijnangogoi",
+            "dept": "SPS"
+        },
+        {
             "name": "Rishi Kumar Vura",
             "batch": 2024,
             "image": "rishi.jpg",
-            "role": "Events Team co-lead",
+            "role": "Events Team Co-Lead",
             "email": "rishikumar.vura@niser.ac.in",
             "insta": "rishi_vnsrkv",
             "linkedin": "rishi-kumar-vura-93b288276",
@@ -183,7 +194,7 @@
             "name": "Shakshi Sinha",
             "batch": 2024,
             "image": "shakshi.jpg",
-            "role": "Events Team co-lead & Session Team Lead",
+            "role": "Events Team Co-Lead & Session Team Lead",
             "email": "shakshi.sinha@niser.ac.in",
             "insta": "",
             "dept": "SPS"
