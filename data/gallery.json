@@ -1,6 +1,11 @@
 {
     "gallery": [
         {
+            "image": "2026/constelli.jpeg",
+            "date": "April 01, 2026",
+            "description": "Constelli - Game night"
+        },
+        {
             "image": "2025/clean.jpg",
             "date": "",
             "description": "Cleaning the telescope room with ghosts..."

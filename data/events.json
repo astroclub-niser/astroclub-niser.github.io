@@ -2,6 +2,17 @@
     "upcoming": [
               
     ],
+    "year26": [
+        {
+            "eventName":"Constelli - A game night with the cosmos",
+            "eventDate": "April 01, 2026",
+            "eventLink": "",
+            "shortDesc": "",
+            "images": [
+                "2026/constelli.jpeg"
+            ]
+        }
+    ],
     "year25": [
         {
             "eventName":"NISER open day '25",
